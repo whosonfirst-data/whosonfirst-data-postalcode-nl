@@ -2,37 +2,58 @@
   "id": 538957909,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000937,
+    "geom:area_square_m":6948161.88134,
+    "geom:bbox":"6.0426402092,53.1176300049,6.08354473114,53.1457061768",
+    "geom:latitude":53.132049,
+    "geom:longitude":6.061882,
     "gp:parent_id":"12592402",
     "iso:country":"NL",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473791,
+        85633337,
+        101807429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12853527"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7583a4e1a35e8403d04dc5f430268b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473791,
+            "locality_id":101807429,
+            "postalcode_id":538957909,
+            "region_id":85687055
+        }
+    ],
     "wof:id":538957909,
-    "wof:lastmodified":1460095476,
+    "wof:lastmodified":1469544102,
     "wof:name":"9218",
-    "wof:parent_id":-1,
+    "wof:parent_id":101807429,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    6.042640209197998,
+    53.11763000488281,
+    6.083544731140137,
+    53.14570617675781
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[6.07917594909668,53.14443206787109],[6.08041954040527,53.14319610595703],[6.08354473114014,53.13375091552734],[6.07497882843018,53.12053298950195],[6.05141878128052,53.11763000488281],[6.042640209198,53.1202392578125],[6.04322957992554,53.1370849609375],[6.04551124572754,53.14330291748047],[6.04811525344849,53.1435432434082],[6.05338001251221,53.14402389526367],[6.07627725601196,53.14570617675781],[6.07917594909668,53.14443206787109]]],"type":"Polygon"}
 }

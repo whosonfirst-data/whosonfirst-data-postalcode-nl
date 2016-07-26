@@ -2,51 +2,55 @@
   "id": 538961875,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.001648,
+    "geom:area_square_m":12391493.094266,
+    "geom:bbox":"5.68037891388,52.5236320496,5.76817512512,52.5784721375",
+    "geom:latitude":52.54786,
+    "geom:longitude":5.718758,
     "iso:country":"NL",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474527,
+        404473965,
         85633337,
-        101839289
+        85687049
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"15005253"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"62b3287d31a5f80ea358bb159c86e409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474527,
-            "locality_id":101839289,
+            "localadmin_id":404473965,
             "postalcode_id":538961875,
-            "region_id":85687033
+            "region_id":85687049
         }
     ],
     "wof:id":538961875,
-    "wof:lastmodified":1460095597,
+    "wof:lastmodified":1469544097,
     "wof:name":"8253",
-    "wof:parent_id":"101839289",
+    "wof:parent_id":404473965,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    5.680378913879395,
+    52.52363204956055,
+    5.76817512512207,
+    52.57847213745117
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[5.6803789138794,52.53735733032227],[5.6803936958313,52.53761291503906],[5.68072414398193,52.53903961181641],[5.6817364692688,52.5414924621582],[5.6820387840271,52.54200744628906],[5.68208503723145,52.54205322265625],[5.68221998214722,52.54218292236328],[5.6824688911438,52.54238891601562],[5.75827121734619,52.57723999023438],[5.75847816467285,52.57733917236328],[5.76397514343262,52.57836532592773],[5.76459550857544,52.57847213745117],[5.76795864105225,52.57838821411133],[5.76817512512207,52.57784652709961],[5.71409797668457,52.52673721313477],[5.69524955749512,52.52363204956055],[5.68597745895386,52.53061294555664],[5.6803789138794,52.53735733032227]]],"type":"Polygon"}
 }
