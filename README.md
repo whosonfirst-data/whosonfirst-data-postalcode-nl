@@ -6,7 +6,7 @@
 
 This dataset is incomplete and approximate.
 
-Specifically of the [3,782 records](data) included in this repository 1.035 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak.
+Specifically of the [3,782 records](data) included in this repository 1,035 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak.
 
 _As of this writing this repository contains only 4-character postal codes. The Netherlands has upwards of 400,000 6-character codes (as found in OpenAddresses) that will be imported shortly._
 
