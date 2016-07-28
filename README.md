@@ -10,7 +10,7 @@ This dataset is incomplete and approximate.
 
 Specifically of the [371, 628 records](data) included in this repository 1, 089 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak. Another 1, 773 records only have single coordinate point rather than a polygon.
 
-366, 843 records are 6-character postal codes which, [according to Wikipedia](), "on average ... comprises eight single addresses". 4, 785 records are the 4-character container postal codes representing region and locality information.
+366, 843 records are 6-character postal codes which, [according to Wikipedia](https://en.wikipedia.org/wiki/Postal_codes_in_the_Netherlands), "on average ... comprises eight single addresses". 4, 785 records are the 4-character container postal codes representing region and locality information.
 
 All of these records have geometries that were derived from the available address data for Netherlands [as provided by OpenAddresses](https://results.openaddresses.io/) on July 23, 2016 which was used to generate polygons using the [Clustr](https://github.com/whosonfirst/Clustr) tool.
 
