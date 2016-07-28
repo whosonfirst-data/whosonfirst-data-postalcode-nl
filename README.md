@@ -1,18 +1,20 @@
 # whosonfirst-data-postalcode-nl
 
+Who's On First postal code data for the Netherlands (NL)
+
 ## About the data
 
 ![clustr](images/nl-oa-clustr.png)
 
 This dataset is incomplete and approximate.
 
-Specifically of the [371, 628 records](data) included in this repository 1, 089 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak. Another 1, 773 records only have single coordinate point rather than a polygon. Here's why:
+Specifically of the [371, 628 records](data) included in this repository 1, 089 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak. Another 1, 773 records only have single coordinate point rather than a polygon.
 
 366, 843 records are 6-character postal codes which, [according to Wikipedia](), "on average ... comprises eight single addresses". 4, 785 records are the 4-character container postal codes representing region and locality information.
 
-![clustr](images/nl-oa-clustr-6.png)
-
 All of these records have geometries that were derived from the available address data for Netherlands [as provided by OpenAddresses](https://results.openaddresses.io/) on July 23, 2016 which was used to generate polygons using the [Clustr](https://github.com/whosonfirst/Clustr) tool.
+
+![clustr](images/nl-oa-clustr-6.png)
 
 All geometries generated using the Clustr tool should be considered approximate as denoted by the `mz:is_approximate` and `mz:is_clustr` properties. In time we expect (hope) that these records will be updated with current and authoritative data provided by the Dutch postal service.
 
