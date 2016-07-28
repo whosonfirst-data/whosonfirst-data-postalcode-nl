@@ -6,15 +6,23 @@
 
 This dataset is incomplete and approximate.
 
-Specifically of the [3,782 records](data) included in this repository 1,035 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak.
+Specifically of the [371, 628 records](data) included in this repository 1, 089 of them lack any geographic data. They are ["visiting Null Island"](https://whosonfirst.mapzen.com/spelunker/nullisland/?iso=nl) so to speak. Another 1, 773 records only have single coordinate point rather than a polygon. Here's why:
 
-_As of this writing this repository contains only 4-character postal codes. The Netherlands has upwards of 400,000 6-character codes (as found in OpenAddresses) that will be imported shortly._
+366, 843 records are 6-character postal codes which, [according to Wikipedia](), "on average ... comprises eight single addresses". 4, 785 records are the 4-character container postal codes representing region and locality information.
 
-The [remaining 3,750 records](https://whosonfirst.mapzen.com/spelunker/placetypes/postalcode/?iso=nl&exclude=nullisland) have geometries that were derived nlom the available address data for Netherlands [as provided by OpenAddresses](https://results.openaddresses.io/) on July 23, 2016 which was used to generate polygons using the [Clustr](https://github.com/whosonfirst/Clustr) tool.
+![clustr](images/nl-oa-clustr-6.png)
+
+All of these records have geometries that were derived from the available address data for Netherlands [as provided by OpenAddresses](https://results.openaddresses.io/) on July 23, 2016 which was used to generate polygons using the [Clustr](https://github.com/whosonfirst/Clustr) tool.
 
 All geometries generated using the Clustr tool should be considered approximate as denoted by the `mz:is_approximate` and `mz:is_clustr` properties. In time we expect (hope) that these records will be updated with current and authoritative data provided by the Dutch postal service.
 
-Until then these geometries are [at least more accurate]() than "all of the Netherlands" and have been assigned [full hierarchies]() in Who's On First land.
+Some records may lack geometries because Clustr was unable to generate a polygon or because the polygon generated was determined to be too large. For example, any polygon for a 6-character code with a perimeter value >= 6 was rejected. For example:
+
+![clustr](images/nl-oa-clustr-toobig.png)
+
+When and where this happened for 6-character postal codes an attempt was made to use the centroid of the parent 4-character postal code as a substitute. These too are marked as `mz:is_approximate`.
+
+It's not perfectntil then these geometries are [at least more accurate]() than "all of the Netherlands" and have been assigned [full hierarchies]() in Who's On First land.
 
 ![clustr](images/nl-oa-clustr-detail.png)
 
