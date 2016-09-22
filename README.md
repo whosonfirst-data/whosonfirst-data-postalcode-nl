@@ -24,7 +24,7 @@ Some records may lack geometries because Clustr was unable to generate a polygon
 
 When and where this happened for 6-character postal codes an attempt was made to use the centroid of the parent 4-character postal code as a substitute. These too are marked as `mz:is_approximate`.
 
-It's not perfectntil then these geometries are [at least more accurate]() than "all of the Netherlands" and have been assigned [full hierarchies]() in Who's On First land.
+It's not perfectntil then these geometries are [at least more accurate](https://whosonfirst.mapzen.com/spelunker/id/538956389/) than "all of the Netherlands" and have been assigned [full hierarchies](https://whosonfirst.mapzen.com/spelunker/id/101751893/descendants/?exclude=nullisland&placetype=postalcode) in Who's On First land.
 
 ![clustr](images/nl-oa-clustr-detail.png)
 
