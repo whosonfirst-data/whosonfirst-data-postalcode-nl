@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":287.952243,
     "geom:bbox":"4.56505680084,51.8961372375,4.56521654129,51.8967590332",
     "geom:latitude":51.896396,
     "geom:longitude":4.565148,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474245,
+        101751843,
         85633337,
+        85687041,
+        404474245,
         101760473
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676258,
-    "wof:geomhash":"642e9b99c3abf57ad96eea2686fbd29d",
+    "wof:geomhash":"6c841595584a88c712e0cd1877f425b8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890826853,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890826853,
-    "wof:lastmodified":1469676258,
+    "wof:lastmodified":1491850624,
     "wof:name":"3077KE",
-    "wof:parent_id":101760473,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.565056800842285,
+    4.56505680084229,
     51.89613723754883,
-    4.565216541290283,
-    51.896759033203125
+    4.56521654129028,
+    51.89675903320312
 ],
   "geometry": {"coordinates":[[[4.56514883041382,51.89615631103516],[4.56505680084229,51.89613723754883],[4.56519317626953,51.89675903320312],[4.56521511077881,51.89664840698242],[4.56521654129028,51.8966178894043],[4.56514883041382,51.89615631103516]]],"type":"Polygon"}
 }

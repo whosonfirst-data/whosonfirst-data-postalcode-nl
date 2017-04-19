@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":195.652441,
     "geom:bbox":"4.79142713547,52.3461532593,4.79307937622,52.3468208313",
     "geom:latitude":52.346441,
     "geom:longitude":4.79238,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474065,
+        101751893,
         85633337,
+        85687053,
+        404474065,
         101754789
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666279,
-    "wof:geomhash":"21252ac0068828b5fb463c36032040e5",
+    "wof:geomhash":"d36fecc5f918420da0c382d8b4f4b2d6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589497,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890589497,
-    "wof:lastmodified":1469666279,
+    "wof:lastmodified":1491951353,
     "wof:name":"1060MR",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.791427135467529,
-    52.346153259277344,
-    4.793079376220703,
+    4.79142713546753,
+    52.34615325927734,
+    4.7930793762207,
     52.34682083129883
 ],
   "geometry": {"coordinates":[[[4.79173707962036,52.34668731689453],[4.79158926010132,52.34674835205078],[4.79142713546753,52.34682083129883],[4.79300546646118,52.34620666503906],[4.7930793762207,52.34615325927734],[4.79243040084839,52.34641265869141],[4.79173707962036,52.34668731689453]]],"type":"Polygon"}

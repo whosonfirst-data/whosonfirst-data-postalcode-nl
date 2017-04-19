@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1.683025,
     "geom:bbox":"4.78849077225,52.3501472473,4.7885055542,52.3501777649",
     "geom:latitude":52.350168,
     "geom:longitude":4.788501,
@@ -23,12 +24,13 @@
         102191581,
         404474065,
         85633337,
-        101754789
+        101754789,
+        101751893
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666286,
-    "wof:geomhash":"6b1066a6dba5b3903ec33a2b940fe6e3",
+    "wof:geomhash":"3735664662e4a50f7c37053846a9dcd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754789,
             "postalcode_id":890589679,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589679,
+            "region_id":85687053
         }
     ],
     "wof:id":890589679,
-    "wof:lastmodified":1469666286,
+    "wof:lastmodified":1491951349,
     "wof:name":"1060TV",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.788490772247314,
+    4.78849077224731,
     52.35014724731445,
-    4.788505554199219,
+    4.78850555419922,
     52.35017776489258
 ],
   "geometry": {"coordinates":[[[4.78850555419922,52.35016632080078],[4.78850555419922,52.35015869140625],[4.78850555419922,52.35014724731445],[4.78849077224731,52.35017776489258],[4.78850507736206,52.35017776489258],[4.78850555419922,52.35016632080078]]],"type":"Polygon"}

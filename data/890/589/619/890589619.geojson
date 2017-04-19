@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":69.316129,
     "geom:bbox":"4.78391981125,52.3473739624,4.78436565399,52.3480606079",
     "geom:latitude":52.347696,
     "geom:longitude":4.784133,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474065,
+        101751893,
         85633337,
+        85687053,
+        404474065,
         101754789
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666284,
-    "wof:geomhash":"cc07dfb91355d80395160fcd095c2187",
+    "wof:geomhash":"66f165252a79f2c5570e9be6a991ee93",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589619,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890589619,
-    "wof:lastmodified":1469666284,
+    "wof:lastmodified":1491948170,
     "wof:name":"1060SB",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.783919811248779,
-    52.347373962402344,
-    4.784365653991699,
-    52.348060607910156
+    4.78391981124878,
+    52.34737396240234,
+    4.7843656539917,
+    52.34806060791016
 ],
   "geometry": {"coordinates":[[[4.78407859802246,52.34759140014648],[4.78397798538208,52.34744644165039],[4.78391981124878,52.34737396240234],[4.78426504135132,52.34791564941406],[4.7843656539917,52.34806060791016],[4.78432273864746,52.34798812866211],[4.78407859802246,52.34759140014648]]],"type":"Polygon"}
 }

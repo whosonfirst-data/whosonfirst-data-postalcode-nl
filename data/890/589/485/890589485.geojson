@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":128.955612,
     "geom:bbox":"4.79186153412,52.3465690613,4.79360246658,52.3472709656",
     "geom:latitude":52.346956,
     "geom:longitude":4.792647,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474065,
+        101751893,
         85633337,
+        85687053,
+        404474065,
         101754789
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666279,
-    "wof:geomhash":"076dfc38eeda33a525422db07bf956ea",
+    "wof:geomhash":"ddd88284f6f3fc9429e9acd4ca43d092",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589485,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890589485,
-    "wof:lastmodified":1469666279,
+    "wof:lastmodified":1491951352,
     "wof:name":"1060MG",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.791861534118652,
+    4.79186153411865,
     52.3465690612793,
-    4.793602466583252,
+    4.79360246658325,
     52.34727096557617
 ],
   "geometry": {"coordinates":[[[4.79199409484863,52.34720993041992],[4.79186153411865,52.34727096557617],[4.79193496704102,52.34724426269531],[4.79227447509766,52.34711074829102],[4.79298257827759,52.34682846069336],[4.79354333877563,52.34659576416016],[4.79360246658325,52.3465690612793],[4.79346942901611,52.34662246704102],[4.79199409484863,52.34720993041992]]],"type":"Polygon"}

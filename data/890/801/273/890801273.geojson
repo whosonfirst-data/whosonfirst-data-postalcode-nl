@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":67.063072,
     "geom:bbox":"4.55906867981,51.9123764038,4.55976104736,51.9124221802",
     "geom:latitude":51.912398,
     "geom:longitude":4.559337,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469675272,
-    "wof:geomhash":"d85682108f2946084ddbaa899c63d0dd",
+    "wof:geomhash":"73e81f53597dbad7444ee46f1af9fa1d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890801273,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890801273,
-    "wof:lastmodified":1469675272,
+    "wof:lastmodified":1491852850,
     "wof:name":"2901CH",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,8 +60,8 @@
 },
   "bbox": [
     4.55906867980957,
-    51.912376403808594,
-    4.559761047363281,
+    51.91237640380859,
+    4.55976104736328,
     51.91242218017578
 ],
   "geometry": {"coordinates":[[[4.55921125411987,51.91238021850586],[4.55913305282593,51.91237640380859],[4.55906867980957,51.91239547729492],[4.55976104736328,51.91242218017578],[4.55944633483887,51.91239547729492],[4.55921125411987,51.91238021850586]]],"type":"Polygon"}

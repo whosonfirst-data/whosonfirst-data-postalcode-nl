@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3.271682,
     "geom:bbox":"4.29975032806,52.0467987061,4.30008172989,52.0472450256",
     "geom:latitude":52.047028,
     "geom:longitude":4.299912,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673657,
-    "wof:geomhash":"da876eb3e682d4c8eca84eac608c66f8",
+    "wof:geomhash":"ccbd9ac847f308488a3267febc9333a1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758299,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758299,
-    "wof:lastmodified":1469673657,
+    "wof:lastmodified":1491862449,
     "wof:name":"2532TX",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.299750328063965,
+    4.29975032806396,
     52.04679870605469,
-    4.300081729888916,
-    52.047245025634766
+    4.30008172988892,
+    52.04724502563477
 ],
   "geometry": {"coordinates":[[[4.30003452301025,52.0468635559082],[4.30008172988892,52.04679870605469],[4.29998826980591,52.04692459106445],[4.29975032806396,52.04724502563477],[4.29979658126831,52.04718399047852],[4.2998423576355,52.04712295532227],[4.30003452301025,52.0468635559082]]],"type":"Polygon"}
 }

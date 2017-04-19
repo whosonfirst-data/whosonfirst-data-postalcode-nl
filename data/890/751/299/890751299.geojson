@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":573.159838,
     "geom:bbox":"4.36800765991,52.042339325,4.3685836792,52.0426177979",
     "geom:latitude":52.042464,
     "geom:longitude":4.368277,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474165,
+        101752763,
         85633337,
+        85687041,
+        404474165,
         101752765
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673397,
-    "wof:geomhash":"802092e59c3f7772446a675ff834d439",
+    "wof:geomhash":"bdac8e49b423dcbadf0a49bd4fe668bf",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751299,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890751299,
-    "wof:lastmodified":1469673397,
+    "wof:lastmodified":1491861188,
     "wof:name":"2496RD",
-    "wof:parent_id":101752765,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.368007659912109,
+    4.36800765991211,
     52.04233932495117,
-    4.368583679199219,
+    4.36858367919922,
     52.04261779785156
 ],
   "geometry": {"coordinates":[[[4.36840391159058,52.04249572753906],[4.36858367919922,52.04238510131836],[4.36829328536987,52.04233932495117],[4.36821699142456,52.04238128662109],[4.36807823181152,52.04246139526367],[4.36800765991211,52.04250335693359],[4.36820459365845,52.04261779785156],[4.36840391159058,52.04249572753906]]],"type":"Polygon"}

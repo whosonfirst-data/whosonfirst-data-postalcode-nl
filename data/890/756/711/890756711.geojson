@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":137.165766,
     "geom:bbox":"4.31164598465,52.0498504639,4.31227397919,52.0500679016",
     "geom:latitude":52.049934,
     "geom:longitude":4.311905,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673600,
-    "wof:geomhash":"06518320077fdd1827a2d55f5caf7195",
+    "wof:geomhash":"cdcc6e374b23c914e4d84f9a62a97422",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756711,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890756711,
-    "wof:lastmodified":1469673600,
+    "wof:lastmodified":1491861249,
     "wof:name":"2524XC",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.311645984649658,
+    4.31164598464966,
     52.04985046386719,
-    4.312273979187012,
+    4.31227397918701,
     52.05006790161133
 ],
   "geometry": {"coordinates":[[[4.31164598464966,52.04986953735352],[4.31227397918701,52.05006790161133],[4.31221771240234,52.05004119873047],[4.31199359893799,52.04994583129883],[4.31191253662109,52.04991149902344],[4.31173133850098,52.04985046386719],[4.31164598464966,52.04986953735352]]],"type":"Polygon"}

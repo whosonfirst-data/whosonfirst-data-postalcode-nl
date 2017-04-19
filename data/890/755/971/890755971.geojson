@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":4.307596,
     "geom:bbox":"4.32650947571,52.0613212585,4.32678318024,52.0616149902",
     "geom:latitude":52.061474,
     "geom:longitude":4.32664,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673575,
-    "wof:geomhash":"d9e744d417de162105732e13c3caeb12",
+    "wof:geomhash":"2eab8b13774274a0942ea057c408890c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755971,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755971,
-    "wof:lastmodified":1469673575,
+    "wof:lastmodified":1491859959,
     "wof:name":"2522SR",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.326509475708008,
+    4.32650947570801,
     52.06132125854492,
-    4.326783180236816,
-    52.061614990234375
+    4.32678318023682,
+    52.06161499023438
 ],
   "geometry": {"coordinates":[[[4.32656049728394,52.06155776977539],[4.32650947570801,52.06161499023438],[4.32672786712646,52.06138229370117],[4.32678318023682,52.06132125854492],[4.32656049728394,52.06155776977539]]],"type":"Polygon"}
 }

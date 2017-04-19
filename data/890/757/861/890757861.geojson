@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":6.556183,
     "geom:bbox":"4.30421447754,52.0505867004,4.3046631813,52.0509338379",
     "geom:latitude":52.050732,
     "geom:longitude":4.304475,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673642,
-    "wof:geomhash":"90eadda985c1d91f433ac4fac556c0a5",
+    "wof:geomhash":"2740f55896668c7285ae217c8d31cceb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890757861,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890757861,
-    "wof:lastmodified":1469673642,
+    "wof:lastmodified":1491861414,
     "wof:name":"2531HD",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.304214477539062,
+    4.30421447753906,
     52.05058670043945,
-    4.304663181304932,
-    52.050933837890625
+    4.30466318130493,
+    52.05093383789062
 ],
   "geometry": {"coordinates":[[[4.30450677871704,52.05070877075195],[4.30466318130493,52.05058670043945],[4.3045859336853,52.05064392089844],[4.30436563491821,52.05081558227539],[4.30421447753906,52.05093383789062],[4.30450677871704,52.05070877075195]]],"type":"Polygon"}
 }

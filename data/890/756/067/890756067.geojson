@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":27.158941,
     "geom:bbox":"4.3246216774,52.0610771179,4.32497119904,52.0614624023",
     "geom:latitude":52.061302,
     "geom:longitude":4.324763,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673578,
-    "wof:geomhash":"f4c1ab350f4b93b257c33934a9ec6ca7",
+    "wof:geomhash":"3a8449fac12ce1f97dba825206817cc6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756067,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890756067,
-    "wof:lastmodified":1469673578,
+    "wof:lastmodified":1491861252,
     "wof:name":"2522WV",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.324621677398682,
+    4.32462167739868,
     52.06107711791992,
-    4.324971199035645,
+    4.32497119903565,
     52.06146240234375
 ],
   "geometry": {"coordinates":[[[4.32466554641724,52.06141662597656],[4.32497119903565,52.06107711791992],[4.32484197616577,52.06121063232422],[4.32468605041504,52.06137466430664],[4.32462167739868,52.06146240234375],[4.32466554641724,52.06141662597656]]],"type":"Polygon"}

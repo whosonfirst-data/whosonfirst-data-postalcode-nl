@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":22166.134112,
     "geom:bbox":"4.55473518372,51.9013633728,4.56016683578,51.9026298523",
     "geom:latitude":51.901835,
     "geom:longitude":4.558038,
@@ -23,12 +24,13 @@
         102191581,
         404474245,
         85633337,
-        101760473
+        101760473,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676253,
-    "wof:geomhash":"7df896f7382ae80eaa2c7a85fade05c8",
+    "wof:geomhash":"e96c40407fc805b2b47f2ef8e4a8c68b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101760473,
             "postalcode_id":890826685,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890826685,
+            "region_id":85687041
         }
     ],
     "wof:id":890826685,
-    "wof:lastmodified":1469676253,
+    "wof:lastmodified":1491853656,
     "wof:name":"3077BT",
-    "wof:parent_id":101760473,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,8 +60,8 @@
 },
   "bbox": [
     4.55473518371582,
-    51.901363372802734,
-    4.560166835784912,
+    51.90136337280273,
+    4.56016683578491,
     51.90262985229492
 ],
   "geometry": {"coordinates":[[[4.55990552902222,51.90228271484375],[4.55940008163452,51.90161514282227],[4.55930233001709,51.90148544311523],[4.55923509597778,51.90139770507812],[4.55920743942261,51.90136337280273],[4.55473518371582,51.90151214599609],[4.56016683578491,51.90262985229492],[4.55990552902222,51.90228271484375]]],"type":"Polygon"}

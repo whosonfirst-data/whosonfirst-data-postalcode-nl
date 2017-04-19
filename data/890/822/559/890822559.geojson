@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1195.800708,
     "geom:bbox":"4.56610441208,51.9448890686,4.56679868698,51.9453315735",
     "geom:latitude":51.945158,
     "geom:longitude":4.566514,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676073,
-    "wof:geomhash":"76794f829395015651ffd4865d132a00",
+    "wof:geomhash":"c899c0195d061fdd85072b90730504d9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822559,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822559,
-    "wof:lastmodified":1469676073,
+    "wof:lastmodified":1491852019,
     "wof:name":"3067DP",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.566104412078857,
-    51.944889068603516,
-    4.566798686981201,
+    4.56610441207886,
+    51.94488906860352,
+    4.5667986869812,
     51.94533157348633
 ],
   "geometry": {"coordinates":[[[4.56672668457031,51.94488906860352],[4.56635761260986,51.94510650634766],[4.56610441207886,51.94526672363281],[4.56616926193237,51.94530868530273],[4.56667470932007,51.94533157348633],[4.5667986869812,51.9449348449707],[4.56672668457031,51.94488906860352]]],"type":"Polygon"}

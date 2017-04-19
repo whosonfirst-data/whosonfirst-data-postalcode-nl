@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8834.751383,
     "geom:bbox":"4.5589556694,51.9241256714,4.56519079208,51.9257087708",
     "geom:latitude":51.924817,
     "geom:longitude":4.562052,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101754669
+        101754669,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676064,
-    "wof:geomhash":"36ab31146cf583098e472d73a88643da",
+    "wof:geomhash":"15c9b9746ebec42ab1befd9abc84dec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754669,
             "postalcode_id":890822291,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822291,
+            "region_id":85687041
         }
     ],
     "wof:id":890822291,
-    "wof:lastmodified":1469676064,
+    "wof:lastmodified":1491852048,
     "wof:name":"3065SK",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.558955669403076,
+    4.55895566940308,
     51.92412567138672,
     4.56519079208374,
     51.92570877075195

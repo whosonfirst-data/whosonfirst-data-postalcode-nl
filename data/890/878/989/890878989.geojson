@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
+    "geom:area_square_m":202621.762096,
     "geom:bbox":"5.0538225174,52.0372428894,5.06349086761,52.0444030762",
     "geom:latitude":52.040819,
     "geom:longitude":5.058772,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687039,
         102191581,
-        404474021,
+        101751827,
         85633337,
+        85687039,
+        404474021,
         101751825
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469678217,
-    "wof:geomhash":"02336209c91c317acafe70c136550de0",
+    "wof:geomhash":"39b9cba87a2c1a850c0695347bbce148",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "postalcode_id":890878989,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890878989,
-    "wof:lastmodified":1469678217,
+    "wof:lastmodified":1491856742,
     "wof:name":"3546PM",
-    "wof:parent_id":101751825,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,8 +61,8 @@
   "bbox": [
     5.05382251739502,
     52.0372428894043,
-    5.063490867614746,
-    52.044403076171875
+    5.06349086761475,
+    52.04440307617188
 ],
   "geometry": {"coordinates":[[[5.06251859664917,52.04126358032227],[5.06349086761475,52.04056167602539],[5.05880308151245,52.0372428894043],[5.05382251739502,52.04440307617188],[5.05476760864258,52.0440788269043],[5.05781888961792,52.04296875],[5.06251859664917,52.04126358032227]]],"type":"Polygon"}
 }

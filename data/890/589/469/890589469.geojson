@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":251.814644,
     "geom:bbox":"4.79244184494,52.3469352722,4.79449272156,52.3477516174",
     "geom:latitude":52.347286,
     "geom:longitude":4.793601,
@@ -23,12 +24,13 @@
         102191581,
         404474065,
         85633337,
-        101754789
+        101754789,
+        101751893
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666278,
-    "wof:geomhash":"50ea738b5dffa668294b66e7eaf03e8f",
+    "wof:geomhash":"b2c4142d8247c2075a7feb8c7393b187",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754789,
             "postalcode_id":890589469,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589469,
+            "region_id":85687053
         }
     ],
     "wof:id":890589469,
-    "wof:lastmodified":1469666278,
+    "wof:lastmodified":1491951350,
     "wof:name":"1060LV",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.792441844940186,
+    4.79244184494019,
     52.3469352722168,
-    4.794492721557617,
+    4.79449272155762,
     52.34775161743164
 ],
   "geometry": {"coordinates":[[[4.79419803619385,52.34703063964844],[4.79244184494019,52.34775161743164],[4.79260396957397,52.34769058227539],[4.79322385787964,52.34745025634766],[4.79363679885864,52.34728240966797],[4.79449272155762,52.3469352722168],[4.79440450668335,52.34696197509766],[4.79419803619385,52.34703063964844]]],"type":"Polygon"}

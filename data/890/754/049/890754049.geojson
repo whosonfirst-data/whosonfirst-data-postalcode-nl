@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":84.143272,
     "geom:bbox":"4.33132648468,52.0630073547,4.33221435547,52.063949585",
     "geom:latitude":52.063543,
     "geom:longitude":4.331716,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673498,
-    "wof:geomhash":"63c7bd16c58f18ec4bb5d0efd8bccd41",
+    "wof:geomhash":"1ef97e290aeb08f7bf7840d6f59408c8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890754049,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890754049,
-    "wof:lastmodified":1469673498,
+    "wof:lastmodified":1491861254,
     "wof:name":"2516HS",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.331326484680176,
+    4.33132648468018,
     52.06300735473633,
     4.33221435546875,
     52.06394958496094

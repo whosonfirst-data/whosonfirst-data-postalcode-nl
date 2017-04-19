@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5657.208381,
     "geom:bbox":"4.52001523972,51.9239883423,4.52173042297,51.9258155823",
     "geom:latitude":51.92497,
     "geom:longitude":4.521091,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101754669
+        101754669,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676051,
-    "wof:geomhash":"914e35756659372feafb3965f2b1576b",
+    "wof:geomhash":"e357ecda4d0ec49326b983a9d546a2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754669,
             "postalcode_id":890821903,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890821903,
+            "region_id":85687041
         }
     ],
     "wof:id":890821903,
-    "wof:lastmodified":1469676051,
+    "wof:lastmodified":1491852644,
     "wof:name":"3062ZN",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.520015239715576,
-    51.923988342285156,
-    4.521730422973633,
+    4.52001523971558,
+    51.92398834228516,
+    4.52173042297363,
     51.92581558227539
 ],
   "geometry": {"coordinates":[[[4.52160358428955,51.92501068115234],[4.52001523971558,51.92398834228516],[4.52151823043823,51.92581558227539],[4.52173042297363,51.92519760131836],[4.52160358428955,51.92501068115234]]],"type":"Polygon"}

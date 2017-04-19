@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":19.237532,
     "geom:bbox":"4.31909322739,52.0571022034,4.3193230629,52.0573692322",
     "geom:latitude":52.057215,
     "geom:longitude":4.319232,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673584,
-    "wof:geomhash":"a592cb3985088613c41867e324dcc63f",
+    "wof:geomhash":"b2e19be2ffe4bc57c771fe8369d240b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890756237,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756237,
+            "region_id":85687041
         }
     ],
     "wof:id":890756237,
-    "wof:lastmodified":1469673584,
+    "wof:lastmodified":1491863721,
     "wof:name":"2523EK",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.319093227386475,
+    4.31909322738647,
     52.05710220336914,
-    4.319323062896729,
-    52.057369232177734
+    4.31932306289673,
+    52.05736923217773
 ],
   "geometry": {"coordinates":[[[4.31932306289673,52.05710220336914],[4.31909322738647,52.05736923217773],[4.31913375854492,52.05732727050781],[4.31918525695801,52.05727386474609],[4.31929111480713,52.05715942382812],[4.31932306289673,52.05710220336914]]],"type":"Polygon"}
 }

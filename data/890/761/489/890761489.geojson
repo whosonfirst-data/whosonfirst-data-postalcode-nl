@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":15563.136227,
     "geom:bbox":"4.29280138016,52.0290870667,4.29710865021,52.030002594",
     "geom:latitude":52.029594,
     "geom:longitude":4.294997,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673784,
-    "wof:geomhash":"812a1fc9615cab4e06ae9ed40ac067f8",
+    "wof:geomhash":"5adc412c7b0b70d04665dd1dbb27fec4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761489,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890761489,
-    "wof:lastmodified":1469673784,
+    "wof:lastmodified":1491860572,
     "wof:name":"2548PC",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.292801380157471,
+    4.29280138015747,
     52.02908706665039,
     4.29710865020752,
     52.03000259399414

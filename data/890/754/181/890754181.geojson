@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":701.299898,
     "geom:bbox":"4.33338212967,52.0663833618,4.33437728882,52.066986084",
     "geom:latitude":52.06666,
     "geom:longitude":4.333853,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673503,
-    "wof:geomhash":"160d0ca43f816af54f7a9c63f1656e8b",
+    "wof:geomhash":"c05cc7820ccf85dedc35e30186f4078e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890754181,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890754181,
+            "region_id":85687041
         }
     ],
     "wof:id":890754181,
-    "wof:lastmodified":1469673503,
+    "wof:lastmodified":1491863765,
     "wof:name":"2516SC",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.333382129669189,
-    52.066383361816406,
-    4.334377288818359,
-    52.066986083984375
+    4.33338212966919,
+    52.06638336181641,
+    4.33437728881836,
+    52.06698608398438
 ],
   "geometry": {"coordinates":[[[4.33421039581299,52.0665168762207],[4.33437728881836,52.06638336181641],[4.33371591567993,52.06663131713867],[4.33360719680786,52.06674575805664],[4.33338212966919,52.06698608398438],[4.33421039581299,52.0665168762207]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":5.698478,
     "geom:bbox":"4.30543231964,52.0520591736,4.30580759048,52.0523223877",
     "geom:latitude":52.052204,
     "geom:longitude":4.305599,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673645,
-    "wof:geomhash":"45d4080d1712371c92c7878448eaaabc",
+    "wof:geomhash":"9182ef137ddcb19562e387fac294952b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890757961,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890757961,
-    "wof:lastmodified":1469673645,
+    "wof:lastmodified":1491861414,
     "wof:name":"2531RK",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.305432319641113,
-    52.052059173583984,
-    4.305807590484619,
+    4.30543231964111,
+    52.05205917358398,
+    4.30580759048462,
     52.05232238769531
 ],
   "geometry": {"coordinates":[[[4.30550956726074,52.05226516723633],[4.30543231964111,52.05232238769531],[4.3055739402771,52.05222320556641],[4.30580759048462,52.05205917358398],[4.30566263198853,52.05215835571289],[4.30550956726074,52.05226516723633]]],"type":"Polygon"}

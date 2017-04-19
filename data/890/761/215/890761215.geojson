@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":31399.961111,
     "geom:bbox":"4.28764486313,52.030166626,4.29161071777,52.0368728638",
     "geom:latitude":52.033479,
     "geom:longitude":4.289673,
@@ -23,12 +24,13 @@
         102191581,
         404474179,
         85633337,
-        101754721
+        101754721,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673767,
-    "wof:geomhash":"b62721b7e1dd0cfc65411ecaddb6a570",
+    "wof:geomhash":"2f4f0daf559902768ffcbfc62e15b16f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754721,
             "postalcode_id":890761215,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761215,
+            "region_id":85687041
         }
     ],
     "wof:id":890761215,
-    "wof:lastmodified":1469673767,
+    "wof:lastmodified":1491863774,
     "wof:name":"2548AJ",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.287644863128662,
+    4.28764486312866,
     52.03016662597656,
-    4.291610717773438,
+    4.29161071777344,
     52.03687286376953
 ],
   "geometry": {"coordinates":[[[4.28764486312866,52.03687286376953],[4.28784704208374,52.03687286376953],[4.29147434234619,52.03122329711914],[4.29161071777344,52.03018188476562],[4.29145574569702,52.03016662597656],[4.28812503814697,52.03529357910156],[4.28764486312866,52.03687286376953]]],"type":"Polygon"}

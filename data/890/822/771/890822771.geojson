@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":38780.249688,
     "geom:bbox":"4.5613360405,51.9471931458,4.56581449509,51.9500465393",
     "geom:latitude":51.948697,
     "geom:longitude":4.56363,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676086,
-    "wof:geomhash":"1295b9af9352a3001f65dea63fe7ca8e",
+    "wof:geomhash":"b5abc74f294cd0a377c631cb1c908953",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822771,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822771,
-    "wof:lastmodified":1469676086,
+    "wof:lastmodified":1491852120,
     "wof:name":"3067MX",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.561336040496826,
+    4.56133604049683,
     51.94719314575195,
     4.56581449508667,
     51.95004653930664

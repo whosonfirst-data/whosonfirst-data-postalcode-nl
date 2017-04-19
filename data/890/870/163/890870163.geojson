@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1071.638706,
     "geom:bbox":"4.99669790268,52.1008033752,4.99706745148,52.101348877",
     "geom:latitude":52.101041,
     "geom:longitude":4.996863,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687039,
         102191581,
-        404474007,
+        101751827,
         85633337,
+        85687039,
+        404474007,
         101808427
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469677897,
-    "wof:geomhash":"fb286525b409e2aaf95e3afdfb33e891",
+    "wof:geomhash":"4a699fac17c5d0f27e91dfcb47a04350",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "postalcode_id":890870163,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890870163,
-    "wof:lastmodified":1469677897,
+    "wof:lastmodified":1491856232,
     "wof:name":"3451PR",
-    "wof:parent_id":101808427,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.996697902679443,
+    4.99669790267944,
     52.10080337524414,
-    4.997067451477051,
-    52.101348876953125
+    4.99706745147705,
+    52.10134887695312
 ],
   "geometry": {"coordinates":[[[4.99703598022461,52.10095977783203],[4.99700450897217,52.10080337524414],[4.99669790267944,52.10084533691406],[4.99672031402588,52.10134887695312],[4.99706745147705,52.10112762451172],[4.99703598022461,52.10095977783203]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":20.027705,
     "geom:bbox":"4.31731081009,52.0515480042,4.31814289093,52.0518493652",
     "geom:latitude":52.05173,
     "geom:longitude":4.317816,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673593,
-    "wof:geomhash":"026ce4ecef14f868fa4929da347cd735",
+    "wof:geomhash":"92e64e4082ab95040051405eec21c5c1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756501,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890756501,
-    "wof:lastmodified":1469673593,
+    "wof:lastmodified":1491861247,
     "wof:name":"2524EK",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.317310810089111,
+    4.31731081008911,
     52.05154800415039,
-    4.318142890930176,
-    52.051849365234375
+    4.31814289093018,
+    52.05184936523438
 ],
   "geometry": {"coordinates":[[[4.31814289093018,52.05184555053711],[4.3177695274353,52.05171203613281],[4.31738710403442,52.05157470703125],[4.31731081008911,52.05154800415039],[4.31746578216553,52.05160522460938],[4.31813907623291,52.05184936523438],[4.31814289093018,52.05184555053711]]],"type":"Polygon"}
 }

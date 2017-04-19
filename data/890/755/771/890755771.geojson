@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":4.348973,
     "geom:bbox":"4.32618427277,52.0623664856,4.32660007477,52.0625152588",
     "geom:latitude":52.062444,
     "geom:longitude":4.326404,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673562,
-    "wof:geomhash":"bd22fdbb1f9fa3b97b61ab1e1aa82cf1",
+    "wof:geomhash":"f54378bcc57c99a3214d0006b274a45d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755771,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755771,
-    "wof:lastmodified":1469673562,
+    "wof:lastmodified":1491862180,
     "wof:name":"2522JN",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.326184272766113,
+    4.32618427276611,
     52.0623664855957,
-    4.326600074768066,
+    4.32660007476807,
     52.06251525878906
 ],
   "geometry": {"coordinates":[[[4.32633352279663,52.06241989135742],[4.32660007476807,52.06251525878906],[4.32642650604248,52.06245040893555],[4.32618427276611,52.0623664855957],[4.32633352279663,52.06241989135742]]],"type":"Polygon"}

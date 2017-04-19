@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2024.867122,
     "geom:bbox":"4.54275131226,51.9482574463,4.5432138443,51.9499740601",
     "geom:latitude":51.949215,
     "geom:longitude":4.542981,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676081,
-    "wof:geomhash":"6650a5ff7c829c9628dfeecd20d38b7b",
+    "wof:geomhash":"cb9edffd8197d235100e20f60cd4bce5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822645,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822645,
-    "wof:lastmodified":1469676081,
+    "wof:lastmodified":1491852038,
     "wof:name":"3067GV",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.542751312255859,
+    4.54275131225586,
     51.94825744628906,
-    4.543213844299316,
-    51.949974060058594
+    4.54321384429932,
+    51.94997406005859
 ],
   "geometry": {"coordinates":[[[4.54275131225586,51.94825744628906],[4.54297876358032,51.94997406005859],[4.54300451278687,51.94991302490234],[4.5430588722229,51.94978332519531],[4.54318714141846,51.94947814941406],[4.54321384429932,51.94941329956055],[4.54275131225586,51.94825744628906]]],"type":"Polygon"}
 }

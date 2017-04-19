@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2651.58317,
     "geom:bbox":"4.5758357048,51.9665184021,4.57766580582,51.9674530029",
     "geom:latitude":51.966977,
     "geom:longitude":4.576743,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676103,
-    "wof:geomhash":"931420e0b35e9ba0976502b41554fd6f",
+    "wof:geomhash":"2843936dfb8e05f158920b45478a3c4a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823277,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823277,
-    "wof:lastmodified":1469676103,
+    "wof:lastmodified":1491850279,
     "wof:name":"3068KR",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.575835704803467,
+    4.57583570480347,
     51.96651840209961,
     4.57766580581665,
     51.96745300292969

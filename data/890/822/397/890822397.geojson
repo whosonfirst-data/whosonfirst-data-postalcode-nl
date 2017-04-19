@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":14608.096802,
     "geom:bbox":"4.55268764496,51.938457489,4.55609798431,51.9395065308",
     "geom:latitude":51.93894,
     "geom:longitude":4.554542,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676067,
-    "wof:geomhash":"cc21858c297d8892a38e5e73ba55cdb2",
+    "wof:geomhash":"ceb191c113aa85f1cae7f4503bc1e7eb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822397,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822397,
-    "wof:lastmodified":1469676067,
+    "wof:lastmodified":1491852026,
     "wof:name":"3066LA",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.552687644958496,
+    4.5526876449585,
     51.93845748901367,
-    4.556097984313965,
+    4.55609798431396,
     51.93950653076172
 ],
   "geometry": {"coordinates":[[[4.55395936965942,51.93854141235352],[4.5526876449585,51.9388542175293],[4.55322790145874,51.9390983581543],[4.55609798431396,51.93950653076172],[4.55532598495483,51.93852233886719],[4.55492353439331,51.93845748901367],[4.55395936965942,51.93854141235352]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":129.001579,
     "geom:bbox":"4.29682159424,52.0269317627,4.29799795151,52.0282478333",
     "geom:latitude":52.02747,
     "geom:longitude":4.297509,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673788,
-    "wof:geomhash":"9e431cac20f1def8f289a82f50e873a1",
+    "wof:geomhash":"a7771dc27adc74d1001b99eb2728d865",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761559,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890761559,
-    "wof:lastmodified":1469673788,
+    "wof:lastmodified":1491860550,
     "wof:name":"2548SV",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.296821594238281,
+    4.29682159423828,
     52.02693176269531,
-    4.297997951507568,
+    4.29799795150757,
     52.02824783325195
 ],
   "geometry": {"coordinates":[[[4.2975001335144,52.02746963500977],[4.29711532592773,52.02790832519531],[4.29701137542725,52.02802658081055],[4.29682159423828,52.02824783325195],[4.29799795150757,52.02693176269531],[4.29784679412842,52.02707672119141],[4.2975001335144,52.02746963500977]]],"type":"Polygon"}

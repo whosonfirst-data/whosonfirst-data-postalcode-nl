@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":27.825077,
     "geom:bbox":"4.30428743362,52.0522880554,4.30544471741,52.0529441833",
     "geom:latitude":52.052691,
     "geom:longitude":4.304995,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673654,
-    "wof:geomhash":"8f88487eb5028359d015b9465c2ae304",
+    "wof:geomhash":"d15e619bd179d80baf1baa67d0165478",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758207,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758207,
-    "wof:lastmodified":1469673654,
+    "wof:lastmodified":1491860687,
     "wof:name":"2532CR",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.304287433624268,
+    4.30428743362427,
     52.05228805541992,
-    4.305444717407227,
+    4.30544471740723,
     52.05294418334961
 ],
   "geometry": {"coordinates":[[[4.30519866943359,52.05281066894531],[4.30527305603027,52.05285263061523],[4.30544471740723,52.05294418334961],[4.30428743362427,52.05228805541992],[4.30519866943359,52.05281066894531]]],"type":"Polygon"}

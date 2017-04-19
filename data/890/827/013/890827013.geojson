@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1402.440384,
     "geom:bbox":"4.5721116066,51.8921279907,4.57281398773,51.89270401",
     "geom:latitude":51.892351,
     "geom:longitude":4.572382,
@@ -23,12 +24,13 @@
         102191581,
         404474245,
         85633337,
-        101760473
+        101760473,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676265,
-    "wof:geomhash":"6fc6896a198495be2f75a55c1de6c7b9",
+    "wof:geomhash":"d08dfaf44faf86dcb924c143b7b5f1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101760473,
             "postalcode_id":890827013,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890827013,
+            "region_id":85687041
         }
     ],
     "wof:id":890827013,
-    "wof:lastmodified":1469676265,
+    "wof:lastmodified":1491853683,
     "wof:name":"3077RV",
-    "wof:parent_id":101760473,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,9 +60,9 @@
 },
   "bbox": [
     4.5721116065979,
-    51.892127990722656,
-    4.572813987731934,
-    51.892704010009766
+    51.89212799072266,
+    4.57281398773193,
+    51.89270401000977
 ],
   "geometry": {"coordinates":[[[4.57213306427002,51.89237976074219],[4.57216691970825,51.89248657226562],[4.57220315933228,51.89259719848633],[4.57223892211914,51.89270401000977],[4.57281398773193,51.89212799072266],[4.57235670089722,51.89218139648438],[4.5721116065979,51.89221572875977],[4.57213306427002,51.89237976074219]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2790.1772,
     "geom:bbox":"4.55674505234,51.964466095,4.55786752701,51.9650497437",
     "geom:latitude":51.964801,
     "geom:longitude":4.557303,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101752769
+        101752769,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676115,
-    "wof:geomhash":"05b7a724057e3b1a8d4b6a8ced7b6a6b",
+    "wof:geomhash":"b9bc08167d3b6752b033905689606918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752769,
             "postalcode_id":890823545,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823545,
+            "region_id":85687041
         }
     ],
     "wof:id":890823545,
-    "wof:lastmodified":1469676115,
+    "wof:lastmodified":1491852986,
     "wof:name":"3069AL",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.556745052337646,
+    4.55674505233765,
     51.9644660949707,
-    4.557867527008057,
-    51.965049743652344
+    4.55786752700806,
+    51.96504974365234
 ],
   "geometry": {"coordinates":[[[4.55709552764893,51.9644660949707],[4.55674505233765,51.96493148803711],[4.5576639175415,51.96504974365234],[4.55786752700806,51.96485137939453],[4.55769014358521,51.9647216796875],[4.55709552764893,51.9644660949707]]],"type":"Polygon"}
 }

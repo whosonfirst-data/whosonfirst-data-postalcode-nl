@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":319.651071,
     "geom:bbox":"4.54427051544,51.9211120605,4.54588508606,51.9211807251",
     "geom:latitude":51.921155,
     "geom:longitude":4.544931,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676064,
-    "wof:geomhash":"ecffc897f7722b8efc276eaf1e29a43d",
+    "wof:geomhash":"5b014fcb0a1fd2d4a721f7fb64c850d8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822299,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822299,
-    "wof:lastmodified":1469676064,
+    "wof:lastmodified":1491852036,
     "wof:name":"3065SR",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.544270515441895,
-    51.921112060546875,
+    4.5442705154419,
+    51.92111206054688,
     4.54588508605957,
-    51.921180725097656
+    51.92118072509766
 ],
   "geometry": {"coordinates":[[[4.54451990127563,51.92116928100586],[4.54556941986084,51.92118072509766],[4.54588508605957,51.92117691040039],[4.5442705154419,51.92111206054688],[4.54451990127563,51.92116928100586]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":6.232199,
     "geom:bbox":"4.53821182251,51.9415092468,4.53850030899,51.9421882629",
     "geom:latitude":51.94182,
     "geom:longitude":4.538368,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676085,
-    "wof:geomhash":"c69081a05fb31aad8df15e17f7781199",
+    "wof:geomhash":"e6144d06ab3e8e0166598f69764e0b99",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822731,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822731,
-    "wof:lastmodified":1469676085,
+    "wof:lastmodified":1491852724,
     "wof:name":"3067LJ",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.538211822509766,
+    4.53821182250977,
     51.94150924682617,
-    4.538500308990479,
+    4.53850030899048,
     51.94218826293945
 ],
   "geometry": {"coordinates":[[[4.53835487365723,51.94184875488281],[4.53821182250977,51.94218826293945],[4.53843021392822,51.94167709350586],[4.53850030899048,51.94150924682617],[4.53835487365723,51.94184875488281]]],"type":"Polygon"}

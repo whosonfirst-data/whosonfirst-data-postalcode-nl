@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2143.136649,
     "geom:bbox":"4.31358766556,52.0591812134,4.31450939178,52.0598258972",
     "geom:latitude":52.059493,
     "geom:longitude":4.314082,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673552,
-    "wof:geomhash":"bf17948ea96700d981b297c4d22031fa",
+    "wof:geomhash":"378e1b18065b97dbcffd7bf6d290ecb5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755481,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755481,
-    "wof:lastmodified":1469673552,
+    "wof:lastmodified":1491859774,
     "wof:name":"2521VM",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.313587665557861,
-    52.059181213378906,
-    4.314509391784668,
+    4.31358766555786,
+    52.05918121337891,
+    4.31450939178467,
     52.0598258972168
 ],
   "geometry": {"coordinates":[[[4.31428241729736,52.0598258972168],[4.31435537338257,52.05978393554688],[4.31450939178467,52.05952835083008],[4.31394386291504,52.05918121337891],[4.31358766555786,52.05940246582031],[4.31428241729736,52.0598258972168]]],"type":"Polygon"}

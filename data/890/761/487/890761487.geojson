@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2881.860662,
     "geom:bbox":"4.29006624222,52.0282821655,4.29250669479,52.0288085938",
     "geom:latitude":52.028462,
     "geom:longitude":4.291287,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673784,
-    "wof:geomhash":"db6d7765c57c663f0c8aa4d5610fdd61",
+    "wof:geomhash":"2297f1bbacfb19fd5cf5a39af45ccf46",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761487,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890761487,
-    "wof:lastmodified":1469673784,
+    "wof:lastmodified":1491860548,
     "wof:name":"2548PB",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.290066242218018,
-    52.028282165527344,
-    4.292506694793701,
+    4.29006624221802,
+    52.02828216552734,
+    4.2925066947937,
     52.02880859375
 ],
   "geometry": {"coordinates":[[[4.29137372970581,52.02828216552734],[4.29035615921021,52.02828598022461],[4.29026889801025,52.02829360961914],[4.29006624221802,52.02831649780273],[4.2925066947937,52.02880859375],[4.29137372970581,52.02828216552734]]],"type":"Polygon"}

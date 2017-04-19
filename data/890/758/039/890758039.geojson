@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":7.150946,
     "geom:bbox":"4.30158185959,52.0525512695,4.30212450027,52.0528335571",
     "geom:latitude":52.052684,
     "geom:longitude":4.301837,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673648,
-    "wof:geomhash":"468e9006632eb46b7157186e54796763",
+    "wof:geomhash":"f3c9665e3c42ecce6107fbd49fe6440c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758039,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758039,
-    "wof:lastmodified":1469673648,
+    "wof:lastmodified":1491860689,
     "wof:name":"2531TR",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.301581859588623,
+    4.30158185958862,
     52.05255126953125,
-    4.302124500274658,
-    52.052833557128906
+    4.30212450027466,
+    52.05283355712891
 ],
   "geometry": {"coordinates":[[[4.30158185958862,52.05255126953125],[4.30193090438843,52.052734375],[4.30202722549438,52.05278396606445],[4.30212450027466,52.05283355712891],[4.301673412323,52.05259704589844],[4.30158185958862,52.05255126953125]]],"type":"Polygon"}
 }

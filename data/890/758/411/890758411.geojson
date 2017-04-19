@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2.455437,
     "geom:bbox":"4.28958320618,52.044380188,4.28986310959,52.0445785522",
     "geom:latitude":52.044464,
     "geom:longitude":4.289744,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673661,
-    "wof:geomhash":"251a4d985c5af9f971296c9944db5d60",
+    "wof:geomhash":"97f98df1ac9681ef4b338546b693c312",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758411,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758411,
-    "wof:lastmodified":1469673661,
+    "wof:lastmodified":1491863688,
     "wof:name":"2533CA",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.289583206176758,
+    4.28958320617676,
     52.04438018798828,
-    4.289863109588623,
-    52.044578552246094
+    4.28986310958862,
+    52.04457855224609
 ],
   "geometry": {"coordinates":[[[4.28981733322144,52.04441070556641],[4.2896785736084,52.04450988769531],[4.28958320617676,52.04457855224609],[4.2896318435669,52.0445442199707],[4.28986310958862,52.04438018798828],[4.28981733322144,52.04441070556641]]],"type":"Polygon"}
 }

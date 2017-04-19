@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1694.322011,
     "geom:bbox":"4.79136657715,52.3480606079,4.79307556152,52.3497505188",
     "geom:latitude":52.348816,
     "geom:longitude":4.792053,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474065,
+        101751893,
         85633337,
+        85687053,
+        404474065,
         101754789
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666490,
-    "wof:geomhash":"4959b6445b93fb4338e62dbacb2d9739",
+    "wof:geomhash":"0e369875547ba6534fb14f6dfebcb919",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890593951,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890593951,
-    "wof:lastmodified":1469666490,
+    "wof:lastmodified":1491951352,
     "wof:name":"1069MD",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.791366577148438,
-    52.348060607910156,
-    4.793075561523438,
+    4.79136657714844,
+    52.34806060791016,
+    4.79307556152344,
     52.34975051879883
 ],
   "geometry": {"coordinates":[[[4.79140758514404,52.3482780456543],[4.79158020019531,52.34846496582031],[4.79262495040894,52.34942245483398],[4.79307556152344,52.34975051879883],[4.79136657714844,52.34806060791016],[4.79140758514404,52.3482780456543]]],"type":"Polygon"}

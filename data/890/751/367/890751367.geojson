@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1971.196503,
     "geom:bbox":"4.36687803268,52.0505867004,4.36903762817,52.051815033",
     "geom:latitude":52.05124,
     "geom:longitude":4.368109,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474165,
+        101752763,
         85633337,
+        85687041,
+        404474165,
         101752765
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673399,
-    "wof:geomhash":"98f6ae8c34363e0e82cb7beb93666721",
+    "wof:geomhash":"36e452e44155f3f3debced90b57b3f32",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751367,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890751367,
-    "wof:lastmodified":1469673399,
+    "wof:lastmodified":1491861194,
     "wof:name":"2496VJ",
-    "wof:parent_id":101752765,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.366878032684326,
+    4.36687803268433,
     52.05058670043945,
-    4.369037628173828,
-    52.051815032958984
+    4.36903762817383,
+    52.05181503295898
 ],
   "geometry": {"coordinates":[[[4.3687219619751,52.05145263671875],[4.36854600906372,52.05136108398438],[4.36687803268433,52.05058670043945],[4.36729383468628,52.05087280273438],[4.36903762817383,52.05181503295898],[4.3687219619751,52.05145263671875]]],"type":"Polygon"}
 }

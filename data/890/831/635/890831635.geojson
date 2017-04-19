@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":9.206465,
     "geom:bbox":"4.39987182617,51.908706665,4.40040874481,51.9090423584",
     "geom:latitude":51.908866,
     "geom:longitude":4.400125,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474253,
+        101751843,
         85633337,
+        85687041,
+        404474253,
         101751845
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676443,
-    "wof:geomhash":"1060c733edf9366a9b3507744fe52442",
+    "wof:geomhash":"538db551be12ae23e60e0f8e686a3acf",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890831635,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890831635,
-    "wof:lastmodified":1469676443,
+    "wof:lastmodified":1491853298,
     "wof:name":"3116GA",
-    "wof:parent_id":101751845,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.399871826171875,
+    4.39987182617188,
     51.90870666503906,
-    4.400408744812012,
+    4.40040874481201,
     51.90904235839844
 ],
   "geometry": {"coordinates":[[[4.3999228477478,51.90874099731445],[4.40024042129517,51.90893936157227],[4.40030145645142,51.90897750854492],[4.40040874481201,51.90904235839844],[4.4001898765564,51.90890502929688],[4.40002489089966,51.9088020324707],[4.39987182617188,51.90870666503906],[4.3999228477478,51.90874099731445]]],"type":"Polygon"}

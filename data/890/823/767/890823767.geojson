@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":8.965127,
     "geom:bbox":"4.57765007019,51.9722824097,4.57797336578,51.9725761414",
     "geom:latitude":51.972424,
     "geom:longitude":4.577819,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676127,
-    "wof:geomhash":"571cff6a49060cd7226b7e93537be412",
+    "wof:geomhash":"6b10c9e883b53630ab7dbfeb75cc8487",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823767,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823767,
-    "wof:lastmodified":1469676127,
+    "wof:lastmodified":1491850332,
     "wof:name":"3069RV",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +61,7 @@
   "bbox": [
     4.57765007019043,
     51.97228240966797,
-    4.577973365783691,
+    4.57797336578369,
     51.97257614135742
 ],
   "geometry": {"coordinates":[[[4.57788848876953,51.97236251831055],[4.57797336578369,51.97228240966797],[4.57792949676514,51.97232055664062],[4.57765007019043,51.97257614135742],[4.57774209976196,51.97249603271484],[4.57778549194336,51.97245788574219],[4.57784795761108,51.9724006652832],[4.57788848876953,51.97236251831055]]],"type":"Polygon"}

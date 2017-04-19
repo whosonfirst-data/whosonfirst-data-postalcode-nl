@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3574.422267,
     "geom:bbox":"4.56247520447,51.9420280457,4.56348180771,51.9432029724",
     "geom:latitude":51.942702,
     "geom:longitude":4.562978,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101752769
+        101752769,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676089,
-    "wof:geomhash":"ef3c65354fa3d0816889973770d23e77",
+    "wof:geomhash":"dedc756f2780ad9f2b45fe051b930c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752769,
             "postalcode_id":890822849,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822849,
+            "region_id":85687041
         }
     ],
     "wof:id":890822849,
-    "wof:lastmodified":1469676089,
+    "wof:lastmodified":1491853001,
     "wof:name":"3067RS",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.562475204467773,
+    4.56247520446777,
     51.9420280456543,
     4.56348180770874,
     51.94320297241211

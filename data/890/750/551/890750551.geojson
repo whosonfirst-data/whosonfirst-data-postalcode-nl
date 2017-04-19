@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":348.258893,
     "geom:bbox":"4.41155433655,52.0594215393,4.41339302063,52.0596237183",
     "geom:latitude":52.059511,
     "geom:longitude":4.412553,
@@ -23,12 +24,13 @@
         102191581,
         404474685,
         85633337,
-        101754679
+        101754679,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673371,
-    "wof:geomhash":"791bb3f2b6ee961377ce44308f7a4404",
+    "wof:geomhash":"659a8af955c7fd55be25d4ff9bc21634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754679,
             "postalcode_id":890750551,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750551,
+            "region_id":85687041
         }
     ],
     "wof:id":890750551,
-    "wof:lastmodified":1469673371,
+    "wof:lastmodified":1491861187,
     "wof:name":"2492MJ",
-    "wof:parent_id":101754679,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.411554336547852,
+    4.41155433654785,
     52.05942153930664,
-    4.413393020629883,
+    4.41339302062988,
     52.05962371826172
 ],
   "geometry": {"coordinates":[[[4.41314649581909,52.05946731567383],[4.41339302062988,52.05942535400391],[4.41330766677856,52.05942153930664],[4.41219663619995,52.05952835083008],[4.41186666488647,52.05957412719727],[4.41155433654785,52.05962371826172],[4.41314649581909,52.05946731567383]]],"type":"Polygon"}

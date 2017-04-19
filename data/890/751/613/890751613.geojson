@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":54.671953,
     "geom:bbox":"4.36184120178,52.0397377014,4.3628745079,52.0403404236",
     "geom:latitude":52.040102,
     "geom:longitude":4.362243,
@@ -23,12 +24,13 @@
         102191581,
         404474165,
         85633337,
-        101752765
+        101752765,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673410,
-    "wof:geomhash":"ebf771b6492a9db36dfa11d73b7c7037",
+    "wof:geomhash":"7a39b482e6e7a792cf49aeb1e2c3f483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752765,
             "postalcode_id":890751613,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751613,
+            "region_id":85687041
         }
     ],
     "wof:id":890751613,
-    "wof:lastmodified":1469673410,
+    "wof:lastmodified":1491860437,
     "wof:name":"2497DV",
-    "wof:parent_id":101752765,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.361841201782227,
-    52.039737701416016,
-    4.362874507904053,
-    52.040340423583984
+    4.36184120178223,
+    52.03973770141602,
+    4.36287450790405,
+    52.04034042358398
 ],
   "geometry": {"coordinates":[[[4.36190128326416,52.0402946472168],[4.36184120178223,52.04034042358398],[4.36287450790405,52.03973770141602],[4.36261749267578,52.03988265991211],[4.36209726333618,52.04018020629883],[4.36190128326416,52.0402946472168]]],"type":"Polygon"}
 }

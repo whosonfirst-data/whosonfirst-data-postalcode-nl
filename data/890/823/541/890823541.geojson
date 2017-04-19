@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":98.474047,
     "geom:bbox":"4.5494184494,51.9602966309,4.54963350296,51.960647583",
     "geom:latitude":51.960457,
     "geom:longitude":4.54956,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101752769
+        101752769,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676115,
-    "wof:geomhash":"b24f2d4bee3f17c260f708eb60191c2f",
+    "wof:geomhash":"b29fb345c5810b81a92d926c16706cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752769,
             "postalcode_id":890823541,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823541,
+            "region_id":85687041
         }
     ],
     "wof:id":890823541,
-    "wof:lastmodified":1469676115,
+    "wof:lastmodified":1491850715,
     "wof:name":"3068VS",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.549418449401855,
-    51.960296630859375,
-    4.549633502960205,
+    4.54941844940185,
+    51.96029663085938,
+    4.54963350296021,
     51.96064758300781
 ],
   "geometry": {"coordinates":[[[4.54962825775146,51.96042251586914],[4.54963350296021,51.96029663085938],[4.54941844940185,51.96064758300781],[4.54960966110229,51.96044540405273],[4.54962825775146,51.96042251586914]]],"type":"Polygon"}

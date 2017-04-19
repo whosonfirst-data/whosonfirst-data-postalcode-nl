@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3.645011,
     "geom:bbox":"4.29531383514,52.0465888977,4.2956867218,52.046787262",
     "geom:latitude":52.046692,
     "geom:longitude":4.295506,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673653,
-    "wof:geomhash":"827bcf9026c7bb8e7e3e470026743624",
+    "wof:geomhash":"0bf7b53286752c12276fcbf1fc8818af",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758183,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758183,
-    "wof:lastmodified":1469673653,
+    "wof:lastmodified":1491860687,
     "wof:name":"2532BS",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.295313835144043,
+    4.29531383514404,
     52.04658889770508,
-    4.295686721801758,
+    4.29568672180176,
     52.04678726196289
 ],
   "geometry": {"coordinates":[[[4.29560899734497,52.04674530029297],[4.29539394378662,52.046630859375],[4.29531383514404,52.04658889770508],[4.29553318023682,52.04670715332031],[4.29568672180176,52.04678726196289],[4.29560899734497,52.04674530029297]]],"type":"Polygon"}

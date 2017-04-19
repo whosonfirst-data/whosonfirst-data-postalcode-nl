@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":14.772794,
     "geom:bbox":"4.55124759674,51.9447784424,4.55208349228,51.9449157715",
     "geom:latitude":51.944836,
     "geom:longitude":4.551602,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101752769
+        101752769,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676089,
-    "wof:geomhash":"76d00b6c9fcc1d5ee23f858517523fe0",
+    "wof:geomhash":"089550d47ce7c558573200e06098e62f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752769,
             "postalcode_id":890822839,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822839,
+            "region_id":85687041
         }
     ],
     "wof:id":890822839,
-    "wof:lastmodified":1469676089,
+    "wof:lastmodified":1491852717,
     "wof:name":"3067RH",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.551247596740723,
+    4.55124759674072,
     51.94477844238281,
-    4.552083492279053,
-    51.944915771484375
+    4.55208349227905,
+    51.94491577148438
 ],
   "geometry": {"coordinates":[[[4.55135631561279,51.94479370117188],[4.55124759674072,51.94477844238281],[4.551682472229,51.94485092163086],[4.55208349227905,51.94491577148438],[4.55145406723022,51.94480895996094],[4.55135631561279,51.94479370117188]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1534.888937,
     "geom:bbox":"4.37800979614,52.0462493896,4.3792848587,52.0471076965",
     "geom:latitude":52.046795,
     "geom:longitude":4.37873,
@@ -23,12 +24,13 @@
         102191581,
         404474687,
         85633337,
-        101754635
+        101754635,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673394,
-    "wof:geomhash":"78fe647cd969ec871eab94524ec3d0ee",
+    "wof:geomhash":"c58fa57cc91b5aaf27f8602b979c4854",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754635,
             "postalcode_id":890751187,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751187,
+            "region_id":85687041
         }
     ],
     "wof:id":890751187,
-    "wof:lastmodified":1469673394,
+    "wof:lastmodified":1491863805,
     "wof:name":"2496MC",
-    "wof:parent_id":101754635,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.378009796142578,
+    4.37800979614258,
     52.04624938964844,
-    4.379284858703613,
+    4.37928485870361,
     52.0471076965332
 ],
   "geometry": {"coordinates":[[[4.37889671325684,52.0471076965332],[4.37928485870361,52.04703521728516],[4.37916660308838,52.04695892333984],[4.37888717651367,52.04678726196289],[4.37845945358276,52.04652404785156],[4.37812471389771,52.04631805419922],[4.37800979614258,52.04624938964844],[4.37889671325684,52.0471076965332]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1872.603458,
     "geom:bbox":"4.78657674789,52.3503036499,4.78767967224,52.3515472412",
     "geom:latitude":52.350826,
     "geom:longitude":4.786991,
@@ -23,12 +24,13 @@
         102191581,
         404474065,
         85633337,
-        101754789
+        101754789,
+        101751893
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666283,
-    "wof:geomhash":"73b98c8c0d1ae8451882873b3dbbe759",
+    "wof:geomhash":"47eaf4bde353fd7b2439b4e625885a08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754789,
             "postalcode_id":890589595,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589595,
+            "region_id":85687053
         }
     ],
     "wof:id":890589595,
-    "wof:lastmodified":1469666283,
+    "wof:lastmodified":1491951350,
     "wof:name":"1060RJ",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.786576747894287,
-    52.350303649902344,
-    4.787679672241211,
+    4.78657674789429,
+    52.35030364990234,
+    4.78767967224121,
     52.35154724121094
 ],
   "geometry": {"coordinates":[[[4.78657674789429,52.35060501098633],[4.78676509857178,52.35077667236328],[4.78757762908935,52.35147476196289],[4.78767967224121,52.35154724121094],[4.78671312332153,52.35030364990234],[4.78663778305054,52.35042572021484],[4.7865777015686,52.35052490234375],[4.78657674789429,52.35060501098633]]],"type":"Polygon"}

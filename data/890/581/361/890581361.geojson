@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":14748.960563,
     "geom:bbox":"4.97546339035,52.3741950989,4.97956514359,52.3778877258",
     "geom:latitude":52.375849,
     "geom:longitude":4.977758,
@@ -20,25 +21,27 @@
     "src:geom":"oa",
     "wof:belongsto":[
         102191581,
+        101751893,
         85633337,
         85687053
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469665926,
-    "wof:geomhash":"9bc75d2bb21bc2cefc68b8ece9906f06",
+    "wof:geomhash":"d985ba5076284c886103bdb2bf79f5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
             "postalcode_id":890581361,
             "region_id":85687053
         }
     ],
     "wof:id":890581361,
-    "wof:lastmodified":1469665926,
+    "wof:lastmodified":1491948210,
     "wof:name":"1026CR",
-    "wof:parent_id":85687053,
+    "wof:parent_id":101751893,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -46,9 +49,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.975463390350342,
+    4.97546339035034,
     52.37419509887695,
-    4.979565143585205,
+    4.97956514358521,
     52.37788772583008
 ],
   "geometry": {"coordinates":[[[4.9783730506897,52.3748779296875],[4.97546339035034,52.37788772583008],[4.97581434249878,52.37775802612305],[4.97815752029419,52.3758430480957],[4.97852897644043,52.37551879882812],[4.97898435592651,52.37502670288086],[4.97956514358521,52.37424087524414],[4.97940587997437,52.37419509887695],[4.9783730506897,52.3748779296875]]],"type":"Polygon"}

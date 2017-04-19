@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":11.50177,
     "geom:bbox":"4.52264451981,51.9105148315,4.52344989777,51.910785675",
     "geom:latitude":51.910657,
     "geom:longitude":4.523071,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676055,
-    "wof:geomhash":"fe8cf10669dc9d4b11f96ea8bb1e31db",
+    "wof:geomhash":"d5ba14cd3b9b00a91a61503287cfc477",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822053,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822053,
-    "wof:lastmodified":1469676055,
+    "wof:lastmodified":1491851823,
     "wof:name":"3063SM",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.522644519805908,
+    4.52264451980591,
     51.91051483154297,
-    4.523449897766113,
+    4.52344989776611,
     51.91078567504883
 ],
   "geometry": {"coordinates":[[[4.52334117889404,51.91074752807617],[4.52317571640015,51.91069030761719],[4.52283143997192,51.91057586669922],[4.52264451980591,51.91051483154297],[4.52344989776611,51.91078567504883],[4.52334117889404,51.91074752807617]]],"type":"Polygon"}

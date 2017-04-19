@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1044.887811,
     "geom:bbox":"4.78671360016,52.3457298279,4.78740310669,52.3461227417",
     "geom:latitude":52.345925,
     "geom:longitude":4.787058,
@@ -23,12 +24,13 @@
         102191581,
         404474065,
         85633337,
-        101754789
+        101754789,
+        101751893
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666285,
-    "wof:geomhash":"735b065bf9e8f0cd1e11ca82e3148048",
+    "wof:geomhash":"368140b9f3f4bbe4f22d81313d9ab9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754789,
             "postalcode_id":890589639,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589639,
+            "region_id":85687053
         }
     ],
     "wof:id":890589639,
-    "wof:lastmodified":1469666285,
+    "wof:lastmodified":1491951346,
     "wof:name":"1060SP",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.786713600158691,
+    4.78671360015869,
     52.34572982788086,
-    4.787403106689453,
+    4.78740310668945,
     52.34612274169922
 ],
   "geometry": {"coordinates":[[[4.78724050521851,52.34600830078125],[4.78740310668945,52.3459358215332],[4.78714179992676,52.34572982788086],[4.78671360015869,52.34590530395508],[4.78697490692139,52.34612274169922],[4.78724050521851,52.34600830078125]]],"type":"Polygon"}

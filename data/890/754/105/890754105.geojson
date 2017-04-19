@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1205.764449,
     "geom:bbox":"4.33104658127,52.0643844604,4.33187770844,52.0647697449",
     "geom:latitude":52.06457,
     "geom:longitude":4.331467,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673500,
-    "wof:geomhash":"6a619caeb5b549439ca6d84d904aafd6",
+    "wof:geomhash":"e0e884bce6a9c539997beac0024f6d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890754105,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890754105,
+            "region_id":85687041
         }
     ],
     "wof:id":890754105,
-    "wof:lastmodified":1469673500,
+    "wof:lastmodified":1491863762,
     "wof:name":"2516KH",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.331046581268311,
+    4.33104658126831,
     52.06438446044922,
-    4.331877708435059,
+    4.33187770843506,
     52.06476974487305
 ],
   "geometry": {"coordinates":[[[4.33141183853149,52.06468200683594],[4.3316707611084,52.06476974487305],[4.33187770843506,52.0645866394043],[4.33165836334229,52.06450653076172],[4.33131265640259,52.06438446044922],[4.33104658126831,52.06449508666992],[4.33115100860596,52.06458282470703],[4.33141183853149,52.06468200683594]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":134.344957,
     "geom:bbox":"4.5464515686,51.9458084106,4.54670333862,51.946472168",
     "geom:latitude":51.946044,
     "geom:longitude":4.546604,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676090,
-    "wof:geomhash":"037ee9825b9083366381008ef98a110a",
+    "wof:geomhash":"79965681f61db74400298a0bbb139469",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822861,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822861,
-    "wof:lastmodified":1469676090,
+    "wof:lastmodified":1491852121,
     "wof:name":"3067SC",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.546451568603516,
+    4.54645156860352,
     51.94580841064453,
-    4.546703338623047,
+    4.54670333862305,
     51.94647216796875
 ],
   "geometry": {"coordinates":[[[4.54666090011597,51.94580841064453],[4.54645156860352,51.94647216796875],[4.54649209976196,51.94637298583984],[4.54670333862305,51.94583892822266],[4.54666090011597,51.94580841064453]]],"type":"Polygon"}

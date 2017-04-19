@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":87.232381,
     "geom:bbox":"4.40920591354,52.0625343323,4.41098213196,52.0638885498",
     "geom:latitude":52.063253,
     "geom:longitude":4.410045,
@@ -23,12 +24,13 @@
         102191581,
         404474685,
         85633337,
-        101754679
+        101754679,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673376,
-    "wof:geomhash":"1cf0a10d71d573721fb94dc16949084d",
+    "wof:geomhash":"f6695be5049fb40e20de4051709e0196",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754679,
             "postalcode_id":890750689,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750689,
+            "region_id":85687041
         }
     ],
     "wof:id":890750689,
-    "wof:lastmodified":1469673376,
+    "wof:lastmodified":1491863852,
     "wof:name":"2492SC",
-    "wof:parent_id":101754679,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.409205913543701,
+    4.4092059135437,
     52.06253433227539,
-    4.410982131958008,
+    4.41098213195801,
     52.06388854980469
 ],
   "geometry": {"coordinates":[[[4.40994644165039,52.06333541870117],[4.41077661514282,52.06269454956055],[4.41098213195801,52.06253433227539],[4.4092059135437,52.06388854980469],[4.40941762924194,52.0637321472168],[4.40994644165039,52.06333541870117]]],"type":"Polygon"}

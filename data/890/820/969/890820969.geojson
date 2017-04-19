@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":166.070883,
     "geom:bbox":"4.58026504517,51.9691009521,4.58319997787,51.9704399109",
     "geom:latitude":51.969629,
     "geom:longitude":4.581411,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676017,
-    "wof:geomhash":"cfaf7951f866547d79311af74ed8b2c7",
+    "wof:geomhash":"46c9c50af423be8f7551aeeae2bd18a8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890820969,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890820969,
-    "wof:lastmodified":1469676017,
+    "wof:lastmodified":1491851053,
     "wof:name":"3059WG",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.580265045166016,
+    4.58026504516602,
     51.96910095214844,
-    4.583199977874756,
+    4.58319997787476,
     51.97043991088867
 ],
   "geometry": {"coordinates":[[[4.58026504516602,51.96910095214844],[4.58054351806641,51.96924209594727],[4.58272981643677,51.97023010253906],[4.58285808563232,51.97028732299805],[4.58319997787476,51.97043991088867],[4.58181762695312,51.96981048583984],[4.58026504516602,51.96910095214844]]],"type":"Polygon"}

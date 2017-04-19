@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2139.158647,
     "geom:bbox":"4.54972553253,51.9005584717,4.55054664612,51.9011802673",
     "geom:latitude":51.900856,
     "geom:longitude":4.550167,
@@ -23,12 +24,13 @@
         102191581,
         404474245,
         85633337,
-        101760473
+        101760473,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676253,
-    "wof:geomhash":"f10b6de1eee4b01dcc8e51f8cb6b6070",
+    "wof:geomhash":"c24706e7664258c8bf864d3fd425beda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101760473,
             "postalcode_id":890826679,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890826679,
+            "region_id":85687041
         }
     ],
     "wof:id":890826679,
-    "wof:lastmodified":1469676253,
+    "wof:lastmodified":1491853662,
     "wof:name":"3077BM",
-    "wof:parent_id":101760473,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.549725532531738,
+    4.54972553253174,
     51.90055847167969,
-    4.550546646118164,
-    51.901180267333984
+    4.55054664611816,
+    51.90118026733398
 ],
   "geometry": {"coordinates":[[[4.54985570907593,51.90055847167969],[4.54974412918091,51.90059661865234],[4.54972553253174,51.90077590942383],[4.55026817321777,51.90111923217773],[4.55052947998047,51.90118026733398],[4.55054664611816,51.90081405639648],[4.54985570907593,51.90055847167969]]],"type":"Polygon"}
 }

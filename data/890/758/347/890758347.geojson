@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":10.471679,
     "geom:bbox":"4.29127025604,52.0446929932,4.29180622101,52.0450782776",
     "geom:latitude":52.044882,
     "geom:longitude":4.291542,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673659,
-    "wof:geomhash":"40917972d2c572a42927c3e512f99edb",
+    "wof:geomhash":"d7501feb0fa23bf457573ea053eb9981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890758347,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758347,
+            "region_id":85687041
         }
     ],
     "wof:id":890758347,
-    "wof:lastmodified":1469673659,
+    "wof:lastmodified":1491861412,
     "wof:name":"2532XV",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +61,7 @@
   "bbox": [
     4.29127025604248,
     52.04469299316406,
-    4.291806221008301,
+    4.2918062210083,
     52.04507827758789
 ],
   "geometry": {"coordinates":[[[4.29169797897339,52.04477310180664],[4.2918062210083,52.04469299316406],[4.29155397415161,52.04487228393555],[4.29137325286865,52.04500198364258],[4.29127025604248,52.04507827758789],[4.29169797897339,52.04477310180664]]],"type":"Polygon"}

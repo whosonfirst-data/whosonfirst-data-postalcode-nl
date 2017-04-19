@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1075.340067,
     "geom:bbox":"4.55205631256,51.9120407104,4.55490684509,51.9121780396",
     "geom:latitude":51.912107,
     "geom:longitude":4.553504,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676057,
-    "wof:geomhash":"7a780374c2f4a95c1599aeb9105d9d6f",
+    "wof:geomhash":"9a799c626b4ab9e3cbd1de55f65c6190",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822109,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822109,
-    "wof:lastmodified":1469676057,
+    "wof:lastmodified":1491852027,
     "wof:name":"3064LR",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.552056312561035,
+    4.55205631256104,
     51.91204071044922,
-    4.554906845092773,
+    4.55490684509277,
     51.91217803955078
 ],
   "geometry": {"coordinates":[[[4.5541205406189,51.91204071044922],[4.55247592926025,51.9121208190918],[4.55238962173462,51.91212844848633],[4.55217981338501,51.91215515136719],[4.55205631256104,51.91217803955078],[4.55490684509277,51.91209411621094],[4.5541205406189,51.91204071044922]]],"type":"Polygon"}

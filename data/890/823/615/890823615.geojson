@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":11.827786,
     "geom:bbox":"4.5322060585,51.9646530151,4.5327334404,51.9651756287",
     "geom:latitude":51.964895,
     "geom:longitude":4.532488,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676121,
-    "wof:geomhash":"78333e2564384f1ab7c3a5123c99b0cb",
+    "wof:geomhash":"6f8aec272cd10e671c835177dbf59732",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823615,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823615,
-    "wof:lastmodified":1469676121,
+    "wof:lastmodified":1491850275,
     "wof:name":"3069DR",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.532206058502197,
+    4.5322060585022,
     51.96465301513672,
     4.53273344039917,
     51.96517562866211

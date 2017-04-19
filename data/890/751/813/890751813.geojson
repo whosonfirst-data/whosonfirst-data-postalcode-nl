@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":108.323308,
     "geom:bbox":"4.375623703,52.0310096741,4.37674808502,52.0314254761",
     "geom:latitude":52.031246,
     "geom:longitude":4.37625,
@@ -23,12 +24,13 @@
         102191581,
         404474165,
         85633337,
-        101752765
+        101752765,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673417,
-    "wof:geomhash":"8a1c009f9e6350fe6e958d8841bb038b",
+    "wof:geomhash":"c49bc0d1921a623edebc7b89ebfe1ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752765,
             "postalcode_id":890751813,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751813,
+            "region_id":85687041
         }
     ],
     "wof:id":890751813,
-    "wof:lastmodified":1469673417,
+    "wof:lastmodified":1491860389,
     "wof:name":"2498AP",
-    "wof:parent_id":101752765,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,8 +60,8 @@
 },
   "bbox": [
     4.37562370300293,
-    52.031009674072266,
-    4.376748085021973,
+    52.03100967407227,
+    4.37674808502197,
     52.03142547607422
 ],
   "geometry": {"coordinates":[[[4.376540184021,52.03136825561523],[4.37674808502197,52.03142547607422],[4.37581443786621,52.03107452392578],[4.37562370300293,52.03100967407227],[4.37647199630737,52.03134155273438],[4.376540184021,52.03136825561523]]],"type":"Polygon"}

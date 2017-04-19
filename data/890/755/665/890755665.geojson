@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":167.668246,
     "geom:bbox":"4.33034849167,52.0602149963,4.33107852936,52.0604438782",
     "geom:latitude":52.060349,
     "geom:longitude":4.330653,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673558,
-    "wof:geomhash":"9e02114e685567bbc8b43fc8981856e2",
+    "wof:geomhash":"99a5e3eba6c6c9c06f2e385dfc79cebd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755665,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755665,
-    "wof:lastmodified":1469673558,
+    "wof:lastmodified":1491859772,
     "wof:name":"2522EL",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.330348491668701,
+    4.3303484916687,
     52.06021499633789,
     4.33107852935791,
     52.06044387817383

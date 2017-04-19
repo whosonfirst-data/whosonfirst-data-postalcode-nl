@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1477.383517,
     "geom:bbox":"4.33592557907,52.0619506836,4.33711290359,52.0628471375",
     "geom:latitude":52.062458,
     "geom:longitude":4.336469,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673504,
-    "wof:geomhash":"50fa9e316fcde8a4ac071a731b24b88a",
+    "wof:geomhash":"8412cec8929a49afecdcddda757edf08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890754215,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890754215,
+            "region_id":85687041
         }
     ],
     "wof:id":890754215,
-    "wof:lastmodified":1469673504,
+    "wof:lastmodified":1491863766,
     "wof:name":"2516TH",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.335925579071045,
+    4.33592557907104,
     52.06195068359375,
-    4.337112903594971,
+    4.33711290359497,
     52.06284713745117
 ],
   "geometry": {"coordinates":[[[4.33687114715576,52.06206893920898],[4.33596897125244,52.0627326965332],[4.33592653274536,52.06277084350586],[4.33592557907104,52.06281280517578],[4.33595371246338,52.06284713745117],[4.33616542816162,52.06279754638672],[4.33672714233398,52.0623779296875],[4.33711290359497,52.06195068359375],[4.33687114715576,52.06206893920898]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4170.101347,
     "geom:bbox":"4.27484416962,52.0330238342,4.27603292465,52.0341110229",
     "geom:latitude":52.033568,
     "geom:longitude":4.275439,
@@ -23,12 +24,13 @@
         102191581,
         404474179,
         85633337,
-        101754721
+        101754721,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673773,
-    "wof:geomhash":"3a84a4a014293abab69f1b5d3c0cde12",
+    "wof:geomhash":"ec9531b4e41a4c9ad85c936d06900fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754721,
             "postalcode_id":890761307,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761307,
+            "region_id":85687041
         }
     ],
     "wof:id":890761307,
-    "wof:lastmodified":1469673773,
+    "wof:lastmodified":1491861357,
     "wof:name":"2548EG",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.274844169616699,
-    52.033023834228516,
+    4.2748441696167,
+    52.03302383422852,
     4.2760329246521,
     52.03411102294922
 ],

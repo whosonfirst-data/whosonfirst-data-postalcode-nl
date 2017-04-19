@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
+    "geom:area_square_m":177151.439136,
     "geom:bbox":"4.28092765808,52.0230026245,4.29777622223,52.033164978",
     "geom:latitude":52.028284,
     "geom:longitude":4.287508,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673777,
-    "wof:geomhash":"6b5e3c4521208ad1466d402c096b219c",
+    "wof:geomhash":"4b6fb092b366b7314206194d9379aba6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761371,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890761371,
-    "wof:lastmodified":1469673777,
+    "wof:lastmodified":1491860548,
     "wof:name":"2548HV",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.280927658081055,
+    4.28092765808105,
     52.02300262451172,
-    4.297776222229004,
-    52.033164978027344
+    4.297776222229,
+    52.03316497802734
 ],
   "geometry": {"coordinates":[[[4.2827844619751,52.03012847900391],[4.28092765808105,52.03316497802734],[4.297776222229,52.02300262451172],[4.28430318832397,52.0284538269043],[4.2827844619751,52.03012847900391]]],"type":"Polygon"}
 }

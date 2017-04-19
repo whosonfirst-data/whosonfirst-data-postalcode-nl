@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":18.873572,
     "geom:bbox":"4.41564559937,52.0670661926,4.41572952271,52.0671234131",
     "geom:latitude":52.067096,
     "geom:longitude":4.415687,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474685,
+        101752763,
         85633337,
+        85687041,
+        404474685,
         101754679
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673374,
-    "wof:geomhash":"f7511e198032ef2f6b66b505acefc4ea",
+    "wof:geomhash":"5744376b3fb6880dcbc578dfd7746849",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750617,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890750617,
-    "wof:lastmodified":1469673374,
+    "wof:lastmodified":1491863849,
     "wof:name":"2492PD",
-    "wof:parent_id":101754679,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.415645599365234,
+    4.41564559936523,
     52.06706619262695,
-    4.415729522705078,
+    4.41572952270508,
     52.06712341308594
 ],
   "geometry": {"coordinates":[[[4.41564559936523,52.06708526611328],[4.41568279266357,52.06712341308594],[4.41572952270508,52.06710815429688],[4.41568994522095,52.06706619262695],[4.41564559936523,52.06708526611328]]],"type":"Polygon"}

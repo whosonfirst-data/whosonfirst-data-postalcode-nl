@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":296.273774,
     "geom:bbox":"4.32816696167,52.0576057434,4.32876396179,52.0577659607",
     "geom:latitude":52.057673,
     "geom:longitude":4.328511,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673576,
-    "wof:geomhash":"df7689c47f29a864238c29dbf80fe712",
+    "wof:geomhash":"3fb7fd9b3ae0cfab34a210e0f71be99a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890756007,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756007,
+            "region_id":85687041
         }
     ],
     "wof:id":890756007,
-    "wof:lastmodified":1469673576,
+    "wof:lastmodified":1491862210,
     "wof:name":"2522TV",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.328166961669922,
+    4.32816696166992,
     52.0576057434082,
-    4.328763961791992,
+    4.32876396179199,
     52.05776596069336
 ],
   "geometry": {"coordinates":[[[4.32860612869263,52.05776596069336],[4.32876396179199,52.05764770507812],[4.32816696166992,52.0576057434082],[4.32825660705566,52.05764007568359],[4.32860612869263,52.05776596069336]]],"type":"Polygon"}

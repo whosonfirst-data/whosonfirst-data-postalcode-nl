@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":15.10332,
     "geom:bbox":"4.31329727173,52.0535316467,4.31411123276,52.0538139343",
     "geom:latitude":52.053669,
     "geom:longitude":4.313693,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673596,
-    "wof:geomhash":"dcfac2206b38947d5439a6abbeb3cdef",
+    "wof:geomhash":"f2d4e974c7e200739d1cacb94f23792f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756601,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890756601,
-    "wof:lastmodified":1469673596,
+    "wof:lastmodified":1491860681,
     "wof:name":"2524LA",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.313297271728516,
-    52.053531646728516,
-    4.314111232757568,
+    4.31329727172852,
+    52.05353164672852,
+    4.31411123275757,
     52.05381393432617
 ],
   "geometry": {"coordinates":[[[4.31341648101807,52.05357360839844],[4.31391954421997,52.05374908447266],[4.31411123275757,52.05381393432617],[4.31404733657837,52.05379104614258],[4.31386280059815,52.05372619628906],[4.31379747390747,52.05370330810547],[4.31335783004761,52.05355072021484],[4.31329727172852,52.05353164672852],[4.31341648101807,52.05357360839844]]],"type":"Polygon"}

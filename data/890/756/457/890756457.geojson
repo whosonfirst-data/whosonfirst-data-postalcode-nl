@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":133.233289,
     "geom:bbox":"4.31687641144,52.053024292,4.31815958023,52.0543632507",
     "geom:latitude":52.053836,
     "geom:longitude":4.317385,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673591,
-    "wof:geomhash":"46f1b759e841dd8e92f173e3e3f8f1a6",
+    "wof:geomhash":"2ae7b79f8dcb90d42facdb39dab28028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890756457,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756457,
+            "region_id":85687041
         }
     ],
     "wof:id":890756457,
-    "wof:lastmodified":1469673591,
+    "wof:lastmodified":1491863728,
     "wof:name":"2524CG",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.316876411437988,
+    4.31687641143799,
     52.05302429199219,
-    4.318159580230713,
+    4.31815958023071,
     52.05436325073242
 ],
   "geometry": {"coordinates":[[[4.31739807128906,52.05381011962891],[4.31687641143799,52.05436325073242],[4.31694412231445,52.0543098449707],[4.31721544265747,52.05402374267578],[4.31815958023071,52.05302429199219],[4.3174786567688,52.05372619628906],[4.31739807128906,52.05381011962891]]],"type":"Polygon"}

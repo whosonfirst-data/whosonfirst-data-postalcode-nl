@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":315.593544,
     "geom:bbox":"4.38946008682,52.060546875,4.3898935318,52.0607948303",
     "geom:latitude":52.060671,
     "geom:longitude":4.389677,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474685,
+        101752763,
         85633337,
+        85687041,
+        404474685,
         101754709
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673383,
-    "wof:geomhash":"3cd8fbef0fd2c30fafb6a2f82017ca9d",
+    "wof:geomhash":"9754b11ff086d3fd98d413db747fc16a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750865,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890750865,
-    "wof:lastmodified":1469673383,
+    "wof:lastmodified":1491861179,
     "wof:name":"2493AR",
-    "wof:parent_id":101754709,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,8 +61,8 @@
   "bbox": [
     4.38946008682251,
     52.060546875,
-    4.389893531799316,
-    52.060794830322266
+    4.38989353179932,
+    52.06079483032227
 ],
   "geometry": {"coordinates":[[[4.38957834243774,52.0606803894043],[4.38979339599609,52.06079483032227],[4.38989353179932,52.06072616577148],[4.38978433609009,52.06066513061523],[4.38956356048584,52.060546875],[4.38946008682251,52.06061553955078],[4.38957834243774,52.0606803894043]]],"type":"Polygon"}
 }

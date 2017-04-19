@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":89.37687,
     "geom:bbox":"4.30454826355,52.0496749878,4.30490779877,52.0500183105",
     "geom:latitude":52.049812,
     "geom:longitude":4.304787,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673641,
-    "wof:geomhash":"b29b737362501932ae2a6919c17a15d5",
+    "wof:geomhash":"ef90e7dab810570825317b96a2f72cee",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890757847,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890757847,
-    "wof:lastmodified":1469673641,
+    "wof:lastmodified":1491860684,
     "wof:name":"2531GT",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.304548263549805,
+    4.3045482635498,
     52.04967498779297,
     4.30490779876709,
-    52.050018310546875
+    52.05001831054688
 ],
   "geometry": {"coordinates":[[[4.30482959747315,52.04980087280273],[4.30490732192993,52.04973983764648],[4.30490779876709,52.04967498779297],[4.3045482635498,52.05001831054688],[4.30479049682617,52.04983139038086],[4.30482959747315,52.04980087280273]]],"type":"Polygon"}
 }

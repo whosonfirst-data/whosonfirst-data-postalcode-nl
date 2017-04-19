@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":756.075581,
     "geom:bbox":"4.57696294785,51.9719696045,4.57751512527,51.9723625183",
     "geom:latitude":51.972165,
     "geom:longitude":4.577237,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676127,
-    "wof:geomhash":"77a4130de420f684456aab311772aa05",
+    "wof:geomhash":"761d8d52ba70e5b2f46fc7fd2f8eebf8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823775,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823775,
-    "wof:lastmodified":1469676127,
+    "wof:lastmodified":1491852067,
     "wof:name":"3069RZ",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.576962947845459,
+    4.57696294784546,
     51.97196960449219,
-    4.577515125274658,
+    4.57751512527466,
     51.97236251831055
 ],
   "geometry": {"coordinates":[[[4.57717227935791,51.97236251831055],[4.57721900939941,51.97232437133789],[4.57747459411621,51.97211074829102],[4.57751512527466,51.97207260131836],[4.57728672027588,51.97196960449219],[4.57719612121582,51.9720458984375],[4.57696294784546,51.97226715087891],[4.57717227935791,51.97236251831055]]],"type":"Polygon"}

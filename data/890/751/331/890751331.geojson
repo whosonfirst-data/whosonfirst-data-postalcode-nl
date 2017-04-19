@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":681.579458,
     "geom:bbox":"4.37061786652,52.0414237976,4.37114858627,52.0417900085",
     "geom:latitude":52.041577,
     "geom:longitude":4.370849,
@@ -23,12 +24,13 @@
         102191581,
         404474165,
         85633337,
-        101752765
+        101752765,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673398,
-    "wof:geomhash":"6ccef7d3865bbd7ab7ee01a778c35445",
+    "wof:geomhash":"0eff0ae58f1dbeb000fe0ebc3f0398b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752765,
             "postalcode_id":890751331,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751331,
+            "region_id":85687041
         }
     ],
     "wof:id":890751331,
-    "wof:lastmodified":1469673398,
+    "wof:lastmodified":1491861170,
     "wof:name":"2496SR",
-    "wof:parent_id":101752765,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.370617866516113,
+    4.37061786651611,
     52.04142379760742,
-    4.371148586273193,
+    4.37114858627319,
     52.04179000854492
 ],
   "geometry": {"coordinates":[[[4.37083005905151,52.04143142700195],[4.37080430984497,52.04145431518555],[4.37066698074341,52.04159164428711],[4.37061786651611,52.04175567626953],[4.37064743041992,52.04179000854492],[4.37114858627319,52.04151153564453],[4.3710503578186,52.04145812988281],[4.37095785140991,52.04142379760742],[4.37083005905151,52.04143142700195]]],"type":"Polygon"}

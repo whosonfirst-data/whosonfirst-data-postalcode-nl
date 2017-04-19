@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":25700.412891,
     "geom:bbox":"4.54734039307,51.9409103394,4.55179071426,51.9425163269",
     "geom:latitude":51.941678,
     "geom:longitude":4.549118,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676071,
-    "wof:geomhash":"ca7e70658864041fa5b3383f80923aae",
+    "wof:geomhash":"14f4840fdefb086d269153649f01f022",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822489,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822489,
-    "wof:lastmodified":1469676071,
+    "wof:lastmodified":1491851381,
     "wof:name":"3067AG",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.547340393066406,
+    4.54734039306641,
     51.94091033935547,
-    4.551790714263916,
+    4.55179071426392,
     51.9425163269043
 ],
   "geometry": {"coordinates":[[[4.54734039306641,51.94121551513672],[4.54842281341553,51.9425163269043],[4.55179071426392,51.9416389465332],[4.54746866226196,51.94091033935547],[4.54734039306641,51.94121551513672]]],"type":"Polygon"}

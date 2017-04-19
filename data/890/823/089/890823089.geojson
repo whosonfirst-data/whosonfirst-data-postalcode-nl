@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":68.367726,
     "geom:bbox":"4.5445189476,51.9544487,4.54498910904,51.9555892944",
     "geom:latitude":51.955095,
     "geom:longitude":4.544721,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676097,
-    "wof:geomhash":"4052aa121985e0dfbb8cec42b4f960f2",
+    "wof:geomhash":"aeadc67c1ce149b09d6fc0e80d74e344",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823089,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823089,
-    "wof:lastmodified":1469676097,
+    "wof:lastmodified":1491851411,
     "wof:name":"3068CL",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.544518947601318,
+    4.54451894760132,
     51.95444869995117,
-    4.544989109039307,
-    51.955589294433594
+    4.54498910903931,
+    51.95558929443359
 ],
   "geometry": {"coordinates":[[[4.54461908340454,51.95532608032227],[4.54451894760132,51.95558929443359],[4.54456615447998,51.95548248291016],[4.54461097717285,51.95537948608398],[4.54498910903931,51.95444869995117],[4.54496717453003,51.95449829101562],[4.54494571685791,51.95454788208008],[4.54479122161865,51.95491409301758],[4.54461908340454,51.95532608032227]]],"type":"Polygon"}
 }

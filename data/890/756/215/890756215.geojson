@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":9.232356,
     "geom:bbox":"4.31466197968,52.0558433533,4.31547546387,52.0561332703",
     "geom:latitude":52.05601,
     "geom:longitude":4.315129,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673583,
-    "wof:geomhash":"2daafbeb3e471cb05e0309148b9a554f",
+    "wof:geomhash":"b37ef754c19138ee9b15f4a6df848e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890756215,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756215,
+            "region_id":85687041
         }
     ],
     "wof:id":890756215,
-    "wof:lastmodified":1469673583,
+    "wof:lastmodified":1491863720,
     "wof:name":"2523CS",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.314661979675293,
-    52.055843353271484,
-    4.315475463867188,
+    4.31466197967529,
+    52.05584335327148,
+    4.31547546386719,
     52.05613327026367
 ],
   "geometry": {"coordinates":[[[4.31542444229126,52.05611419677734],[4.31466197967529,52.05584335327148],[4.31496858596802,52.05595397949219],[4.31524562835693,52.05605316162109],[4.31547546386719,52.05613327026367],[4.31542444229126,52.05611419677734]]],"type":"Polygon"}

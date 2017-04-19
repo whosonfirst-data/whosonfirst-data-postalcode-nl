@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":40.459971,
     "geom:bbox":"4.79091739655,52.344078064,4.7915225029,52.3443183899",
     "geom:latitude":52.344184,
     "geom:longitude":4.79125,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474065,
+        101751893,
         85633337,
+        85687053,
+        404474065,
         101754789
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666285,
-    "wof:geomhash":"70cce3b0528bd726b5b792b6746aaa9b",
+    "wof:geomhash":"c23cdcfbcc2489a485ce1da8a17e2d0b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589655,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890589655,
-    "wof:lastmodified":1469666285,
+    "wof:lastmodified":1491951350,
     "wof:name":"1060TC",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,7 +60,7 @@
 },
   "bbox": [
     4.79091739654541,
-    52.344078063964844,
+    52.34407806396484,
     4.79152250289917,
     52.34431838989258
 ],

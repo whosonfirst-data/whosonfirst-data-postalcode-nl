@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10395.009443,
     "geom:bbox":"4.52671003342,51.9231491089,4.52849006653,51.9256973267",
     "geom:latitude":51.924318,
     "geom:longitude":4.527752,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101754669
+        101754669,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676050,
-    "wof:geomhash":"124cbb3f777235b76fbe9998c88f6ffe",
+    "wof:geomhash":"a5124611fa116f95ce16bdd75a1e4e63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754669,
             "postalcode_id":890821879,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890821879,
+            "region_id":85687041
         }
     ],
     "wof:id":890821879,
-    "wof:lastmodified":1469676050,
+    "wof:lastmodified":1491852647,
     "wof:name":"3062XP",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.526710033416748,
+    4.52671003341675,
     51.92314910888672,
     4.52849006652832,
-    51.925697326660156
+    51.92569732666016
 ],
   "geometry": {"coordinates":[[[4.52849006652832,51.92497253417969],[4.52768230438232,51.92353057861328],[4.52671003341675,51.92314910888672],[4.52694797515869,51.92352676391602],[4.52829885482788,51.92569732666016],[4.52849006652832,51.92497253417969]]],"type":"Polygon"}
 }

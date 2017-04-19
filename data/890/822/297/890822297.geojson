@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":6100.471225,
     "geom:bbox":"4.55803489685,51.9212112427,4.56088113785,51.9219741821",
     "geom:latitude":51.921534,
     "geom:longitude":4.559256,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676064,
-    "wof:geomhash":"3ce2291d09de8335794b51e44add08a4",
+    "wof:geomhash":"12f74a54a39b5bc7ac741b4a5f7c1dfa",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822297,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822297,
-    "wof:lastmodified":1469676064,
+    "wof:lastmodified":1491854117,
     "wof:name":"3065SM",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.558034896850586,
+    4.55803489685059,
     51.92121124267578,
     4.5608811378479,
-    51.921974182128906
+    51.92197418212891
 ],
   "geometry": {"coordinates":[[[4.55844974517822,51.92159652709961],[4.5608811378479,51.92197418212891],[4.55923748016357,51.92124557495117],[4.55803489685059,51.92121124267578],[4.55844974517822,51.92159652709961]]],"type":"Polygon"}
 }

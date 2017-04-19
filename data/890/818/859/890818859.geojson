@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":11212.72835,
     "geom:bbox":"4.40002393723,51.9420776367,4.40711784363,51.9436454773",
     "geom:latitude":51.942895,
     "geom:longitude":4.403472,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474253,
+        101751843,
         85633337,
+        85687041,
+        404474253,
         101751845
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469675935,
-    "wof:geomhash":"f5f441ca3ccf9260bc468ea5921884c7",
+    "wof:geomhash":"1fdc65ca39a089fd2a80220ca8ec1324",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890818859,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890818859,
-    "wof:lastmodified":1469675935,
+    "wof:lastmodified":1491850600,
     "wof:name":"3047BR",
-    "wof:parent_id":101751845,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.400023937225342,
+    4.40002393722534,
     51.94207763671875,
     4.40711784362793,
     51.94364547729492

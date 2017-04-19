@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":13499.882092,
     "geom:bbox":"4.56357908249,51.9473953247,4.56508255005,51.9493865967",
     "geom:latitude":51.948391,
     "geom:longitude":4.564388,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676086,
-    "wof:geomhash":"b2dd4e15288b182a18e222a98b077267",
+    "wof:geomhash":"69d9adcdf9886bdf836dfc77bbbc5b06",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822761,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822761,
-    "wof:lastmodified":1469676086,
+    "wof:lastmodified":1491852113,
     "wof:name":"3067MR",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.563579082489014,
+    4.56357908248901,
     51.94739532470703,
-    4.565082550048828,
+    4.56508255004883,
     51.94938659667969
 ],
   "geometry": {"coordinates":[[[4.56504392623901,51.94774627685547],[4.56495332717896,51.94769287109375],[4.56418132781982,51.94739532470703],[4.56357908248901,51.94937515258789],[4.56378173828125,51.94938659667969],[4.56508255004883,51.94869613647461],[4.56504392623901,51.94774627685547]]],"type":"Polygon"}

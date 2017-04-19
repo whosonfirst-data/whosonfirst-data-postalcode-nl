@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":30.575276,
     "geom:bbox":"4.56009101868,51.9491844177,4.56087064743,51.9492988586",
     "geom:latitude":51.949234,
     "geom:longitude":4.560453,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676086,
-    "wof:geomhash":"c931c234a9900d4c770b6fadda191833",
+    "wof:geomhash":"aff37cfbdf4e8328f5e6cbe0bb0c52db",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822759,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822759,
-    "wof:lastmodified":1469676086,
+    "wof:lastmodified":1491852039,
     "wof:name":"3067MP",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.560091018676758,
+    4.56009101867676,
     51.94918441772461,
     4.56087064743042,
     51.94929885864258

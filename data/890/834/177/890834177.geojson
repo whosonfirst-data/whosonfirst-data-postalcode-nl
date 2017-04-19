@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":9.150969,
     "geom:bbox":"4.34798383713,51.909236908,4.3484749794,51.9092483521",
     "geom:latitude":51.909244,
     "geom:longitude":4.348236,
@@ -23,12 +24,13 @@
         102191581,
         404474273,
         85633337,
-        101751851
+        101751851,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676532,
-    "wof:geomhash":"0abd145ae44cdab05f21305d9b761699",
+    "wof:geomhash":"41ded710dcaf5c91672f54f5fab7970c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751851,
             "postalcode_id":890834177,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890834177,
+            "region_id":85687041
         }
     ],
     "wof:id":890834177,
-    "wof:lastmodified":1469676532,
+    "wof:lastmodified":1491853194,
     "wof:name":"3134BM",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.347983837127686,
-    51.909236907958984,
-    4.348474979400635,
+    4.34798383712769,
+    51.90923690795898,
+    4.34847497940063,
     51.90924835205078
 ],
   "geometry": {"coordinates":[[[4.34798383712769,51.90923690795898],[4.34806537628174,51.90924072265625],[4.3482837677002,51.90924835205078],[4.34833478927612,51.90924835205078],[4.34837484359741,51.90924835205078],[4.34847497940063,51.90924835205078],[4.34798383712769,51.90923690795898]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":12.828234,
     "geom:bbox":"4.3913359642,52.0535850525,4.39212942123,52.0536308289",
     "geom:latitude":52.053607,
     "geom:longitude":4.391748,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474687,
+        101752763,
         85633337,
+        85687041,
+        404474687,
         101754635
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673402,
-    "wof:geomhash":"031be539a101a4dbc3d850b053df9118",
+    "wof:geomhash":"fc4ba8fd1cddc1047090f6c41d18b723",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751443,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890751443,
-    "wof:lastmodified":1469673402,
+    "wof:lastmodified":1491860429,
     "wof:name":"2496ZE",
-    "wof:parent_id":101754635,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.391335964202881,
-    52.053585052490234,
-    4.392129421234131,
+    4.39133596420288,
+    52.05358505249023,
+    4.39212942123413,
     52.05363082885742
 ],
   "geometry": {"coordinates":[[[4.39195728302002,52.05359268188477],[4.39133596420288,52.05363082885742],[4.39141654968262,52.05362701416016],[4.39156675338745,52.05361938476562],[4.39187908172607,52.0536003112793],[4.39212942123413,52.05358505249023],[4.39203929901123,52.0535888671875],[4.39195728302002,52.05359268188477]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":575.934003,
     "geom:bbox":"5.0039639473,52.0915603638,5.00455522537,52.0924530029",
     "geom:latitude":52.092059,
     "geom:longitude":5.004292,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687039,
         102191581,
-        404474007,
+        101751827,
         85633337,
+        85687039,
+        404474007,
         101808427
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469677906,
-    "wof:geomhash":"0082983d11760e254d696ec2c090fad8",
+    "wof:geomhash":"e06f676853b41b50c274cc27bd7073da",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "postalcode_id":890870431,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890870431,
-    "wof:lastmodified":1469677906,
+    "wof:lastmodified":1491856715,
     "wof:name":"3452DE",
-    "wof:parent_id":101808427,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.003963947296143,
+    5.00396394729614,
     52.09156036376953,
-    5.004555225372314,
+    5.00455522537231,
     52.09245300292969
 ],
   "geometry": {"coordinates":[[[5.0044379234314,52.0924072265625],[5.0044469833374,52.09242248535156],[5.00455522537231,52.09245300292969],[5.00426006317139,52.09188461303711],[5.00396394729614,52.09156036376953],[5.0044379234314,52.0924072265625]]],"type":"Polygon"}

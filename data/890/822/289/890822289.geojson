@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":30224.99046,
     "geom:bbox":"4.55569028854,51.9225311279,4.55871105194,51.9257507324",
     "geom:latitude":51.92422,
     "geom:longitude":4.557461,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101754669
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676064,
-    "wof:geomhash":"5dc7c1c47c7124cb0ee2d7a6dd2c12ca",
+    "wof:geomhash":"cf777c55af76d2ac4b7c405b4f1f9f62",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822289,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822289,
-    "wof:lastmodified":1469676064,
+    "wof:lastmodified":1491854117,
     "wof:name":"3065SJ",
-    "wof:parent_id":101754669,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.555690288543701,
+    4.5556902885437,
     51.92253112792969,
-    4.558711051940918,
-    51.925750732421875
+    4.55871105194092,
+    51.92575073242188
 ],
   "geometry": {"coordinates":[[[4.55758762359619,51.92551422119141],[4.55803537368774,51.92567825317383],[4.55832624435425,51.92575073242188],[4.55871105194092,51.92402648925781],[4.55591011047363,51.92261505126953],[4.5556902885437,51.92253112792969],[4.55742216110229,51.92541122436523],[4.55758762359619,51.92551422119141]]],"type":"Polygon"}
 }

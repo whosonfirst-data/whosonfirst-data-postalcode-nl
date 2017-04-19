@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":336.973665,
     "geom:bbox":"4.5725569725,51.9676170349,4.5730342865,51.9688720703",
     "geom:latitude":51.968071,
     "geom:longitude":4.572863,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676129,
-    "wof:geomhash":"43c191cfb52d9ce0fe90cac4ef846781",
+    "wof:geomhash":"d64df92a1b048e56af3d3bab8709bf09",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890823829,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890823829,
-    "wof:lastmodified":1469676129,
+    "wof:lastmodified":1491850277,
     "wof:name":"3069XH",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.572556972503662,
+    4.57255697250366,
     51.96761703491211,
-    4.573034286499023,
+    4.57303428649902,
     51.9688720703125
 ],
   "geometry": {"coordinates":[[[4.57297658920288,51.96768188476562],[4.57255697250366,51.9688720703125],[4.57257509231567,51.96883010864258],[4.57261323928833,51.9687385559082],[4.57302665710449,51.96773147583008],[4.57303428649902,51.96770858764648],[4.5730242729187,51.96761703491211],[4.57297658920288,51.96768188476562]]],"type":"Polygon"}

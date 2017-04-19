@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4709.327473,
     "geom:bbox":"5.01127290726,52.1038513184,5.01204776764,52.1054077148",
     "geom:latitude":52.104644,
     "geom:longitude":5.011569,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687039,
         102191581,
-        404474007,
+        101751827,
         85633337,
+        85687039,
+        404474007,
         101808427
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469677887,
-    "wof:geomhash":"7e18b0ba660d3937723bd8facd06cc6d",
+    "wof:geomhash":"a3e4889d4be2d17aa070b8fe0084d3d8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "postalcode_id":890869917,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890869917,
-    "wof:lastmodified":1469677887,
+    "wof:lastmodified":1491857387,
     "wof:name":"3451BV",
-    "wof:parent_id":101808427,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -51,7 +60,7 @@
 },
   "bbox": [
     5.01127290725708,
-    52.103851318359375,
+    52.10385131835938,
     5.01204776763916,
     52.10540771484375
 ],

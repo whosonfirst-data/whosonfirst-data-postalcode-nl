@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1595.813449,
     "geom:bbox":"4.36392688751,52.0615577698,4.36543607712,52.0625076294",
     "geom:latitude":52.061989,
     "geom:longitude":4.364678,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474685,
+        101752763,
         85633337,
+        85687041,
+        404474685,
         101754709
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673390,
-    "wof:geomhash":"32e96ef8bcf25233b8e248fdf097e8cc",
+    "wof:geomhash":"153a4c3ac4b974339955cd31a1860173",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890751081,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890751081,
-    "wof:lastmodified":1469673390,
+    "wof:lastmodified":1491861158,
     "wof:name":"2495AM",
-    "wof:parent_id":101754709,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.363926887512207,
+    4.36392688751221,
     52.06155776977539,
     4.36543607711792,
     52.06250762939453

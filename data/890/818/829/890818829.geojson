@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4634.381681,
     "geom:bbox":"4.40058517456,51.942325592,4.40144443512,51.9436988831",
     "geom:latitude":51.94296,
     "geom:longitude":4.400891,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474253,
+        101751843,
         85633337,
+        85687041,
+        404474253,
         101751845
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469675934,
-    "wof:geomhash":"800f11ac2a4c8724d171c183bce2701c",
+    "wof:geomhash":"fcbd4f6714bd86ce171df86cdb489f71",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890818829,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890818829,
-    "wof:lastmodified":1469675934,
+    "wof:lastmodified":1491851330,
     "wof:name":"3047AK",
-    "wof:parent_id":101751845,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.400585174560547,
-    51.942325592041016,
-    4.401444435119629,
+    4.40058517456055,
+    51.94232559204102,
+    4.40144443511963,
     51.94369888305664
 ],
   "geometry": {"coordinates":[[[4.40059232711792,51.94265747070312],[4.40058517456055,51.94369888305664],[4.40144443511963,51.94289398193359],[4.40077877044678,51.94232559204102],[4.40059232711792,51.94265747070312]]],"type":"Polygon"}

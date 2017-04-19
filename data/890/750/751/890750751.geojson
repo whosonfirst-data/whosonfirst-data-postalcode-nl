@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":5.518175,
     "geom:bbox":"4.41568565369,52.0591812134,4.41616678238,52.0595703125",
     "geom:latitude":52.059395,
     "geom:longitude":4.415903,
@@ -23,12 +24,13 @@
         102191581,
         404474685,
         85633337,
-        101754679
+        101754679,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673379,
-    "wof:geomhash":"4ce1aae813c4f0f68d25a4df3b95da27",
+    "wof:geomhash":"aa72f40b27e33efea296166fdd304d84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754679,
             "postalcode_id":890750751,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750751,
+            "region_id":85687041
         }
     ],
     "wof:id":890750751,
-    "wof:lastmodified":1469673379,
+    "wof:lastmodified":1491861179,
     "wof:name":"2492TS",
-    "wof:parent_id":101754679,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.415685653686523,
-    52.059181213378906,
+    4.41568565368652,
+    52.05918121337891,
     4.41616678237915,
     52.0595703125
 ],

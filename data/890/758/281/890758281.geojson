@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1.106468,
     "geom:bbox":"4.2980799675,52.047504425,4.2982711792,52.0477561951",
     "geom:latitude":52.047622,
     "geom:longitude":4.298182,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673657,
-    "wof:geomhash":"d10cd6f6d160e919f55c5d5ad220039d",
+    "wof:geomhash":"538435cf9eded91399f77343a88f71f8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890758281,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890758281,
-    "wof:lastmodified":1469673657,
+    "wof:lastmodified":1491861452,
     "wof:name":"2532TC",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.298079967498779,
+    4.29807996749878,
     52.04750442504883,
-    4.298271179199219,
+    4.29827117919922,
     52.04775619506836
 ],
   "geometry": {"coordinates":[[[4.29822397232056,52.04756546020508],[4.29819202423096,52.047607421875],[4.29812002182007,52.04770278930664],[4.29807996749878,52.04775619506836],[4.29827117919922,52.04750442504883],[4.29822397232056,52.04756546020508]]],"type":"Polygon"}

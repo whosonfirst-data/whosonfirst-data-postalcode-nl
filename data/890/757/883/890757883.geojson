@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":586.198439,
     "geom:bbox":"4.30442094803,52.0513153076,4.30493688583,52.0516166687",
     "geom:latitude":52.051455,
     "geom:longitude":4.304688,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673642,
-    "wof:geomhash":"e00838117c40cf8d6a20b62b497dae50",
+    "wof:geomhash":"223011a09fef5d452d0f82df325d4613",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890757883,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890757883,
-    "wof:lastmodified":1469673642,
+    "wof:lastmodified":1491861413,
     "wof:name":"2531HV",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.304420948028564,
+    4.30442094802856,
     52.05131530761719,
     4.30493688583374,
     52.05161666870117

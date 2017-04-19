@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3562.743938,
     "geom:bbox":"4.54814815521,51.9397163391,4.549223423,51.9406013489",
     "geom:latitude":51.940227,
     "geom:longitude":4.548669,
@@ -23,12 +24,13 @@
         102191581,
         404474163,
         85633337,
-        101752769
+        101752769,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676071,
-    "wof:geomhash":"8c74d599b14bd7b6e15cc54d4ee2931b",
+    "wof:geomhash":"7d94cfa6f0d8a615b2645005e4894f48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101752769,
             "postalcode_id":890822501,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822501,
+            "region_id":85687041
         }
     ],
     "wof:id":890822501,
-    "wof:lastmodified":1469676071,
+    "wof:lastmodified":1491852727,
     "wof:name":"3067AP",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.548148155212402,
+    4.5481481552124,
     51.93971633911133,
     4.54922342300415,
     51.94060134887695

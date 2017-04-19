@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":769.204189,
     "geom:bbox":"4.33450174332,51.9101104736,4.33538770676,51.9117546082",
     "geom:latitude":51.911016,
     "geom:longitude":4.334975,
@@ -23,12 +24,13 @@
         102191581,
         404474273,
         85633337,
-        101751851
+        101751851,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676507,
-    "wof:geomhash":"cc1b89546b30df762cec70e303306a41",
+    "wof:geomhash":"c0945ae13e246fefc0b79a937ef8220f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751851,
             "postalcode_id":890833459,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890833459,
+            "region_id":85687041
         }
     ],
     "wof:id":890833459,
-    "wof:lastmodified":1469676507,
+    "wof:lastmodified":1491853184,
     "wof:name":"3131JR",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +61,7 @@
   "bbox": [
     4.33450174331665,
     51.91011047363281,
-    4.335387706756592,
+    4.33538770675659,
     51.9117546081543
 ],
   "geometry": {"coordinates":[[[4.33520936965942,51.91153717041016],[4.33528423309326,51.91167068481445],[4.33533668518066,51.9117546081543],[4.33538770675659,51.9117431640625],[4.33480453491211,51.91061782836914],[4.33450174331665,51.91011047363281],[4.33457946777344,51.91031646728516],[4.33520936965942,51.91153717041016]]],"type":"Polygon"}

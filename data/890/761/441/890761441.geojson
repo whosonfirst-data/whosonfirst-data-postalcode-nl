@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1401.317663,
     "geom:bbox":"4.2873711586,52.0400619507,4.2886133194,52.0403327942",
     "geom:latitude":52.040209,
     "geom:longitude":4.287867,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474179,
+        101752763,
         85633337,
+        85687041,
+        404474179,
         101754721
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673782,
-    "wof:geomhash":"5445d5558dd62764dfce2ce655c7f6f2",
+    "wof:geomhash":"bc5e12d8429bd8f8dd739020649e7ccb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761441,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890761441,
-    "wof:lastmodified":1469673782,
+    "wof:lastmodified":1491863769,
     "wof:name":"2548MR",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.287371158599854,
-    52.040061950683594,
-    4.288613319396973,
+    4.28737115859985,
+    52.04006195068359,
+    4.28861331939697,
     52.04033279418945
 ],
   "geometry": {"coordinates":[[[4.28760480880737,52.04006195068359],[4.2874870300293,52.04015350341797],[4.28737115859985,52.04033279418945],[4.28861331939697,52.04026412963867],[4.28788709640503,52.04008483886719],[4.28780889511108,52.04006576538086],[4.28760480880737,52.04006195068359]]],"type":"Polygon"}

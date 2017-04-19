@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":47.578923,
     "geom:bbox":"4.31598567963,52.0596160889,4.31654119492,52.059841156",
     "geom:latitude":52.059729,
     "geom:longitude":4.316266,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673551,
-    "wof:geomhash":"499b4b23c3de3343a4e36a636b523f26",
+    "wof:geomhash":"8d7f6d432345a00caef0f29802030776",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755469,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755469,
-    "wof:lastmodified":1469673551,
+    "wof:lastmodified":1491860179,
     "wof:name":"2521TZ",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.315985679626465,
+    4.31598567962646,
     52.05961608886719,
-    4.316541194915771,
+    4.31654119491577,
     52.05984115600586
 ],
   "geometry": {"coordinates":[[[4.3164119720459,52.05979919433594],[4.31654119491577,52.05984115600586],[4.31633138656616,52.05974960327148],[4.3161244392395,52.05966186523438],[4.31598567962646,52.05961608886719],[4.3162055015564,52.05971145629883],[4.3164119720459,52.05979919433594]]],"type":"Polygon"}

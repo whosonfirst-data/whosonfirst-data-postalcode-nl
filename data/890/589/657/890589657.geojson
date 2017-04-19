@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":233.166161,
     "geom:bbox":"4.78915166855,52.3438529968,4.79123210907,52.3446769714",
     "geom:latitude":52.34424,
     "geom:longitude":4.790249,
@@ -23,12 +24,13 @@
         102191581,
         404474065,
         85633337,
-        101754789
+        101754789,
+        101751893
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469666285,
-    "wof:geomhash":"b5547cbec58cc60e07321f692d0cf634",
+    "wof:geomhash":"0a101056bd518fd440c928e0fcd4a884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754789,
             "postalcode_id":890589657,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "postalcode_id":890589657,
+            "region_id":85687053
         }
     ],
     "wof:id":890589657,
-    "wof:lastmodified":1469666285,
+    "wof:lastmodified":1491951349,
     "wof:name":"1060TD",
-    "wof:parent_id":101754789,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.789151668548584,
+    4.78915166854858,
     52.34385299682617,
-    4.791232109069824,
+    4.79123210906982,
     52.34467697143555
 ],
   "geometry": {"coordinates":[[[4.79000759124756,52.34432220458984],[4.78915166854858,52.34467697143555],[4.78931379318237,52.3446159362793],[4.79071569442749,52.34406661987305],[4.79123210906982,52.34385299682617],[4.79112863540649,52.34388732910156],[4.79000759124756,52.34432220458984]]],"type":"Polygon"}

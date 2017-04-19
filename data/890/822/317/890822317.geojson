@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3797.989518,
     "geom:bbox":"4.55013799667,51.9374008179,4.55122756958,51.9383773804",
     "geom:latitude":51.937928,
     "geom:longitude":4.550661,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474163,
+        101751843,
         85633337,
+        85687041,
+        404474163,
         101752769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676065,
-    "wof:geomhash":"f50714bd483374914a447acf81f7157c",
+    "wof:geomhash":"663d29d64f2fdf34fd7570e0ecc0691c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890822317,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890822317,
-    "wof:lastmodified":1469676065,
+    "wof:lastmodified":1491852025,
     "wof:name":"3066BN",
-    "wof:parent_id":101752769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.550137996673584,
-    51.937400817871094,
-    4.551227569580078,
-    51.938377380371094
+    4.55013799667358,
+    51.93740081787109,
+    4.55122756958008,
+    51.93837738037109
 ],
   "geometry": {"coordinates":[[[4.5501823425293,51.93832015991211],[4.55051565170288,51.93837738037109],[4.55122756958008,51.93781661987305],[4.55065202713013,51.93740081787109],[4.55013799667358,51.93831253051758],[4.5501823425293,51.93832015991211]]],"type":"Polygon"}
 }

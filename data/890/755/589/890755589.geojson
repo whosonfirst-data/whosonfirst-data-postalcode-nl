@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3.242504,
     "geom:bbox":"4.33193397522,52.0615768433,4.33221244812,52.0618743896",
     "geom:latitude":52.061739,
     "geom:longitude":4.33206,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474251,
+        101752763,
         85633337,
+        85687041,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673556,
-    "wof:geomhash":"cbc63828bdbfc672714b17b258cbfed2",
+    "wof:geomhash":"7406f61af7d81e03c7235b044d3088e5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890755589,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890755589,
-    "wof:lastmodified":1469673556,
+    "wof:lastmodified":1491862198,
     "wof:name":"2522BR",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.331933975219727,
+    4.33193397521973,
     52.06157684326172,
-    4.332212448120117,
+    4.33221244812012,
     52.06187438964844
 ],
   "geometry": {"coordinates":[[[4.33193397521973,52.06187438964844],[4.33221244812012,52.06157684326172],[4.33215761184692,52.0616340637207],[4.33198881149292,52.06181335449219],[4.33193397521973,52.06187438964844]]],"type":"Polygon"}

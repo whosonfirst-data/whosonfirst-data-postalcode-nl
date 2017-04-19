@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":64.796434,
     "geom:bbox":"4.31390190125,52.056804657,4.31453180313,52.0574455261",
     "geom:latitude":52.057185,
     "geom:longitude":4.314167,
@@ -23,12 +24,13 @@
         102191581,
         404474251,
         85633337,
-        101754743
+        101754743,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673588,
-    "wof:geomhash":"4ad3d2a59d23b624b96312593648db27",
+    "wof:geomhash":"c27c67cc69700282fa85b0dd8b4b906a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754743,
             "postalcode_id":890756389,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890756389,
+            "region_id":85687041
         }
     ],
     "wof:id":890756389,
-    "wof:lastmodified":1469673588,
+    "wof:lastmodified":1491863721,
     "wof:name":"2523XP",
-    "wof:parent_id":101754743,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.313901901245117,
+    4.31390190124512,
     52.05680465698242,
-    4.314531803131104,
+    4.3145318031311,
     52.05744552612305
 ],
   "geometry": {"coordinates":[[[4.31426906585693,52.05708694458008],[4.31436204910278,52.05698776245117],[4.31450033187866,52.05683898925781],[4.3145318031311,52.05680465698242],[4.31390190124512,52.05744552612305],[4.31403923034668,52.05733108520508],[4.31414031982422,52.05722427368164],[4.31426906585693,52.05708694458008]]],"type":"Polygon"}

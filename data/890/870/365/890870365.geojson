@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2659.612037,
     "geom:bbox":"5.00281524658,52.0969543457,5.00345516205,52.0978469849",
     "geom:latitude":52.097349,
     "geom:longitude":5.003138,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687039,
         102191581,
-        404474007,
+        101751827,
         85633337,
+        85687039,
+        404474007,
         101808427
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469677904,
-    "wof:geomhash":"cfa0ebd0775ea6fdc12145fbec15c1cb",
+    "wof:geomhash":"9de6e1b17ff2091e38a08d72262bb480",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "postalcode_id":890870365,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890870365,
-    "wof:lastmodified":1469677904,
+    "wof:lastmodified":1491856713,
     "wof:name":"3452BR",
-    "wof:parent_id":101808427,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.002815246582031,
-    52.096954345703125,
+    5.00281524658203,
+    52.09695434570312,
     5.00345516204834,
     52.09784698486328
 ],

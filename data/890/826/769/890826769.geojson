@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1052.835511,
     "geom:bbox":"4.56250429153,51.8991279602,4.56291246414,51.8996505737",
     "geom:latitude":51.89937,
     "geom:longitude":4.56272,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474245,
+        101751843,
         85633337,
+        85687041,
+        404474245,
         101760473
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676256,
-    "wof:geomhash":"17748928e24388146f9ddbd5c50b6de1",
+    "wof:geomhash":"dcf5ef390b38e82df065ed48f0d187de",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890826769,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890826769,
-    "wof:lastmodified":1469676256,
+    "wof:lastmodified":1491851895,
     "wof:name":"3077GJ",
-    "wof:parent_id":101760473,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.562504291534424,
+    4.56250429153442,
     51.89912796020508,
-    4.562912464141846,
+    4.56291246414185,
     51.89965057373047
 ],
   "geometry": {"coordinates":[[[4.56291246414185,51.89957427978516],[4.56290292739868,51.89946365356445],[4.56279706954956,51.89913558959961],[4.56250429153442,51.89912796020508],[4.56260824203491,51.89945983886719],[4.56267166137695,51.89965057373047],[4.56291246414185,51.89957427978516]]],"type":"Polygon"}

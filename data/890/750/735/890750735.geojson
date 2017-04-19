@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":9.356817,
     "geom:bbox":"4.42028522491,52.0601539612,4.42087364197,52.0606880188",
     "geom:latitude":52.060393,
     "geom:longitude":4.420612,
@@ -23,12 +24,13 @@
         102191581,
         404474685,
         85633337,
-        101754679
+        101754679,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673378,
-    "wof:geomhash":"81418f03c340b0f758faeb79d1873e13",
+    "wof:geomhash":"f2ce933a5eeb351916e248cc81be3fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754679,
             "postalcode_id":890750735,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890750735,
+            "region_id":85687041
         }
     ],
     "wof:id":890750735,
-    "wof:lastmodified":1469673378,
+    "wof:lastmodified":1491860491,
     "wof:name":"2492TH",
-    "wof:parent_id":101754679,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.420285224914551,
+    4.42028522491455,
     52.06015396118164,
-    4.420873641967773,
+    4.42087364196777,
     52.06068801879883
 ],
   "geometry": {"coordinates":[[[4.42082166671753,52.06020355224609],[4.42087364196777,52.06015396118164],[4.42033576965332,52.06064224243164],[4.42028522491455,52.06068801879883],[4.42051553726196,52.06048202514648],[4.42064142227173,52.06036758422852],[4.42082166671753,52.06020355224609]]],"type":"Polygon"}

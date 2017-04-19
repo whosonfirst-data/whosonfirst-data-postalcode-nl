@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10114.315212,
     "geom:bbox":"4.29947185516,52.0211372375,4.3039484024,52.0219955444",
     "geom:latitude":52.021579,
     "geom:longitude":4.301774,
@@ -23,12 +24,13 @@
         102191581,
         404474179,
         85633337,
-        101754721
+        101754721,
+        101752763
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469673790,
-    "wof:geomhash":"1d671a474121f7fc563cbabc37e0d680",
+    "wof:geomhash":"cf253f60e1b94e3e67657be68b59473f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754721,
             "postalcode_id":890761607,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "postalcode_id":890761607,
+            "region_id":85687041
         }
     ],
     "wof:id":890761607,
-    "wof:lastmodified":1469673790,
+    "wof:lastmodified":1491861429,
     "wof:name":"2548VC",
-    "wof:parent_id":101754721,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.299471855163574,
+    4.29947185516357,
     52.02113723754883,
-    4.303948402404785,
-    52.021995544433594
+    4.30394840240479,
+    52.02199554443359
 ],
   "geometry": {"coordinates":[[[4.29947185516357,52.02117156982422],[4.3019437789917,52.02192306518555],[4.3021993637085,52.02199554443359],[4.30394840240479,52.02167129516602],[4.2998046875,52.02113723754883],[4.29947185516357,52.02117156982422]]],"type":"Polygon"}
 }
