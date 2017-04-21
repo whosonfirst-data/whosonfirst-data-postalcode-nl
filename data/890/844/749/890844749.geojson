@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":209952.728147,
     "geom:bbox":"4.1591386795,51.8855323792,4.16378641129,51.898059845",
     "geom:latitude":51.892463,
     "geom:longitude":4.161878,
@@ -23,12 +24,13 @@
         102191581,
         404474161,
         85633337,
-        101754623
+        101754623,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676927,
-    "wof:geomhash":"d0a4e66c6fba9d7e2decc9f07b49096d",
+    "wof:geomhash":"f5917f0fc824408cc0787b2ac05ca434",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101754623,
             "postalcode_id":890844749,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890844749,
+            "region_id":85687041
         }
     ],
     "wof:id":890844749,
-    "wof:lastmodified":1469676927,
+    "wof:lastmodified":1492804324,
     "wof:name":"3232EB",
-    "wof:parent_id":101754623,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.159138679504395,
+    4.1591386795044,
     51.88553237915039,
     4.1637864112854,
     51.8980598449707

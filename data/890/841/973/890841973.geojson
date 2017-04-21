@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":163.811312,
     "geom:bbox":"4.34421682358,51.84532547,4.34615278244,51.8465538025",
     "geom:latitude":51.8458,
     "geom:longitude":4.344955,
@@ -23,12 +24,13 @@
         102191581,
         404474261,
         85633337,
-        101751847
+        101751847,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676823,
-    "wof:geomhash":"4d3d601fdfb61620d425f4f1302eaa6a",
+    "wof:geomhash":"1b807832b09f7bc83613abc191ccd695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751847,
             "postalcode_id":890841973,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890841973,
+            "region_id":85687041
         }
     ],
     "wof:id":890841973,
-    "wof:lastmodified":1469676823,
+    "wof:lastmodified":1492806680,
     "wof:name":"3207PG",
-    "wof:parent_id":101751847,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.344216823577881,
+    4.34421682357788,
     51.8453254699707,
-    4.346152782440186,
-    51.846553802490234
+    4.34615278244019,
+    51.84655380249023
 ],
   "geometry": {"coordinates":[[[4.34421682357788,51.8453254699707],[4.34427070617676,51.84537124633789],[4.34440183639526,51.84546279907227],[4.34459209442139,51.8455810546875],[4.34576272964478,51.84630966186523],[4.34615278244019,51.84655380249023],[4.34609699249268,51.84651565551758],[4.34421682357788,51.8453254699707]]],"type":"Polygon"}
 }

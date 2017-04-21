@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2826.874873,
     "geom:bbox":"4.39877176285,51.9104347229,4.39997243881,51.9116325378",
     "geom:latitude":51.911082,
     "geom:longitude":4.399484,
@@ -23,12 +24,13 @@
         102191581,
         404474253,
         85633337,
-        101751845
+        101751845,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676444,
-    "wof:geomhash":"0ce26badae84c75fce3a9c68d8e6e948",
+    "wof:geomhash":"1cc95962013f72fcbe76f32db57d5e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751845,
             "postalcode_id":890831665,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890831665,
+            "region_id":85687041
         }
     ],
     "wof:id":890831665,
-    "wof:lastmodified":1469676444,
+    "wof:lastmodified":1492803635,
     "wof:name":"3116HJ",
-    "wof:parent_id":101751845,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +61,7 @@
   "bbox": [
     4.3987717628479,
     51.91043472290039,
-    4.399972438812256,
+    4.39997243881226,
     51.9116325378418
 ],
   "geometry": {"coordinates":[[[4.39997243881226,51.91117858886719],[4.39891290664673,51.9105224609375],[4.3987717628479,51.91043472290039],[4.39970827102661,51.9116325378418],[4.39997243881226,51.91117858886719]]],"type":"Polygon"}

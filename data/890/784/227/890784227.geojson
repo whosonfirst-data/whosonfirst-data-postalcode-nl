@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":24483.84279,
     "geom:bbox":"4.21329498291,51.9525260925,4.21899318695,51.9574546814",
     "geom:latitude":51.955349,
     "geom:longitude":4.215452,
@@ -19,17 +20,25 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474667,
+        101751843,
         85633337,
+        85687041,
+        404474667,
         101754627
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469674652,
-    "wof:geomhash":"442ad5fca96bfb64e6c83e5db074ad0c",
+    "wof:geomhash":"653b55c223904ff539dde5b41d7ec0df",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890784227,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +49,9 @@
         }
     ],
     "wof:id":890784227,
-    "wof:lastmodified":1469674652,
+    "wof:lastmodified":1492808755,
     "wof:name":"2676BJ",
-    "wof:parent_id":101754627,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.213294982910156,
+    4.21329498291016,
     51.9525260925293,
-    4.218993186950684,
-    51.957454681396484
+    4.21899318695068,
+    51.95745468139648
 ],
   "geometry": {"coordinates":[[[4.21341419219971,51.95642852783203],[4.21329498291016,51.95745468139648],[4.2161431312561,51.95515441894531],[4.21656703948975,51.95480346679688],[4.2171573638916,51.95427703857422],[4.21885251998901,51.95269012451172],[4.21899318695068,51.9525260925293],[4.21341419219971,51.95642852783203]]],"type":"Polygon"}
 }

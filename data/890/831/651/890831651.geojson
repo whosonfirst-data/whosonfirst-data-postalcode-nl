@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":13.493273,
     "geom:bbox":"4.40138196945,51.9088439941,4.40236282349,51.9094543457",
     "geom:latitude":51.909091,
     "geom:longitude":4.401779,
@@ -23,12 +24,13 @@
         102191581,
         404474253,
         85633337,
-        101751845
+        101751845,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676444,
-    "wof:geomhash":"2908d6c5cf93be777b5d529d814a3304",
+    "wof:geomhash":"243773b3ca9fa2ceb6c9c6597b0617e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751845,
             "postalcode_id":890831651,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890831651,
+            "region_id":85687041
         }
     ],
     "wof:id":890831651,
-    "wof:lastmodified":1469676444,
+    "wof:lastmodified":1492803622,
     "wof:name":"3116GJ",
-    "wof:parent_id":101751845,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.401381969451904,
-    51.908843994140625,
-    4.402362823486328,
-    51.909454345703125
+    4.4013819694519,
+    51.90884399414062,
+    4.40236282348633,
+    51.90945434570312
 ],
   "geometry": {"coordinates":[[[4.40165376663208,51.90901184082031],[4.4013819694519,51.90884399414062],[4.40155601501465,51.90895462036133],[4.40236282348633,51.90945434570312],[4.40165376663208,51.90901184082031]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":4.860659,
     "geom:bbox":"4.37788438797,51.9308547974,4.37807035446,51.9316902161",
     "geom:latitude":51.931289,
     "geom:longitude":4.377974,
@@ -23,12 +24,13 @@
         102191581,
         404474273,
         85633337,
-        101751851
+        101751851,
+        101751843
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676474,
-    "wof:geomhash":"5c7e88f2897aa53e8c09012dde4cca99",
+    "wof:geomhash":"c09d3146edca5984970be9f259ab8f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +39,19 @@
             "locality_id":101751851,
             "postalcode_id":890832499,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "postalcode_id":890832499,
+            "region_id":85687041
         }
     ],
     "wof:id":890832499,
-    "wof:lastmodified":1469676474,
+    "wof:lastmodified":1492809389,
     "wof:name":"3121AK",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.377884387969971,
+    4.37788438796997,
     51.93085479736328,
     4.37807035446167,
     51.93169021606445
