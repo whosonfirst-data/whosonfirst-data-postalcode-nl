@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":959.898203,
     "geom:bbox":"5.40701293945,51.4235572815,5.40748643875,51.4240760803",
     "geom:latitude":51.423853,
     "geom:longitude":5.407269,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685429,
-    "wof:geomhash":"5fc00cebc26c1319b85c4567a807905f",
+    "wof:geomhash":"7090efd622259f09e171eeed04f0e02c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891051825,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891051825,
-    "wof:lastmodified":1469685429,
+    "wof:lastmodified":1513430511,
     "wof:name":"5502RG",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.407012939453125,
+    5.40701293945312,
     51.42355728149414,
-    5.407486438751221,
-    51.424076080322266
+    5.40748643875122,
+    51.42407608032227
 ],
   "geometry": {"coordinates":[[[5.40748643875122,51.42383575439453],[5.40730094909668,51.42355728149414],[5.40704917907715,51.42392349243164],[5.40701293945312,51.42397689819336],[5.4073224067688,51.42407608032227],[5.40736722946167,51.42401123046875],[5.40748643875122,51.42383575439453]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8098.027956,
     "geom:bbox":"5.61460828781,52.1829223633,5.62107849121,52.1845664978",
     "geom:latitude":52.1837,
     "geom:longitude":5.618324,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473873,
         85633337,
-        85687043
+        101808555
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679201,
-    "wof:geomhash":"8de2ab11635c6e7269524ea051674951",
+    "wof:geomhash":"adc7ede7faa4e9e37cfe9e77167d10de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473873,
+            "locality_id":101808555,
             "postalcode_id":890901249,
             "region_id":85687043
         }
     ],
     "wof:id":890901249,
-    "wof:lastmodified":1469679201,
+    "wof:lastmodified":1513366623,
     "wof:name":"3781VE",
-    "wof:parent_id":404473873,
+    "wof:parent_id":101808555,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.614608287811279,
+    5.61460828781128,
     52.18292236328125,
-    5.621078491210938,
-    52.184566497802734
+    5.62107849121094,
+    52.18456649780273
 ],
   "geometry": {"coordinates":[[[5.62099456787109,52.18292236328125],[5.61460828781128,52.18456649780273],[5.61523723602295,52.18451309204102],[5.61538410186768,52.18449401855469],[5.61625957489014,52.18428802490234],[5.61730527877808,52.18403244018555],[5.62107849121094,52.18313598632812],[5.62099456787109,52.18292236328125]]],"type":"Polygon"}
 }

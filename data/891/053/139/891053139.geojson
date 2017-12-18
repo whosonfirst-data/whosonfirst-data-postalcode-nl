@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":344.416793,
     "geom:bbox":"5.39013385773,51.4269752502,5.39048719406,51.427318573",
     "geom:latitude":51.42716,
     "geom:longitude":5.390305,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685475,
-    "wof:geomhash":"47b115fcebeefcd411c9e2db63d18bda",
+    "wof:geomhash":"55989377f9d8fd112fce4229af044d0f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891053139,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891053139,
-    "wof:lastmodified":1469685475,
+    "wof:lastmodified":1513430487,
     "wof:name":"5508BR",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.390133857727051,
+    5.39013385772705,
     51.42697525024414,
-    5.390487194061279,
+    5.39048719406128,
     51.42731857299805
 ],
   "geometry": {"coordinates":[[[5.39039134979248,51.42725372314453],[5.39048719406128,51.42718887329102],[5.39040899276733,51.42713928222656],[5.39034748077393,51.42710113525391],[5.3902382850647,51.42703628540039],[5.39018678665161,51.42700576782227],[5.39013385772705,51.42697525024414],[5.39029121398926,51.42731857299805],[5.39039134979248,51.42725372314453]]],"type":"Polygon"}

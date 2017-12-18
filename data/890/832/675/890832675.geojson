@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1482.73695,
     "geom:bbox":"4.36894273758,51.9323692322,4.36963129044,51.932975769",
     "geom:latitude":51.932657,
     "geom:longitude":4.369249,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676481,
-    "wof:geomhash":"232db4dede1407a1e554329ac899ddf2",
+    "wof:geomhash":"16152131e6cfeeca2838a71940c95292",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890832675,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890832675,
-    "wof:lastmodified":1469676481,
+    "wof:lastmodified":1513578867,
     "wof:name":"3122GT",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.368942737579346,
-    51.932369232177734,
-    4.369631290435791,
+    4.36894273757935,
+    51.93236923217773,
+    4.36963129043579,
     51.93297576904297
 ],
   "geometry": {"coordinates":[[[4.36894273757935,51.93290710449219],[4.36897468566895,51.93297576904297],[4.36963129043579,51.9326057434082],[4.36938333511353,51.93236923217773],[4.36908531188965,51.93255996704102],[4.36901426315308,51.93261337280273],[4.36898708343506,51.93270874023438],[4.36894273757935,51.93290710449219]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2172.719359,
     "geom:bbox":"5.70321416855,50.8283157349,5.70548534393,50.8285751343",
     "geom:latitude":50.828416,
     "geom:longitude":5.704344,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474495,
+        101751803,
         85633337,
+        85687033,
+        404474495,
         101755867
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688224,
-    "wof:geomhash":"fc4be9e77d95ad4ca465e5d929e2d100",
+    "wof:geomhash":"cd29e92d6fc6bbfc48b681d66d9e296e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751803,
+            "postalcode_id":891125603,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891125603,
-    "wof:lastmodified":1469688224,
+    "wof:lastmodified":1513402688,
     "wof:name":"6229AL",
-    "wof:parent_id":101755867,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.703214168548584,
+    5.70321416854858,
     50.82831573486328,
-    5.705485343933105,
-    50.828575134277344
+    5.7054853439331,
+    50.82857513427734
 ],
   "geometry": {"coordinates":[[[5.70430040359497,50.82857513427734],[5.7054853439331,50.82831573486328],[5.70499801635742,50.82831573486328],[5.7046365737915,50.82832336425781],[5.70343160629272,50.82836532592773],[5.70321416854858,50.82837295532227],[5.70430040359497,50.82857513427734]]],"type":"Polygon"}
 }

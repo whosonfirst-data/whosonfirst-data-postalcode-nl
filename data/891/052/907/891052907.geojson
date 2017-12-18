@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1787.745023,
     "geom:bbox":"5.3880906105,51.4151611328,5.38913726807,51.4155769348",
     "geom:latitude":51.415355,
     "geom:longitude":5.38873,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685467,
-    "wof:geomhash":"fc63579d9886346efbea08856bcecf00",
+    "wof:geomhash":"3da0055c87790dadec8e184ce7d38a22",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891052907,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891052907,
-    "wof:lastmodified":1469685467,
+    "wof:lastmodified":1513430523,
     "wof:name":"5506ER",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +63,7 @@
   "bbox": [
     5.38809061050415,
     51.4151611328125,
-    5.389137268066406,
+    5.38913726806641,
     51.41557693481445
 ],
   "geometry": {"coordinates":[[[5.38879585266113,51.4151611328125],[5.38809061050415,51.41535568237305],[5.3884391784668,51.41543960571289],[5.38859939575195,51.41547775268555],[5.38894414901733,51.41555786132812],[5.38902711868286,51.41557693481445],[5.38913726806641,51.41524124145508],[5.38879585266113,51.4151611328125]]],"type":"Polygon"}

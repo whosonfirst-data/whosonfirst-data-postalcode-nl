@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3654.603287,
     "geom:bbox":"6.85012292862,53.0936317444,6.85092401505,53.0945129395",
     "geom:latitude":53.094071,
     "geom:longitude":6.850575,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687059,
         102191581,
         404473737,
         85633337,
+        101838023,
         101838025
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469699477,
-    "wof:geomhash":"3a56772c95761afa4fe01e9528d7a988",
+    "wof:geomhash":"6d17b03504fd21d4e0b6238b7b5fb21a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "postalcode_id":907101551,
+            "region_id":85687059
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":907101551,
-    "wof:lastmodified":1469699477,
+    "wof:lastmodified":1513377956,
     "wof:name":"9642KM",
-    "wof:parent_id":101838025,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.850122928619385,
-    53.093631744384766,
-    6.850924015045166,
-    53.094512939453125
+    6.85012292861938,
+    53.09363174438477,
+    6.85092401504517,
+    53.09451293945312
 ],
   "geometry": {"coordinates":[[[6.85083436965942,53.09445190429688],[6.85086154937744,53.09438705444336],[6.85092401504517,53.09368515014648],[6.85089159011841,53.09363174438477],[6.85012292861938,53.09383392333984],[6.85039138793945,53.09451293945312],[6.85070037841797,53.09447860717773],[6.85083436965942,53.09445190429688]]],"type":"Polygon"}
 }

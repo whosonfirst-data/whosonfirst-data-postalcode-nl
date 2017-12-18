@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4735.072169,
     "geom:bbox":"6.93602228165,52.2209663391,6.93696403503,52.2218093872",
     "geom:latitude":52.221404,
     "geom:longitude":6.936496,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687045,
         102191581,
         404473827,
         85633337,
-        101754777
+        101754777,
+        101751871
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469692935,
-    "wof:geomhash":"694ff1b9a91c1dd851e0e223eb8ee2eb",
+    "wof:geomhash":"57e5f05c31729ca83bea812fc28507ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101754777,
             "postalcode_id":891238053,
             "region_id":85687045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "postalcode_id":891238053,
+            "region_id":85687045
         }
     ],
     "wof:id":891238053,
-    "wof:lastmodified":1469692935,
+    "wof:lastmodified":1513522736,
     "wof:name":"7532SB",
-    "wof:parent_id":101754777,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.936022281646729,
+    6.93602228164673,
     52.22096633911133,
     6.93696403503418,
     52.22180938720703

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":12483.437258,
     "geom:bbox":"6.90733289719,52.2034339905,6.9090180397,52.2050132751",
     "geom:latitude":52.204267,
     "geom:longitude":6.908197,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473827,
         85633337,
-        85687045
+        101751871
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469692972,
-    "wof:geomhash":"4e1ed620d18f413d2e112c3f8bdf84b1",
+    "wof:geomhash":"be60b398c3c87a8ace0cfa4ed0e1a9bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473827,
+            "locality_id":101751871,
             "postalcode_id":891239087,
             "region_id":85687045
         }
     ],
     "wof:id":891239087,
-    "wof:lastmodified":1469692972,
+    "wof:lastmodified":1513522739,
     "wof:name":"7541CD",
-    "wof:parent_id":404473827,
+    "wof:parent_id":101751871,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.907332897186279,
-    52.203433990478516,
-    6.909018039703369,
-    52.205013275146484
+    6.90733289718628,
+    52.20343399047852,
+    6.90901803970337,
+    52.20501327514648
 ],
   "geometry": {"coordinates":[[[6.90733289718628,52.2049674987793],[6.90847301483154,52.20501327514648],[6.90901803970337,52.20346832275391],[6.90830898284912,52.20343399047852],[6.90804100036621,52.20365905761719],[6.90792417526245,52.20377349853516],[6.9078254699707,52.20389175415039],[6.90739250183105,52.20469284057617],[6.90734529495239,52.2048225402832],[6.90733289718628,52.2049674987793]]],"type":"Polygon"}
 }

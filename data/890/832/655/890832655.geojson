@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":716.747269,
     "geom:bbox":"4.36952352524,51.927280426,4.37146806717,51.9275169373",
     "geom:latitude":51.927381,
     "geom:longitude":4.370239,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676480,
-    "wof:geomhash":"3358476be75af14c79504cc4268558f6",
+    "wof:geomhash":"16228392c7940fdf815515f9495cc149",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890832655,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890832655,
-    "wof:lastmodified":1469676480,
+    "wof:lastmodified":1513578829,
     "wof:name":"3122AK",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.369523525238037,
+    4.36952352523804,
     51.92728042602539,
-    4.371468067169189,
+    4.37146806716919,
     51.92751693725586
 ],
   "geometry": {"coordinates":[[[4.36962270736694,51.92728042602539],[4.36952352523804,51.92734909057617],[4.3698034286499,51.92737579345703],[4.37017345428467,51.92740631103516],[4.37129068374634,51.9275016784668],[4.37146806716919,51.92751693725586],[4.37009572982788,51.92732238769531],[4.36962270736694,51.92728042602539]]],"type":"Polygon"}

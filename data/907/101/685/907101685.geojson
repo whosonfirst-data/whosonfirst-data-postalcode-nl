@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4906.592581,
     "geom:bbox":"6.85647344589,53.0902786255,6.85809516907,53.0910682678",
     "geom:latitude":53.090574,
     "geom:longitude":6.857486,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687059,
         102191581,
         404473737,
         85633337,
-        101838025
+        101838025,
+        101838023
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469699491,
-    "wof:geomhash":"2261d34518de192b645aec98f4e53b0c",
+    "wof:geomhash":"db5d5198d94af91840b2d5287ed59528",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101838025,
             "postalcode_id":907101685,
             "region_id":85687059
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "postalcode_id":907101685,
+            "region_id":85687059
         }
     ],
     "wof:id":907101685,
-    "wof:lastmodified":1469699491,
+    "wof:lastmodified":1513377957,
     "wof:name":"9642RG",
-    "wof:parent_id":101838025,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.856473445892334,
+    6.85647344589233,
     53.09027862548828,
-    6.858095169067383,
-    53.091068267822266
+    6.85809516906738,
+    53.09106826782227
 ],
   "geometry": {"coordinates":[[[6.85798072814941,53.09029388427734],[6.85721302032471,53.09027862548828],[6.85654211044312,53.09042739868164],[6.85647344589233,53.0904426574707],[6.85809516906738,53.09106826782227],[6.85798072814941,53.09029388427734]]],"type":"Polygon"}
 }

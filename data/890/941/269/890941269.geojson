@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":193626.015957,
     "geom:bbox":"5.00524520874,51.8317756653,5.02909374237,51.8337059021",
     "geom:latitude":51.832955,
     "geom:longitude":5.015923,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687041,
         102191581,
         404474173,
         85633337,
-        101874261
+        101874261,
+        101808515
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469680872,
-    "wof:geomhash":"82076b72d060db7a27b00a23ad0a76df",
+    "wof:geomhash":"6f90336d10403f71a1292ca466453172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101874261,
             "postalcode_id":890941269,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474173,
+            "locality_id":101808515,
+            "postalcode_id":890941269,
+            "region_id":85687041
         }
     ],
     "wof:id":890941269,
-    "wof:lastmodified":1469680872,
+    "wof:lastmodified":1513582201,
     "wof:name":"4208BA",
-    "wof:parent_id":101874261,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.005245208740234,
+    5.00524520874023,
     51.8317756652832,
-    5.029093742370605,
+    5.0290937423706,
     51.83370590209961
 ],
   "geometry": {"coordinates":[[[5.01372861862183,51.8317756652832],[5.00788259506226,51.83271408081055],[5.00531816482544,51.83366012573242],[5.00524520874023,51.83370590209961],[5.02441501617432,51.83354568481445],[5.0290937423706,51.83322906494141],[5.01372861862183,51.8317756652832]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9381.640256,
     "geom:bbox":"5.20996046066,52.7015991211,5.21183490753,52.7027549744",
     "geom:latitude":52.702171,
     "geom:longitude":5.210903,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687053,
         102191581,
         404474187,
         85633337,
-        85687053
+        101837923
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469669483,
-    "wof:geomhash":"79178fa65718bb9012db17db043ed0e9",
+    "wof:geomhash":"41f45792d50b9e594bc541718ad87751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474187,
+            "locality_id":101837923,
             "postalcode_id":890660309,
             "region_id":85687053
         }
     ],
     "wof:id":890660309,
-    "wof:lastmodified":1469669483,
+    "wof:lastmodified":1513452897,
     "wof:name":"1613MH",
-    "wof:parent_id":404474187,
+    "wof:parent_id":101837923,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.209960460662842,
+    5.20996046066284,
     52.70159912109375,
-    5.211834907531738,
-    52.702754974365234
+    5.21183490753174,
+    52.70275497436523
 ],
   "geometry": {"coordinates":[[[5.20996046066284,52.70159912109375],[5.21002674102783,52.70212936401367],[5.21005249023438,52.70229721069336],[5.21171379089355,52.70275497436523],[5.21183490753174,52.70204544067383],[5.20996046066284,52.70159912109375]]],"type":"Polygon"}
 }

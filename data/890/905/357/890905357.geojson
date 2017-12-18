@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":116.773215,
     "geom:bbox":"5.37178230286,52.1342468262,5.37237501144,52.1350250244",
     "geom:latitude":52.134674,
     "geom:longitude":5.372121,
@@ -17,18 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687039,
         102191581,
         404473989,
         85633337,
-        101837661
+        101837661,
+        404473971,
+        101751821
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679427,
-    "wof:geomhash":"0c7b7d71e6e80d502ff36a35b613629e",
+    "wof:geomhash":"fbaaa75408be3eb5cd168d4400983665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +41,20 @@
             "locality_id":101837661,
             "postalcode_id":890905357,
             "region_id":85687039
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "postalcode_id":890905357,
+            "region_id":85687039
         }
     ],
     "wof:id":890905357,
-    "wof:lastmodified":1469679427,
+    "wof:lastmodified":1513619653,
     "wof:name":"3818AL",
-    "wof:parent_id":101837661,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.371782302856445,
-    52.134246826171875,
-    5.372375011444092,
+    5.37178230285645,
+    52.13424682617188,
+    5.37237501144409,
     52.13502502441406
 ],
   "geometry": {"coordinates":[[[5.3721866607666,52.13472747802734],[5.37178230285645,52.13424682617188],[5.37237501144409,52.13502502441406],[5.37234210968018,52.13496780395508],[5.3721866607666,52.13472747802734]]],"type":"Polygon"}

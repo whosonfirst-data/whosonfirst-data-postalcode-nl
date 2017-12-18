@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":40.631853,
     "geom:bbox":"6.21564531326,52.1408805847,6.21576213837,52.140953064",
     "geom:latitude":52.140914,
     "geom:longitude":6.215703,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
+        101837807,
         101837819
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691665,
-    "wof:geomhash":"cab5cfd4df4db913c5484b43db513916",
+    "wof:geomhash":"00e7447f0ba5eae9c6d026cd78785e70",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891206175,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891206175,
-    "wof:lastmodified":1469691665,
+    "wof:lastmodified":1513367512,
     "wof:name":"7204EH",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.215645313262939,
+    6.21564531326294,
     52.1408805847168,
-    6.215762138366699,
-    52.140953063964844
+    6.2157621383667,
+    52.14095306396484
 ],
   "geometry": {"coordinates":[[[6.21564531326294,52.14091110229492],[6.21566009521484,52.14092636108398],[6.21569013595581,52.14095306396484],[6.21571922302246,52.14094543457031],[6.21574783325195,52.14092636108398],[6.2157621383667,52.14090728759766],[6.21574735641479,52.14089202880859],[6.21568870544434,52.1408805847168],[6.21565961837769,52.14089202880859],[6.21564531326294,52.14091110229492]]],"type":"Polygon"}
 }

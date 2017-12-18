@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3762.202658,
     "geom:bbox":"5.95449066162,50.9350967407,5.95641183853,50.9355125427",
     "geom:latitude":50.93532,
     "geom:longitude":5.955197,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474485,
         85633337,
-        101839247
+        101839247,
+        101839207
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688945,
-    "wof:geomhash":"90703f1b9cc79e93409695e1281b2d0c",
+    "wof:geomhash":"1a0e6a13e98d3fb82725e119982abe56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,19 @@
             "locality_id":101839247,
             "postalcode_id":891140025,
             "region_id":85687033
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "postalcode_id":891140025,
+            "region_id":85687033
         }
     ],
     "wof:id":891140025,
-    "wof:lastmodified":1469688945,
+    "wof:lastmodified":1513403068,
     "wof:name":"6446TN",
-    "wof:parent_id":101839247,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.954490661621094,
-    50.935096740722656,
-    5.956411838531494,
+    5.95449066162109,
+    50.93509674072266,
+    5.95641183853149,
     50.93551254272461
 ],
   "geometry": {"coordinates":[[[5.95523166656494,50.93549728393555],[5.95641183853149,50.93531799316406],[5.95607328414917,50.93524932861328],[5.95599842071533,50.93524169921875],[5.95591974258423,50.93523406982422],[5.95451164245605,50.93509674072266],[5.95449066162109,50.93551254272461],[5.95523166656494,50.93549728393555]]],"type":"Polygon"}

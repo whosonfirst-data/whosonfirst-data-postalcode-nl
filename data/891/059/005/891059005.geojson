@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":32.061729,
     "geom:bbox":"5.46861886978,51.3933296204,5.46877813339,51.393611908",
     "geom:latitude":51.393468,
     "geom:longitude":5.468708,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474449,
         85633337,
-        85687035
+        101754561
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685696,
-    "wof:geomhash":"1227b071dc917724df215ca481244f65",
+    "wof:geomhash":"b305d510e6e97b5f210aa6e07b023bac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474449,
+            "locality_id":101754561,
             "postalcode_id":891059005,
             "region_id":85687035
         }
     ],
     "wof:id":891059005,
-    "wof:lastmodified":1469685696,
+    "wof:lastmodified":1513430381,
     "wof:name":"5582JT",
-    "wof:parent_id":404474449,
+    "wof:parent_id":101754561,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.468618869781494,
+    5.46861886978149,
     51.39332962036133,
-    5.468778133392334,
-    51.393611907958984
+    5.46877813339233,
+    51.39361190795898
 ],
   "geometry": {"coordinates":[[[5.46876573562622,51.39338684082031],[5.46877813339233,51.39332962036133],[5.46861886978149,51.39361190795898],[5.46866321563721,51.39356231689453],[5.46876573562622,51.39338684082031]]],"type":"Polygon"}
 }

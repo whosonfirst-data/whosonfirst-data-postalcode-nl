@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":7.544607,
     "geom:bbox":"5.72174024582,50.8243331909,5.72199344635,50.824344635",
     "geom:latitude":50.824338,
     "geom:longitude":5.721863,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474495,
+        101751803,
         85633337,
+        85687033,
+        404474495,
         101755867
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688222,
-    "wof:geomhash":"526bdaa228307de5396b3ed2047333cc",
+    "wof:geomhash":"577907351b58122f39393a0839686b7b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751803,
+            "postalcode_id":891125539,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891125539,
-    "wof:lastmodified":1469688222,
+    "wof:lastmodified":1513402709,
     "wof:name":"6228JR",
-    "wof:parent_id":101755867,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.721740245819092,
+    5.72174024581909,
     50.82433319091797,
-    5.721993446350098,
-    50.824344635009766
+    5.7219934463501,
+    50.82434463500977
 ],
   "geometry": {"coordinates":[[[5.7218337059021,50.82433319091797],[5.72174024581909,50.82433700561523],[5.7219934463501,50.82434463500977],[5.7219090461731,50.82433700561523],[5.7218337059021,50.82433319091797]]],"type":"Polygon"}
 }

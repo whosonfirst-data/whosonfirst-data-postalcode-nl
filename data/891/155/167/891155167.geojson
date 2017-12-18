@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
+    "geom:area_square_m":374813.374099,
     "geom:bbox":"5.68332862854,51.8109512329,5.70175743103,51.8167953491",
     "geom:latitude":51.81345,
     "geom:longitude":5.692386,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473953,
         85633337,
-        85687043
+        101754761
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469689564,
-    "wof:geomhash":"e4f0006a5054a85aa0af878a62ee40fb",
+    "wof:geomhash":"6f7e0a4872640426e4e5ee07a9b827a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473953,
+            "locality_id":101754761,
             "postalcode_id":891155167,
             "region_id":85687043
         }
     ],
     "wof:id":891155167,
-    "wof:lastmodified":1469689564,
+    "wof:lastmodified":1513366098,
     "wof:name":"6601PB",
-    "wof:parent_id":404473953,
+    "wof:parent_id":101754761,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.683328628540039,
-    51.810951232910156,
-    5.701757431030273,
-    51.816795349121094
+    5.68332862854004,
+    51.81095123291016,
+    5.70175743103027,
+    51.81679534912109
 ],
   "geometry": {"coordinates":[[[5.69103527069092,51.81679534912109],[5.70175743103027,51.8111686706543],[5.69959545135498,51.81099319458008],[5.69869613647461,51.81095123291016],[5.69521570205688,51.81095123291016],[5.68332862854004,51.81367111206055],[5.69103527069092,51.81679534912109]]],"type":"Polygon"}
 }

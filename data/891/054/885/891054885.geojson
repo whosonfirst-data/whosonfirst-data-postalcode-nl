@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":85225.918954,
     "geom:bbox":"5.25807094574,51.3588600159,5.26365041733,51.365196228",
     "geom:latitude":51.36223,
     "geom:longitude":5.261415,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474641,
         85633337,
-        85687035
+        101809711
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685539,
-    "wof:geomhash":"0e4e12bcfeed334126d157256c97b121",
+    "wof:geomhash":"84db70e29645537a3fe46b07fe342def",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474641,
+            "locality_id":101809711,
             "postalcode_id":891054885,
             "region_id":85687035
         }
     ],
     "wof:id":891054885,
-    "wof:lastmodified":1469685539,
+    "wof:lastmodified":1513431319,
     "wof:name":"5527JA",
-    "wof:parent_id":404474641,
+    "wof:parent_id":101809711,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.258070945739746,
+    5.25807094573975,
     51.35886001586914,
-    5.263650417327881,
-    51.365196228027344
+    5.26365041732788,
+    51.36519622802734
 ],
   "geometry": {"coordinates":[[[5.26365041732788,51.35982894897461],[5.26299142837524,51.35886001586914],[5.25807094573975,51.36519622802734],[5.26220321655273,51.36357498168945],[5.26365041732788,51.35982894897461]]],"type":"Polygon"}
 }

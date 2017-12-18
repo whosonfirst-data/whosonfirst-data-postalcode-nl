@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":868.935546,
     "geom:bbox":"5.70666456223,51.4599304199,5.70695304871,51.4608573914",
     "geom:latitude":51.460406,
     "geom:longitude":5.706808,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474389,
         85633337,
+        101751805,
         101808259
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469686396,
-    "wof:geomhash":"3a41737d26354d5c4e3eb82a182012ee",
+    "wof:geomhash":"631960d22acb5a07c713cd35a2edd20e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101751805,
+            "postalcode_id":891077551,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891077551,
-    "wof:lastmodified":1469686396,
+    "wof:lastmodified":1513429514,
     "wof:name":"5704CH",
-    "wof:parent_id":101808259,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.706664562225342,
-    51.459930419921875,
-    5.706953048706055,
+    5.70666456222534,
+    51.45993041992188,
+    5.70695304870605,
     51.46085739135742
 ],
   "geometry": {"coordinates":[[[5.70695304870605,51.46039199829102],[5.70666456222534,51.45993041992188],[5.70678758621216,51.46085739135742],[5.70694446563721,51.46050643920898],[5.70695304870605,51.46039199829102]]],"type":"Polygon"}

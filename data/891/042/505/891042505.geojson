@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":6419.541365,
     "geom:bbox":"5.6444272995,51.6556587219,5.64634943008,51.6563796997",
     "geom:latitude":51.656076,
     "geom:longitude":5.645326,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474437,
         85633337,
+        101839391,
         101839397
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685108,
-    "wof:geomhash":"867cbb631b81198661eb33b64df5a832",
+    "wof:geomhash":"02ff49305b5d611015060d81cee3c7f0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "postalcode_id":891042505,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891042505,
-    "wof:lastmodified":1469685108,
+    "wof:lastmodified":1513431863,
     "wof:name":"5405AM",
-    "wof:parent_id":101839397,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.644427299499512,
+    5.64442729949951,
     51.65565872192383,
-    5.646349430084229,
+    5.64634943008423,
     51.65637969970703
 ],
   "geometry": {"coordinates":[[[5.64620351791382,51.65637969970703],[5.64634943008423,51.65606307983398],[5.64445972442627,51.65565872192383],[5.64443731307983,51.65586853027344],[5.64442729949951,51.65598678588867],[5.64499568939209,51.65634918212891],[5.64620351791382,51.65637969970703]]],"type":"Polygon"}

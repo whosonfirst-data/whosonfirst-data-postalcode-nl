@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":6810.155463,
     "geom:bbox":"5.93557357788,50.9315376282,5.93735456467,50.9327774048",
     "geom:latitude":50.9322,
     "geom:longitude":5.936372,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474485,
+        101839207,
         85633337,
+        85687033,
+        404474485,
         101839229
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688947,
-    "wof:geomhash":"691d4999b60d62f0c9cea53b20b8163e",
+    "wof:geomhash":"fe28a06c06019a2246c0435ec188f849",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "postalcode_id":891140079,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891140079,
-    "wof:lastmodified":1469688947,
+    "wof:lastmodified":1513403071,
     "wof:name":"6446XL",
-    "wof:parent_id":101839229,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.935573577880859,
+    5.93557357788086,
     50.93153762817383,
-    5.937354564666748,
-    50.932777404785156
+    5.93735456466675,
+    50.93277740478516
 ],
   "geometry": {"coordinates":[[[5.93557357788086,50.93165588378906],[5.93627548217773,50.93277740478516],[5.93735456466675,50.93232345581055],[5.93558597564697,50.93153762817383],[5.93557977676392,50.93159484863281],[5.93557357788086,50.93165588378906]]],"type":"Polygon"}
 }

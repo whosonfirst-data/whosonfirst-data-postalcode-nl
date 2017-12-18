@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4917.291045,
     "geom:bbox":"5.40572357178,51.4313697815,5.40691566467,51.4326019287",
     "geom:latitude":51.431939,
     "geom:longitude":5.406348,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685495,
-    "wof:geomhash":"87700363115a882cd22862be01f7fd0b",
+    "wof:geomhash":"3cac90cd76fe29dd942cc9cb7be80de0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891053605,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891053605,
-    "wof:lastmodified":1469685495,
+    "wof:lastmodified":1513430514,
     "wof:name":"5509MR",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.405723571777344,
+    5.40572357177734,
     51.43136978149414,
-    5.406915664672852,
+    5.40691566467285,
     51.43260192871094
 ],
   "geometry": {"coordinates":[[[5.40691566467285,51.43231582641602],[5.40649795532227,51.43165969848633],[5.40619945526123,51.43143463134766],[5.40572357177734,51.43136978149414],[5.40605735778809,51.43206787109375],[5.40633773803711,51.43228149414062],[5.40662240982056,51.4324951171875],[5.40676593780518,51.43260192871094],[5.40691566467285,51.43231582641602]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1110.299898,
     "geom:bbox":"4.9477763176,52.7039413452,4.94896793365,52.7045822144",
     "geom:latitude":52.704266,
     "geom:longitude":4.948527,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687053,
         102191581,
         404474107,
         85633337,
+        101837937,
         101837953
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469669968,
-    "wof:geomhash":"e0c56dc6639ddf85b9ab498111ff209c",
+    "wof:geomhash":"7fc96412f179f9228bc7411a3648251d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474107,
+            "locality_id":101837937,
+            "postalcode_id":890669919,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890669919,
-    "wof:lastmodified":1469669968,
+    "wof:lastmodified":1513453200,
     "wof:name":"1716DC",
-    "wof:parent_id":101837953,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.947776317596436,
-    52.703941345214844,
-    4.948967933654785,
+    4.94777631759644,
+    52.70394134521484,
+    4.94896793365479,
     52.70458221435547
 ],
   "geometry": {"coordinates":[[[4.94896793365479,52.70458221435547],[4.94889450073242,52.70431137084961],[4.94821882247925,52.70407104492188],[4.94812440872192,52.70404052734375],[4.94787740707397,52.7039680480957],[4.94777631759644,52.70394134521484],[4.94896793365479,52.70458221435547]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1203.683307,
     "geom:bbox":"4.79953336716,52.4502029419,4.8002705574,52.4505195618",
     "geom:latitude":52.450357,
     "geom:longitude":4.799901,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687053,
         102191581,
         404474143,
         85633337,
-        101754825
+        101754825,
+        101751901
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469669156,
-    "wof:geomhash":"197d876d3da6aa05d0fa43d95de802d8",
+    "wof:geomhash":"aba6b1327d8f916d8c51efe3b2a68506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101754825,
             "postalcode_id":890652907,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101751901,
+            "postalcode_id":890652907,
+            "region_id":85687053
         }
     ],
     "wof:id":890652907,
-    "wof:lastmodified":1469669156,
+    "wof:lastmodified":1513448854,
     "wof:name":"1507WJ",
-    "wof:parent_id":101754825,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.799533367156982,
+    4.79953336715698,
     52.45020294189453,
-    4.800270557403564,
+    4.80027055740356,
     52.45051956176758
 ],
   "geometry": {"coordinates":[[[4.7996563911438,52.45020294189453],[4.79953336715698,52.45039749145508],[4.79959440231323,52.45043563842773],[4.79990243911743,52.45049285888672],[4.80014991760254,52.45051956176758],[4.80027055740356,52.45029449462891],[4.80003547668457,52.45024871826172],[4.79980087280273,52.45020294189453],[4.7996563911438,52.45020294189453]]],"type":"Polygon"}

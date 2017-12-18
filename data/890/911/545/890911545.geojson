@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":3831.742427,
     "geom:bbox":"5.59656047821,52.3236351013,5.59808588028,52.3244743347",
     "geom:latitude":52.324054,
     "geom:longitude":5.597326,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473907,
         85633337,
+        101837769,
         101837779
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679685,
-    "wof:geomhash":"7007cbe36b2312ca5602e01e34ea54a4",
+    "wof:geomhash":"94aa71df94ec26fe164a5771baf22c8b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "postalcode_id":890911545,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890911545,
-    "wof:lastmodified":1469679685,
+    "wof:lastmodified":1513367215,
     "wof:name":"3845ER",
-    "wof:parent_id":101837779,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.596560478210449,
+    5.59656047821045,
     52.32363510131836,
-    5.598085880279541,
+    5.59808588027954,
     52.3244743347168
 ],
   "geometry": {"coordinates":[[[5.59776782989502,52.32363510131836],[5.5974440574646,52.32378005981445],[5.59737968444824,52.32381057739258],[5.59704160690308,52.32397842407227],[5.59698152542114,52.32400894165039],[5.59668016433716,52.32416915893555],[5.59656047821045,52.32423400878906],[5.59690189361572,52.3244743347168],[5.59808588027954,52.32389450073242],[5.59776782989502,52.32363510131836]]],"type":"Polygon"}

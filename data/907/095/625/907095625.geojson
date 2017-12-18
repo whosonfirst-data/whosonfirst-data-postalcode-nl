@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":80.725537,
     "geom:bbox":"6.95794820786,52.9693222046,6.95889663696,52.9696769714",
     "geom:latitude":52.969501,
     "geom:longitude":6.958426,
@@ -17,18 +18,22 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687059,
         102191581,
         404473731,
         85633337,
-        101837895
+        101837895,
+        85687051,
+        404474595,
+        101837883
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469699121,
-    "wof:geomhash":"67da2d95aa7a2195a8ffa23b38091efc",
+    "wof:geomhash":"4454a23ac970ca3bbbbbd180defdb64e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +42,20 @@
             "locality_id":101837895,
             "postalcode_id":907095625,
             "region_id":85687059
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474595,
+            "locality_id":101837883,
+            "postalcode_id":907095625,
+            "region_id":85687051
         }
     ],
     "wof:id":907095625,
-    "wof:lastmodified":1469699121,
+    "wof:lastmodified":1513289597,
     "wof:name":"9521CZ",
-    "wof:parent_id":101837895,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.957948207855225,
-    52.969322204589844,
-    6.958896636962891,
+    6.95794820785522,
+    52.96932220458984,
+    6.95889663696289,
     52.96967697143555
 ],
   "geometry": {"coordinates":[[[6.95861053466797,52.96955871582031],[6.95794820785522,52.96932220458984],[6.95826387405396,52.96945190429688],[6.95889663696289,52.96967697143555],[6.95861053466797,52.96955871582031]]],"type":"Polygon"}

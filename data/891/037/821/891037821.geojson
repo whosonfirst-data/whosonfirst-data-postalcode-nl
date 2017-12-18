@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1293.846237,
     "geom:bbox":"5.72752857208,51.7616424561,5.72775793076,51.7636299133",
     "geom:latitude":51.762627,
     "geom:longitude":5.727656,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474385,
         85633337,
-        101855255
+        101855255,
+        101808247
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469684929,
-    "wof:geomhash":"0d6830abafc0166d5a1f46dec22eb119",
+    "wof:geomhash":"57dfd9229250aa8443c9557a46254cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101855255,
             "postalcode_id":891037821,
             "region_id":85687035
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474385,
+            "locality_id":101808247,
+            "postalcode_id":891037821,
+            "region_id":85687035
         }
     ],
     "wof:id":891037821,
-    "wof:lastmodified":1469684929,
+    "wof:lastmodified":1513430872,
     "wof:name":"5361BX",
-    "wof:parent_id":101855255,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +63,7 @@
   "bbox": [
     5.72752857208252,
     51.76164245605469,
-    5.727757930755615,
+    5.72775793075562,
     51.76362991333008
 ],
   "geometry": {"coordinates":[[[5.72775793075562,51.76324081420898],[5.7277569770813,51.76313400268555],[5.72764682769775,51.76194000244141],[5.72752857208252,51.76164245605469],[5.72757720947266,51.76232528686523],[5.72770309448242,51.76362991333008],[5.72774505615234,51.76346588134766],[5.72775793075562,51.76324081420898]]],"type":"Polygon"}

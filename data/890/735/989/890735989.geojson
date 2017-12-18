@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":280.291627,
     "geom:bbox":"4.48849582672,52.168800354,4.48890924454,52.1690788269",
     "geom:latitude":52.168924,
     "geom:longitude":4.488722,
@@ -17,32 +18,39 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474225,
+        101751833,
         85633337,
+        85687041,
         101754691
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469672794,
-    "wof:geomhash":"f1656ed583ac1b1add9ea10401aa9cd0",
+    "wof:geomhash":"13ae13bab091d9cca1a66cfb78186651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474225,
+            "locality_id":101751833,
+            "postalcode_id":890735989,
+            "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
             "locality_id":101754691,
             "postalcode_id":890735989,
             "region_id":85687041
         }
     ],
     "wof:id":890735989,
-    "wof:lastmodified":1469672794,
+    "wof:lastmodified":1513578395,
     "wof:name":"2316ZR",
-    "wof:parent_id":101754691,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.488495826721191,
-    52.168800354003906,
-    4.488909244537354,
+    4.48849582672119,
+    52.16880035400391,
+    4.48890924453735,
     52.1690788269043
 ],
   "geometry": {"coordinates":[[[4.48854160308838,52.16883850097656],[4.48884534835815,52.1690788269043],[4.48890924453735,52.16901016235352],[4.48865365982056,52.16880416870117],[4.48849582672119,52.16880035400391],[4.48854160308838,52.16883850097656]]],"type":"Polygon"}

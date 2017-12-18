@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":233.520896,
     "geom:bbox":"4.8637843132,51.7002410889,4.86459732056,51.7012329102",
     "geom:latitude":51.700755,
     "geom:longitude":4.864215,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474379,
         85633337,
-        101839411
+        101839411,
+        101839357
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469683403,
-    "wof:geomhash":"f08a5c3bcd681b85bd0e77134f249c18",
+    "wof:geomhash":"6b32c20f4b5ccc2247147bc0c3ccd632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101839411,
             "postalcode_id":890998217,
             "region_id":85687035
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474379,
+            "locality_id":101839357,
+            "postalcode_id":890998217,
+            "region_id":85687035
         }
     ],
     "wof:id":890998217,
-    "wof:lastmodified":1469683403,
+    "wof:lastmodified":1513431739,
     "wof:name":"4931AP",
-    "wof:parent_id":101839411,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.863784313201904,
+    4.8637843132019,
     51.70024108886719,
-    4.864597320556641,
+    4.86459732055664,
     51.70123291015625
 ],
   "geometry": {"coordinates":[[[4.86436986923218,51.70090103149414],[4.8637843132019,51.70024108886719],[4.86391258239746,51.70041275024414],[4.86398410797119,51.70050430297852],[4.86459732055664,51.70123291015625],[4.86456918716431,51.70119094848633],[4.86441230773926,51.70096206665039],[4.86436986923218,51.70090103149414]]],"type":"Polygon"}

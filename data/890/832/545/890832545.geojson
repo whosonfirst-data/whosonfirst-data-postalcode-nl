@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2110.515127,
     "geom:bbox":"4.37854146957,51.9329147339,4.37933206558,51.9353027344",
     "geom:latitude":51.933965,
     "geom:longitude":4.378912,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676476,
-    "wof:geomhash":"fa0a2b385f41b43c61fdb2a7452f47db",
+    "wof:geomhash":"87b1fb39f8c0c2e75a0656cd536d4be6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890832545,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890832545,
-    "wof:lastmodified":1469676476,
+    "wof:lastmodified":1513578828,
     "wof:name":"3121JE",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.378541469573975,
+    4.37854146957397,
     51.93291473388672,
-    4.379332065582275,
+    4.37933206558228,
     51.935302734375
 ],
   "geometry": {"coordinates":[[[4.37863779067993,51.93472290039062],[4.37854146957397,51.935302734375],[4.37933206558228,51.93291473388672],[4.37902402877808,51.933349609375],[4.3789963722229,51.93341445922852],[4.37887001037598,51.9337158203125],[4.37863779067993,51.93472290039062]]],"type":"Polygon"}

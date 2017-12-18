@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":859.578952,
     "geom:bbox":"5.40696954727,52.1989517212,5.40959692001,52.2008399963",
     "geom:latitude":52.199882,
     "geom:longitude":5.408251,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687039,
         102191581,
         404473971,
         85633337,
+        101751821,
         101837671
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679515,
-    "wof:geomhash":"b59b653b316ba46910449c1f0d686a51",
+    "wof:geomhash":"0865cb177b9d364f03d7d852902c3534",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "postalcode_id":890907263,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890907263,
-    "wof:lastmodified":1469679515,
+    "wof:lastmodified":1513619656,
     "wof:name":"3825CB",
-    "wof:parent_id":101837671,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.406969547271729,
-    52.198951721191406,
-    5.409596920013428,
+    5.40696954727173,
+    52.19895172119141,
+    5.40959692001343,
     52.20083999633789
 ],
   "geometry": {"coordinates":[[[5.4070987701416,52.19906234741211],[5.40752983093262,52.19937896728516],[5.40837955474854,52.20000076293945],[5.40865707397461,52.20020294189453],[5.4094762802124,52.20079040527344],[5.40959692001343,52.20083999633789],[5.40732955932617,52.19918823242188],[5.40700483322144,52.19895172119141],[5.40696954727173,52.19896697998047],[5.4070987701416,52.19906234741211]]],"type":"Polygon"}

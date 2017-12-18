@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":966.75033,
     "geom:bbox":"6.12628364563,51.3720016479,6.12678194046,51.3725318909",
     "geom:latitude":51.372284,
     "geom:longitude":6.126505,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474525,
         85633337,
+        101839199,
         101839251
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469687002,
-    "wof:geomhash":"359f00fa55e5f4503b824811601c24c0",
+    "wof:geomhash":"e4cf3ff3b5f58b700f8cbe2e2fee5e6f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "postalcode_id":891093621,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891093621,
-    "wof:lastmodified":1469687002,
+    "wof:lastmodified":1513403050,
     "wof:name":"5925EK",
-    "wof:parent_id":101839251,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.126283645629883,
+    6.12628364562988,
     51.37200164794922,
-    6.126781940460205,
+    6.12678194046021,
     51.37253189086914
 ],
   "geometry": {"coordinates":[[[6.12637138366699,51.37216949462891],[6.12628364562988,51.37248611450195],[6.12643575668335,51.37251663208008],[6.12651395797729,51.37253189086914],[6.12678194046021,51.37200164794922],[6.12673282623291,51.37202072143555],[6.1265172958374,51.37210845947266],[6.12637138366699,51.37216949462891]]],"type":"Polygon"}

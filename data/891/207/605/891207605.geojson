@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":40309.275956,
     "geom:bbox":"6.21161079407,52.2000236511,6.22617912292,52.2012290955",
     "geom:latitude":52.200646,
     "geom:longitude":6.217644,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473915,
         85633337,
-        85687043
+        101807107
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691732,
-    "wof:geomhash":"c753966810e595ade7d9c39987e93fff",
+    "wof:geomhash":"855836e9caf7f3306b9ebb08d6ba4fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473915,
+            "locality_id":101807107,
             "postalcode_id":891207605,
             "region_id":85687043
         }
     ],
     "wof:id":891207605,
-    "wof:lastmodified":1469691732,
+    "wof:lastmodified":1513366425,
     "wof:name":"7213AN",
-    "wof:parent_id":404473915,
+    "wof:parent_id":101807107,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.211610794067383,
+    6.21161079406738,
     52.20002365112305,
-    6.226179122924805,
-    52.201229095458984
+    6.2261791229248,
+    52.20122909545898
 ],
   "geometry": {"coordinates":[[[6.21340799331665,52.20115661621094],[6.21471357345581,52.20122909545898],[6.2261791229248,52.20002365112305],[6.2197642326355,52.20024871826172],[6.21161079406738,52.20081329345703],[6.21175622940063,52.20085525512695],[6.21340799331665,52.20115661621094]]],"type":"Polygon"}
 }

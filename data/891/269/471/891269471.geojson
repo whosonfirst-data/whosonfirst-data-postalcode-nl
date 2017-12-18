@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10877.243,
     "geom:bbox":"6.95989656448,52.7600059509,6.96414613724,52.7642173767",
     "geom:latitude":52.762182,
     "geom:longitude":6.962116,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687051,
         102191581,
         404473809,
         85633337,
-        85687051
+        101751881
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469694208,
-    "wof:geomhash":"e1dbd97f26dae5e5de1b2179ea8a121b",
+    "wof:geomhash":"64113fc2f0c255b0714ff460e87d2c48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473809,
+            "locality_id":101751881,
             "postalcode_id":891269471,
             "region_id":85687051
         }
     ],
     "wof:id":891269471,
-    "wof:lastmodified":1469694208,
+    "wof:lastmodified":1513282859,
     "wof:name":"7826HB",
-    "wof:parent_id":404473809,
+    "wof:parent_id":101751881,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.959896564483643,
-    52.760005950927734,
-    6.964146137237549,
-    52.764217376708984
+    6.95989656448364,
+    52.76000595092773,
+    6.96414613723755,
+    52.76421737670898
 ],
   "geometry": {"coordinates":[[[6.96068668365479,52.76336669921875],[6.95989656448364,52.76421737670898],[6.96177434921265,52.76285934448242],[6.96183204650879,52.76281356811523],[6.96393966674805,52.76044082641602],[6.96414613723755,52.76000595092773],[6.96068668365479,52.76336669921875]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8253.389942,
     "geom:bbox":"5.63687181473,51.6493911743,5.63918352127,51.6507606506",
     "geom:latitude":51.650167,
     "geom:longitude":5.637879,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474437,
         85633337,
+        101839391,
         101839397
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685110,
-    "wof:geomhash":"3d3011c9e66004064e1cb034c3080ce1",
+    "wof:geomhash":"fdc24e08ef5083cad0f4644a41909da3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "postalcode_id":891042549,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891042549,
-    "wof:lastmodified":1469685110,
+    "wof:lastmodified":1513431864,
     "wof:name":"5405NC",
-    "wof:parent_id":101839397,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.636871814727783,
-    51.649391174316406,
-    5.639183521270752,
-    51.650760650634766
+    5.63687181472778,
+    51.64939117431641,
+    5.63918352127075,
+    51.65076065063477
 ],
   "geometry": {"coordinates":[[[5.63687181472778,51.64977645874023],[5.63795042037964,51.65062713623047],[5.63918352127075,51.65076065063477],[5.63857889175415,51.65027618408203],[5.63734722137451,51.64958572387695],[5.63700103759766,51.64939117431641],[5.63687181472778,51.64977645874023]]],"type":"Polygon"}
 }

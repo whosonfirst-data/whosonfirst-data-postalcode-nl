@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":505.629905,
     "geom:bbox":"6.01743841171,50.8699874878,6.01890516281,50.8706245422",
     "geom:latitude":50.870307,
     "geom:longitude":6.018107,
@@ -17,19 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
-        404474467,
+        404474489,
         85633337,
+        101839255,
+        404474467,
         101839719
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469689039,
-    "wof:geomhash":"768b481d1155382687f1dac63b1aaf96",
+    "wof:geomhash":"92b248ffca5cb5d4a7011e5474eff9cd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "postalcode_id":891142459,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +52,9 @@
         }
     ],
     "wof:id":891142459,
-    "wof:lastmodified":1469689039,
+    "wof:lastmodified":1513403260,
     "wof:name":"6467LK",
-    "wof:parent_id":101839719,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.017438411712646,
+    6.01743841171265,
     50.86998748779297,
-    6.018905162811279,
+    6.01890516281128,
     50.87062454223633
 ],
   "geometry": {"coordinates":[[[6.01796627044678,50.87030410766602],[6.01816463470459,50.8703727722168],[6.01823091506958,50.87039566040039],[6.01860046386719,50.87052154541016],[6.01890516281128,50.87062454223633],[6.01743841171265,50.86998748779297],[6.01796627044678,50.87030410766602]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2467.260454,
     "geom:bbox":"4.38486719131,51.9469337463,4.38549232483,51.9478302002",
     "geom:latitude":51.947481,
     "geom:longitude":4.385214,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676493,
-    "wof:geomhash":"eadf407faefd885adf816141b5178909",
+    "wof:geomhash":"65e9175382f83c949bcdfc1fc670b667",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890833037,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890833037,
-    "wof:lastmodified":1469676493,
+    "wof:lastmodified":1513578819,
     "wof:name":"3124NG",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.384867191314697,
+    4.3848671913147,
     51.94693374633789,
-    4.385492324829102,
+    4.3854923248291,
     51.94783020019531
 ],
   "geometry": {"coordinates":[[[4.3854923248291,51.94762420654297],[4.38536500930786,51.94693374633789],[4.3848671913147,51.94755554199219],[4.3849287033081,51.94775772094727],[4.38515424728394,51.94783020019531],[4.38541316986084,51.9477653503418],[4.3854923248291,51.94762420654297]]],"type":"Polygon"}

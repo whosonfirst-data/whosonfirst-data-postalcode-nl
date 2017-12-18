@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2111.737918,
     "geom:bbox":"4.38738059998,52.073513031,4.38858222961,52.0748062134",
     "geom:latitude":52.074132,
     "geom:longitude":4.388124,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687041,
         102191581,
         404474685,
         85633337,
-        101754709
+        101754709,
+        101754679
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469672462,
-    "wof:geomhash":"003574012afb40a545a737aef01be16e",
+    "wof:geomhash":"d5938744180e267aaf2ab3964ca6f61d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101754709,
             "postalcode_id":890727743,
             "region_id":85687041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
+            "postalcode_id":890727743,
+            "region_id":85687041
         }
     ],
     "wof:id":890727743,
-    "wof:lastmodified":1469672462,
+    "wof:lastmodified":1513579724,
     "wof:name":"2266LK",
-    "wof:parent_id":101754709,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.387380599975586,
+    4.38738059997559,
     52.07351303100586,
-    4.388582229614258,
-    52.074806213378906
+    4.38858222961426,
+    52.07480621337891
 ],
   "geometry": {"coordinates":[[[4.38743877410889,52.07480621337891],[4.38857936859131,52.07390975952148],[4.38858222961426,52.07351303100586],[4.38738059997559,52.07477951049805],[4.38743877410889,52.07480621337891]]],"type":"Polygon"}
 }

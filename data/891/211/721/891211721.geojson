@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5066.875283,
     "geom:bbox":"6.46692228317,52.0832977295,6.46918725967,52.0855751038",
     "geom:latitude":52.084489,
     "geom:longitude":6.467833,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404474671,
         85633337,
-        85687043
+        101803699
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691902,
-    "wof:geomhash":"3613a1dfc6361f6d5d87eac5c7af2e24",
+    "wof:geomhash":"2803cbcb00301271c51279f4de10c00c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474671,
+            "locality_id":101803699,
             "postalcode_id":891211721,
             "region_id":85687043
         }
     ],
     "wof:id":891211721,
-    "wof:lastmodified":1469691902,
+    "wof:lastmodified":1513366132,
     "wof:name":"7261NS",
-    "wof:parent_id":404474671,
+    "wof:parent_id":101803699,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.466922283172607,
+    6.46692228317261,
     52.08329772949219,
-    6.469187259674072,
-    52.085575103759766
+    6.46918725967407,
+    52.08557510375977
 ],
   "geometry": {"coordinates":[[[6.46697664260864,52.08522415161133],[6.46692228317261,52.08557510375977],[6.4669508934021,52.08555603027344],[6.46918725967407,52.08329772949219],[6.46835422515869,52.08383560180664],[6.46755266189575,52.08448028564453],[6.46697664260864,52.08522415161133]]],"type":"Polygon"}
 }

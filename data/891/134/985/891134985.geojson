@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3846.985243,
     "geom:bbox":"5.95166778564,50.9005393982,5.95288610458,50.9015617371",
     "geom:latitude":50.901053,
     "geom:longitude":5.952276,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474485,
         85633337,
+        101839245,
         101839247
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688764,
-    "wof:geomhash":"574b91dc6ca867040d4087e467402d6c",
+    "wof:geomhash":"47b0a2bc77cff7fda2c9f5b1f1a62b6b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839245,
+            "postalcode_id":891134985,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891134985,
-    "wof:lastmodified":1469688764,
+    "wof:lastmodified":1513403193,
     "wof:name":"6412ZP",
-    "wof:parent_id":101839247,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.951667785644531,
+    5.95166778564453,
     50.90053939819336,
     5.95288610458374,
     50.90156173706055

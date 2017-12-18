@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":21600.320175,
     "geom:bbox":"4.91219615936,52.4354820251,4.91456890106,52.4374809265",
     "geom:latitude":52.436414,
     "geom:longitude":4.91368,
@@ -17,19 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687053,
         102191581,
-        404474105,
+        404474091,
         85633337,
+        101754829,
+        404474105,
         101754851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469667209,
-    "wof:geomhash":"29dbc5a984bfee9fe3b123174aae68f2",
+    "wof:geomhash":"a19cb136fd17b1538795dbe6fa934dd6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
+            "postalcode_id":890609333,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +52,9 @@
         }
     ],
     "wof:id":890609333,
-    "wof:lastmodified":1469667209,
+    "wof:lastmodified":1513449511,
     "wof:name":"1121AL",
-    "wof:parent_id":101754851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.912196159362793,
-    52.435482025146484,
-    4.914568901062012,
+    4.91219615936279,
+    52.43548202514648,
+    4.91456890106201,
     52.43748092651367
 ],
   "geometry": {"coordinates":[[[4.91236257553101,52.43637847900391],[4.91219615936279,52.43652725219727],[4.91434478759766,52.43748092651367],[4.91448879241943,52.43727111816406],[4.91456890106201,52.43674468994141],[4.91451358795166,52.43548202514648],[4.91326951980591,52.43566513061523],[4.91236257553101,52.43637847900391]]],"type":"Polygon"}

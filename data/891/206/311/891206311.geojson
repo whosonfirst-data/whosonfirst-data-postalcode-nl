@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9071.475663,
     "geom:bbox":"6.21600818634,52.1301498413,6.21748065948,52.1325645447",
     "geom:latitude":52.131535,
     "geom:longitude":6.21674,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
-        101837819
+        101837819,
+        101837807
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691673,
-    "wof:geomhash":"de7c69ae2d26a0441ecdb61b4266e4d8",
+    "wof:geomhash":"1c159719cd2b7e3064bef92b6a4bae99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101837819,
             "postalcode_id":891206311,
             "region_id":85687043
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891206311,
+            "region_id":85687043
         }
     ],
     "wof:id":891206311,
-    "wof:lastmodified":1469691673,
+    "wof:lastmodified":1513367518,
     "wof:name":"7204JR",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.216008186340332,
-    52.130149841308594,
-    6.217480659484863,
-    52.132564544677734
+    6.21600818634033,
+    52.13014984130859,
+    6.21748065948486,
+    52.13256454467773
 ],
   "geometry": {"coordinates":[[[6.21748065948486,52.13185119628906],[6.21600818634033,52.13014984130859],[6.21670055389404,52.13250732421875],[6.21678018569946,52.13256454467773],[6.21748065948486,52.13185119628906]]],"type":"Polygon"}
 }

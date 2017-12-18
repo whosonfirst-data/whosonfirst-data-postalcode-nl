@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3143.655773,
     "geom:bbox":"5.86298704147,52.4498825073,5.86375904083,52.4507865906",
     "geom:latitude":52.450304,
     "geom:longitude":5.863356,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473895,
         85633337,
-        101837809
+        101837809,
+        101837785
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469695285,
-    "wof:geomhash":"e12896b13e937869674d39f0cfc07b24",
+    "wof:geomhash":"42dcc63e4bbb029e2154439d572cca74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101837809,
             "postalcode_id":907020355,
             "region_id":85687043
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "postalcode_id":907020355,
+            "region_id":85687043
         }
     ],
     "wof:id":907020355,
-    "wof:lastmodified":1469695285,
+    "wof:lastmodified":1513367294,
     "wof:name":"8081ZK",
-    "wof:parent_id":101837809,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.862987041473389,
+    5.86298704147339,
     52.44988250732422,
     5.86375904083252,
     52.45078659057617

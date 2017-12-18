@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":7.8232,
     "geom:bbox":"3.90406870842,51.5016021729,3.9043161869,51.5022010803",
     "geom:latitude":51.501929,
     "geom:longitude":3.904203,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687037,
         102191581,
         404474303,
         85633337,
+        101839429,
         101839433
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469681603,
-    "wof:geomhash":"e57f9a95d5ae5c9218bec9083cc80dfb",
+    "wof:geomhash":"8a27719cbb4178d9952acac06db6ae07",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474303,
+            "locality_id":101839429,
+            "postalcode_id":890959015,
+            "region_id":85687037
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890959015,
-    "wof:lastmodified":1469681603,
+    "wof:lastmodified":1513625537,
     "wof:name":"4461VT",
-    "wof:parent_id":101839433,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,8 +63,8 @@
   "bbox": [
     3.9040687084198,
     51.50160217285156,
-    3.904316186904907,
-    51.502201080322266
+    3.90431618690491,
+    51.50220108032227
 ],
   "geometry": {"coordinates":[[[3.90429711341858,51.50215911865234],[3.90431618690491,51.50220108032227],[3.90421724319458,51.50196075439453],[3.9040687084198,51.50160217285156],[3.90411019325256,51.50170516967773],[3.90413022041321,51.50175476074219],[3.90415024757385,51.50180435180664],[3.90429711341858,51.50215911865234]]],"type":"Polygon"}
 }

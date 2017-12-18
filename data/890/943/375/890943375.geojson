@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4230.774273,
     "geom:bbox":"4.95441102982,51.8185958862,4.95544481277,51.8201332092",
     "geom:latitude":51.819366,
     "geom:longitude":4.955019,
@@ -17,19 +18,31 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
+        85687035,
         102191581,
-        404474173,
+        404474453,
         85633337,
+        1158801571,
+        85687041,
+        404474173,
         101808515
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469680951,
-    "wof:geomhash":"cc5cc142f16ed0c59590997bba59f591",
+    "wof:geomhash":"f5646acfb7ed5ec8e75246eac50eb746",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":1158801571,
+            "postalcode_id":890943375,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +53,9 @@
         }
     ],
     "wof:id":890943375,
-    "wof:lastmodified":1469680951,
+    "wof:lastmodified":1513432126,
     "wof:name":"4254LS",
-    "wof:parent_id":101808515,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.954411029815674,
+    4.95441102981567,
     51.81859588623047,
-    4.955444812774658,
-    51.820133209228516
+    4.95544481277466,
+    51.82013320922852
 ],
   "geometry": {"coordinates":[[[4.95503616333008,51.8189811706543],[4.95443344116211,51.81992721557617],[4.95441102981567,51.82013320922852],[4.95539569854736,51.81939697265625],[4.95544481277466,51.81890487670898],[4.95536184310913,51.81859588623047],[4.95503616333008,51.8189811706543]]],"type":"Polygon"}
 }

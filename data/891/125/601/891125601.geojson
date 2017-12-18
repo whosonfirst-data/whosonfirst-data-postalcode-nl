@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1557.180126,
     "geom:bbox":"5.70324039459,50.8288459778,5.70556354523,50.8291473389",
     "geom:latitude":50.829004,
     "geom:longitude":5.704195,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474495,
+        101751803,
         85633337,
+        85687033,
+        404474495,
         101755867
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688224,
-    "wof:geomhash":"738ec6a40e1509444b21b0180059b9a6",
+    "wof:geomhash":"572fc307a084db05ccb26937999b4fde",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751803,
+            "postalcode_id":891125601,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891125601,
-    "wof:lastmodified":1469688224,
+    "wof:lastmodified":1513402687,
     "wof:name":"6229AJ",
-    "wof:parent_id":101755867,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.703240394592285,
+    5.70324039459229,
     50.8288459777832,
-    5.705563545227051,
+    5.70556354522705,
     50.82914733886719
 ],
   "geometry": {"coordinates":[[[5.70369672775269,50.82914733886719],[5.70532703399658,50.82889556884766],[5.70556354522705,50.8288459777832],[5.70324039459229,50.82902145385742],[5.7033257484436,50.82905578613281],[5.70369672775269,50.82914733886719]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9501.551404,
     "geom:bbox":"6.47582769394,51.8689842224,6.48003816605,51.8696670532",
     "geom:latitude":51.869268,
     "geom:longitude":6.478363,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        101808659
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691381,
-    "wof:geomhash":"2d28d0aca8e9e902f7735b25e58f3d61",
+    "wof:geomhash":"fdf477bcef167bf63646269929ec3083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473865,
+            "locality_id":101808659,
             "postalcode_id":891199173,
             "region_id":85687043
         }
     ],
     "wof:id":891199173,
-    "wof:lastmodified":1469691381,
+    "wof:lastmodified":1513366772,
     "wof:name":"7091HH",
-    "wof:parent_id":404473865,
+    "wof:parent_id":101808659,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.475827693939209,
+    6.47582769393921,
     51.86898422241211,
-    6.480038166046143,
-    51.869667053222656
+    6.48003816604614,
+    51.86966705322266
 ],
   "geometry": {"coordinates":[[[6.47909879684448,51.86898422241211],[6.47582769393921,51.86915969848633],[6.48003816604614,51.86966705322266],[6.4792628288269,51.8690071105957],[6.47909879684448,51.86898422241211]]],"type":"Polygon"}
 }

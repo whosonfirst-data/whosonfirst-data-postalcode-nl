@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":130.129601,
     "geom:bbox":"4.38718795776,52.0076980591,4.38873434067,52.0080757141",
     "geom:latitude":52.007895,
     "geom:longitude":4.387995,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474687,
+        101752765,
         85633337,
+        85687041,
+        404474687,
         101754637
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469674385,
-    "wof:geomhash":"4fb5bf89ffa4f10531349c107f4f7b43",
+    "wof:geomhash":"ea92f6bd60072da69366de246261129a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752765,
+            "postalcode_id":890777489,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890777489,
-    "wof:lastmodified":1469674385,
+    "wof:lastmodified":1513579111,
     "wof:name":"2628EZ",
-    "wof:parent_id":101754637,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.387187957763672,
+    4.38718795776367,
     52.00769805908203,
-    4.388734340667725,
+    4.38873434066772,
     52.00807571411133
 ],
   "geometry": {"coordinates":[[[4.38809680938721,52.00791168212891],[4.387619972229,52.00779724121094],[4.38739681243896,52.00774383544922],[4.38733005523682,52.00772857666016],[4.38718795776367,52.00769805908203],[4.38802337646484,52.00791168212891],[4.38873434066772,52.00807571411133],[4.38851690292358,52.00801467895508],[4.38809680938721,52.00791168212891]]],"type":"Polygon"}

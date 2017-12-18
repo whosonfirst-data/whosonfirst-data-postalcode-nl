@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5060.929128,
     "geom:bbox":"6.54189062119,51.8890609741,6.54295921326,51.8902206421",
     "geom:latitude":51.889558,
     "geom:longitude":6.542331,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473865,
         85633337,
-        85687043
+        1158783563
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691471,
-    "wof:geomhash":"8982e5d42bc719210c8bb9fca93f322e",
+    "wof:geomhash":"fdca4bacc2b8d0bd3040d83bf6860e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473865,
+            "locality_id":1158783563,
             "postalcode_id":891201677,
             "region_id":85687043
         }
     ],
     "wof:id":891201677,
-    "wof:lastmodified":1469691471,
+    "wof:lastmodified":1513367998,
     "wof:name":"7122KK",
-    "wof:parent_id":404473865,
+    "wof:parent_id":1158783563,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.541890621185303,
-    51.889060974121094,
-    6.542959213256836,
-    51.890220642089844
+    6.5418906211853,
+    51.88906097412109,
+    6.54295921325684,
+    51.89022064208984
 ],
   "geometry": {"coordinates":[[[6.54277372360229,51.88960647583008],[6.54295921325684,51.88932800292969],[6.54280090332031,51.88924407958984],[6.54274272918701,51.88921356201172],[6.54256105422974,51.88914489746094],[6.54228067398071,51.88906097412109],[6.5420036315918,51.88931274414062],[6.5418906211853,51.88978958129883],[6.54193210601807,51.89022064208984],[6.54277372360229,51.88960647583008]]],"type":"Polygon"}
 }

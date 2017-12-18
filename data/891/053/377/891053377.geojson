@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":6486.352903,
     "geom:bbox":"5.38369703293,51.4334182739,5.38566064835,51.4343414307",
     "geom:latitude":51.433867,
     "geom:longitude":5.384775,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685483,
-    "wof:geomhash":"f031f59f7272a949602039b041255230",
+    "wof:geomhash":"9a768286a128906e0e324d361d4f189e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891053377,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891053377,
-    "wof:lastmodified":1469685483,
+    "wof:lastmodified":1513430503,
     "wof:name":"5508MK",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.383697032928467,
+    5.38369703292847,
     51.43341827392578,
-    5.385660648345947,
+    5.38566064834595,
     51.43434143066406
 ],
   "geometry": {"coordinates":[[[5.38457155227661,51.43409729003906],[5.38556623458862,51.43434143066406],[5.38566064834595,51.43387985229492],[5.38405799865723,51.43341827392578],[5.38369703292847,51.43347930908203],[5.3839750289917,51.43371963500977],[5.38423776626587,51.43392944335938],[5.38434886932373,51.43400573730469],[5.38442039489746,51.43404388427734],[5.38457155227661,51.43409729003906]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":576.968062,
     "geom:bbox":"5.8553519249,52.4517936707,5.85611152649,52.4521827698",
     "geom:latitude":52.451988,
     "geom:longitude":5.855732,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473895,
         85633337,
-        101837809
+        101837809,
+        101837785
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469695276,
-    "wof:geomhash":"da13b37ae39d2e09708c7e6e65e3bf39",
+    "wof:geomhash":"804276b6278c46da6830b500a9663694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101837809,
             "postalcode_id":907020127,
             "region_id":85687043
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "postalcode_id":907020127,
+            "region_id":85687043
         }
     ],
     "wof:id":907020127,
-    "wof:lastmodified":1469695276,
+    "wof:lastmodified":1513367301,
     "wof:name":"8081ND",
-    "wof:parent_id":101837809,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,7 +63,7 @@
   "bbox": [
     5.85535192489624,
     52.4517936706543,
-    5.856111526489258,
+    5.85611152648926,
     52.45218276977539
 ],
   "geometry": {"coordinates":[[[5.85542917251587,52.4517936706543],[5.85535192489624,52.45185852050781],[5.85577011108398,52.45206832885742],[5.85594606399536,52.45214462280273],[5.85603427886963,52.45218276977539],[5.85611152648926,52.45211791992188],[5.85569143295288,52.45190811157227],[5.85542917251587,52.4517936706543]]],"type":"Polygon"}

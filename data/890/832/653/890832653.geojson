@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":344.134937,
     "geom:bbox":"4.37092447281,51.9273948669,4.3727645874,51.9276237488",
     "geom:latitude":51.927513,
     "geom:longitude":4.371855,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676480,
-    "wof:geomhash":"a50e98668c46070d9c5fd9617d2e2324",
+    "wof:geomhash":"7658feea375cc389625df25da2489e99",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890832653,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890832653,
-    "wof:lastmodified":1469676480,
+    "wof:lastmodified":1513578830,
     "wof:name":"3122AJ",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.370924472808838,
+    4.37092447280884,
     51.92739486694336,
-    4.372764587402344,
+    4.37276458740234,
     51.9276237487793
 ],
   "geometry": {"coordinates":[[[4.37235260009766,51.92759323120117],[4.37239646911621,51.92759704589844],[4.37253332138062,51.92760848999023],[4.37263488769531,51.92761611938477],[4.37276458740234,51.9276237487793],[4.37139844894409,51.92743301391602],[4.37116193771362,51.92741394042969],[4.37092447280884,51.92739486694336],[4.37212324142456,51.92757034301758],[4.37235260009766,51.92759323120117]]],"type":"Polygon"}

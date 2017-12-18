@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3088.746711,
     "geom:bbox":"6.21841239929,52.150642395,6.21937513351,52.1515884399",
     "geom:latitude":52.15122,
     "geom:longitude":6.218884,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
+        101837807,
         101837819
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691649,
-    "wof:geomhash":"25d46d888032dd4e4c93c83c73254222",
+    "wof:geomhash":"dda52efec75e87750623ece3469886d6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891205851,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891205851,
-    "wof:lastmodified":1469691649,
+    "wof:lastmodified":1513367529,
     "wof:name":"7203DE",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.218412399291992,
+    6.21841239929199,
     52.15064239501953,
-    6.219375133514404,
-    52.151588439941406
+    6.2193751335144,
+    52.15158843994141
 ],
   "geometry": {"coordinates":[[[6.21935033798218,52.15156936645508],[6.2193751335144,52.15133666992188],[6.21841239929199,52.15064239501953],[6.21859979629517,52.15130615234375],[6.21869087219238,52.1514778137207],[6.21927738189697,52.15158843994141],[6.21935033798218,52.15156936645508]]],"type":"Polygon"}
 }

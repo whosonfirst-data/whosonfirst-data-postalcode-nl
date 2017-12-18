@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":919.339933,
     "geom:bbox":"6.13356256485,51.3624382019,6.1344370842,51.3627586365",
     "geom:latitude":51.362585,
     "geom:longitude":6.133951,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474525,
         85633337,
+        101839199,
         101839251
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469686983,
-    "wof:geomhash":"fea30ff2e0bcfa19e45b5c8e0b5ecccf",
+    "wof:geomhash":"65d18709430fb9efa1c82bed5e1a372d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "postalcode_id":891093365,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891093365,
-    "wof:lastmodified":1469686983,
+    "wof:lastmodified":1513403044,
     "wof:name":"5923CL",
-    "wof:parent_id":101839251,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.133562564849854,
+    6.13356256484985,
     51.3624382019043,
-    6.134437084197998,
+    6.134437084198,
     51.36275863647461
 ],
   "geometry": {"coordinates":[[[6.13405418395996,51.3626708984375],[6.134437084198,51.3624382019043],[6.13356256484985,51.36254501342773],[6.13380002975464,51.36275863647461],[6.13392639160156,51.36271667480469],[6.13399028778076,51.36269378662109],[6.13405418395996,51.3626708984375]]],"type":"Polygon"}

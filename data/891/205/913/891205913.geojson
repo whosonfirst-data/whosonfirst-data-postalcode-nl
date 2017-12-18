@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":230.104712,
     "geom:bbox":"6.21437740326,52.1497535706,6.2144651413,52.1506881714",
     "geom:latitude":52.150249,
     "geom:longitude":6.214418,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
+        101837807,
         101837819
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691651,
-    "wof:geomhash":"6fbba4de9eb58b9c875d95304f2e05b2",
+    "wof:geomhash":"c2e75e501e1b11df07f5f9cea19913d2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891205913,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891205913,
-    "wof:lastmodified":1469691651,
+    "wof:lastmodified":1513367530,
     "wof:name":"7203EX",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.214377403259277,
+    6.21437740325928,
     52.14975357055664,
-    6.214465141296387,
+    6.21446514129639,
     52.15068817138672
 ],
   "geometry": {"coordinates":[[[6.21440887451172,52.15064239501953],[6.21444320678711,52.15015029907227],[6.21446514129639,52.14975357055664],[6.21442413330078,52.14989852905273],[6.21437740325928,52.15053558349609],[6.21438026428223,52.15068817138672],[6.21440887451172,52.15064239501953]]],"type":"Polygon"}

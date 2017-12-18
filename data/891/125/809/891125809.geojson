@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":193.219931,
     "geom:bbox":"5.70982170105,50.8238143921,5.71186256409,50.824054718",
     "geom:latitude":50.823935,
     "geom:longitude":5.710905,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474495,
+        101751803,
         85633337,
+        85687033,
+        404474495,
         101755867
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688236,
-    "wof:geomhash":"c936c0cf0d4bfecca047f0416e7422b6",
+    "wof:geomhash":"e9a5f30e070c21dae4df0a64df78da89",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751803,
+            "postalcode_id":891125809,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891125809,
-    "wof:lastmodified":1469688236,
+    "wof:lastmodified":1513402698,
     "wof:name":"6229WD",
-    "wof:parent_id":101755867,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.709821701049805,
-    50.823814392089844,
-    5.711862564086914,
+    5.7098217010498,
+    50.82381439208984,
+    5.71186256408691,
     50.82405471801758
 ],
   "geometry": {"coordinates":[[[5.71094799041748,50.82392501831055],[5.7098217010498,50.82381439208984],[5.70998477935791,50.82383346557617],[5.71158170700073,50.82402420043945],[5.71186256408691,50.82405471801758],[5.71094799041748,50.82392501831055]]],"type":"Polygon"}

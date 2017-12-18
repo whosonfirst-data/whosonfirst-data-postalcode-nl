@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":20111.250504,
     "geom:bbox":"5.83943128586,50.9473266602,5.84231996536,50.9488296509",
     "geom:latitude":50.948034,
     "geom:longitude":5.840653,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687033,
         102191581,
         404474471,
         85633337,
-        85687033
+        101809617
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688004,
-    "wof:geomhash":"c1c139a8b1d7a42f9d943241f6164369",
+    "wof:geomhash":"ca4b0b36dd3fde80bdaf638096909e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474471,
+            "locality_id":101809617,
             "postalcode_id":891119399,
             "region_id":85687033
         }
     ],
     "wof:id":891119399,
-    "wof:lastmodified":1469688004,
+    "wof:lastmodified":1513402940,
     "wof:name":"6176RA",
-    "wof:parent_id":404474471,
+    "wof:parent_id":101809617,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.839431285858154,
+    5.83943128585815,
     50.94732666015625,
-    5.842319965362549,
-    50.948829650878906
+    5.84231996536255,
+    50.94882965087891
 ],
   "geometry": {"coordinates":[[[5.83983850479126,50.94732666015625],[5.83945798873901,50.94735717773438],[5.83943128585815,50.94822692871094],[5.84086513519287,50.94882965087891],[5.84231996536255,50.94801330566406],[5.84220600128174,50.94787216186523],[5.83983850479126,50.94732666015625]]],"type":"Polygon"}
 }

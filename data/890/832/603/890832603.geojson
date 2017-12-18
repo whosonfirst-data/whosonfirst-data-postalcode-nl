@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":235.655033,
     "geom:bbox":"4.37587976456,51.9312286377,4.37605190277,51.9323005676",
     "geom:latitude":51.931812,
     "geom:longitude":4.37595,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687041,
         102191581,
-        404474273,
+        101751845,
         85633337,
+        85687041,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469676478,
-    "wof:geomhash":"be9a0fe5f857ecd285f982caf8c1da77",
+    "wof:geomhash":"94ded46fe0946e0a9d214410aa2f77c4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751845,
+            "postalcode_id":890832603,
+            "region_id":85687041
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890832603,
-    "wof:lastmodified":1469676478,
+    "wof:lastmodified":1513578849,
     "wof:name":"3121VJ",
-    "wof:parent_id":101751851,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.375879764556885,
+    4.37587976455688,
     51.93122863769531,
-    4.376051902770996,
+    4.376051902771,
     51.93230056762695
 ],
   "geometry": {"coordinates":[[[4.37594032287598,51.93202590942383],[4.376051902771,51.93122863769531],[4.37603950500488,51.93128204345703],[4.37602710723877,51.93133544921875],[4.37596845626831,51.93159866333008],[4.37593221664429,51.9317626953125],[4.37590789794922,51.9318733215332],[4.37587976455688,51.93230056762695],[4.37594032287598,51.93202590942383]]],"type":"Polygon"}

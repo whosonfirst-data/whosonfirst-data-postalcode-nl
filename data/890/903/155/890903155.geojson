@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":7326.116122,
     "geom:bbox":"5.3883266449,52.1754150391,5.39019870758,52.1762542725",
     "geom:latitude":52.175871,
     "geom:longitude":5.389263,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687039,
         102191581,
         404473971,
         85633337,
+        101751821,
         101837671
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679307,
-    "wof:geomhash":"213f6f90eda9c2ca568637ecb6900ac7",
+    "wof:geomhash":"8081b21a8468ecb52fd7bd93d25567d6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "postalcode_id":890903155,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890903155,
-    "wof:lastmodified":1469679307,
+    "wof:lastmodified":1513619630,
     "wof:name":"3813RL",
-    "wof:parent_id":101837671,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.388326644897461,
+    5.38832664489746,
     52.1754150390625,
-    5.390198707580566,
+    5.39019870758057,
     52.17625427246094
 ],
   "geometry": {"coordinates":[[[5.38860940933228,52.1754150390625],[5.38832664489746,52.1760368347168],[5.39012956619263,52.17625427246094],[5.39019870758057,52.17580413818359],[5.39004755020142,52.17576599121094],[5.38967895507812,52.17567443847656],[5.38926649093628,52.17557144165039],[5.38897848129272,52.17550277709961],[5.38867473602295,52.17543029785156],[5.38860940933228,52.1754150390625]]],"type":"Polygon"}

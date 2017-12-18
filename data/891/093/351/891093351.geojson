@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2882.521296,
     "geom:bbox":"6.1377196312,51.3604850769,6.13913154602,51.361541748",
     "geom:latitude":51.36094,
     "geom:longitude":6.138513,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474525,
         85633337,
+        101839199,
         101839251
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469686983,
-    "wof:geomhash":"6e5248d19b4d2ca440f3304a07bda560",
+    "wof:geomhash":"86c6c2535bd1f65e8f7a2ca060083fa1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "postalcode_id":891093351,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891093351,
-    "wof:lastmodified":1469686983,
+    "wof:lastmodified":1513403044,
     "wof:name":"5923CD",
-    "wof:parent_id":101839251,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.137719631195068,
+    6.13771963119507,
     51.3604850769043,
-    6.139131546020508,
-    51.361541748046875
+    6.13913154602051,
+    51.36154174804688
 ],
   "geometry": {"coordinates":[[[6.13874912261963,51.3604850769043],[6.1379508972168,51.36129379272461],[6.13790416717529,51.36134338378906],[6.13785791397095,51.36139297485352],[6.1378116607666,51.36144256591797],[6.13771963119507,51.36154174804688],[6.1385760307312,51.36111831665039],[6.13913154602051,51.36062622070312],[6.13874912261963,51.3604850769043]]],"type":"Polygon"}
 }

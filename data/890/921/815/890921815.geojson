@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":281.862615,
     "geom:bbox":"5.47899961472,52.0851478577,5.48071050644,52.0851745605",
     "geom:latitude":52.085159,
     "geom:longitude":5.479835,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473937,
         85633337,
-        85687043
+        101807121
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469680109,
-    "wof:geomhash":"5298546e859232433407b4a1d52d4052",
+    "wof:geomhash":"cfdba880826fb8f62342b879401bce9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473937,
+            "locality_id":101807121,
             "postalcode_id":890921815,
             "region_id":85687043
         }
     ],
     "wof:id":890921815,
-    "wof:lastmodified":1469680109,
+    "wof:lastmodified":1513366518,
     "wof:name":"3925VP",
-    "wof:parent_id":404473937,
+    "wof:parent_id":101807121,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.478999614715576,
-    52.085147857666016,
-    5.480710506439209,
-    52.085174560546875
+    5.47899961471558,
+    52.08514785766602,
+    5.48071050643921,
+    52.08517456054688
 ],
   "geometry": {"coordinates":[[[5.48071050643921,52.08516693115234],[5.48064613342285,52.08514785766602],[5.47907638549805,52.08514785766602],[5.47899961471558,52.08515548706055],[5.47916507720947,52.08517074584961],[5.47922039031982,52.08517456054688],[5.48071050643921,52.08516693115234]]],"type":"Polygon"}
 }

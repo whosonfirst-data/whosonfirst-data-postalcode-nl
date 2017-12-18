@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":133.738776,
     "geom:bbox":"4.63136482239,52.4048576355,4.63201236725,52.4057540894",
     "geom:latitude":52.405322,
     "geom:longitude":4.631702,
@@ -17,18 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687053,
         102191581,
         404474047,
         85633337,
-        101754795
+        101754795,
+        404474061,
+        101751897
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469671273,
-    "wof:geomhash":"6285a4b8a267fc0a256e88a8ef507467",
+    "wof:geomhash":"cefb85a72426c76ce62a2e87aafa8889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +41,20 @@
             "locality_id":101754795,
             "postalcode_id":890701463,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474061,
+            "locality_id":101751897,
+            "postalcode_id":890701463,
+            "region_id":85687053
         }
     ],
     "wof:id":890701463,
-    "wof:lastmodified":1469671273,
+    "wof:lastmodified":1513448648,
     "wof:name":"2024BR",
-    "wof:parent_id":101754795,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.631364822387695,
+    4.6313648223877,
     52.40485763549805,
-    4.632012367248535,
+    4.63201236724854,
     52.40575408935547
 ],
   "geometry": {"coordinates":[[[4.63192939758301,52.40565872192383],[4.63201236724854,52.40575408935547],[4.63160276412964,52.40515518188477],[4.6313648223877,52.40485763549805],[4.63185405731201,52.40555572509766],[4.63192939758301,52.40565872192383]]],"type":"Polygon"}

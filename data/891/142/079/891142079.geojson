@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3759.511297,
     "geom:bbox":"6.02136898041,50.855682373,6.02302265167,50.8565788269",
     "geom:latitude":50.856168,
     "geom:longitude":6.022255,
@@ -17,19 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
-        404474467,
+        404474489,
         85633337,
+        101839255,
+        404474467,
         101839719
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469689027,
-    "wof:geomhash":"73d00a140e9a01b1ca449421bf6d041b",
+    "wof:geomhash":"732b3acbc74d2a5d014dee8eb70e5d5b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "postalcode_id":891142079,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +52,9 @@
         }
     ],
     "wof:id":891142079,
-    "wof:lastmodified":1469689027,
+    "wof:lastmodified":1513403226,
     "wof:name":"6466LN",
-    "wof:parent_id":101839719,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.021368980407715,
-    50.855682373046875,
-    6.023022651672363,
+    6.02136898040771,
+    50.85568237304688,
+    6.02302265167236,
     50.8565788269043
 ],
   "geometry": {"coordinates":[[[6.02275371551514,50.85568237304688],[6.02221393585205,50.85598373413086],[6.02136898040771,50.8565788269043],[6.02203559875488,50.85654449462891],[6.02215051651001,50.85646438598633],[6.0223798751831,50.85630035400391],[6.02302265167236,50.85583877563477],[6.02275371551514,50.85568237304688]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":305.291108,
     "geom:bbox":"6.23179006577,52.1262435913,6.23422670364,52.1263694763",
     "geom:latitude":52.126312,
     "geom:longitude":6.232987,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
+        101837807,
         101837819
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691714,
-    "wof:geomhash":"18c2be20452299713771f4e356fa2c0b",
+    "wof:geomhash":"c756e1b345ed72a5af064edd4a16a4af",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891207149,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891207149,
-    "wof:lastmodified":1469691714,
+    "wof:lastmodified":1513367519,
     "wof:name":"7207KC",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.231790065765381,
-    52.126243591308594,
-    6.234226703643799,
+    6.23179006576538,
+    52.12624359130859,
+    6.2342267036438,
     52.12636947631836
 ],
   "geometry": {"coordinates":[[[6.23179006576538,52.12635803222656],[6.2318925857544,52.12636947631836],[6.23339557647705,52.12630462646484],[6.23397922515869,52.12627029418945],[6.2342267036438,52.12624359130859],[6.23247575759888,52.12632751464844],[6.23179006576538,52.12635803222656]]],"type":"Polygon"}

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":13688.752821,
     "geom:bbox":"5.65400314331,51.6548194885,5.65630054474,51.6569328308",
     "geom:latitude":51.655798,
     "geom:longitude":5.655313,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474437,
         85633337,
-        101839397
+        101839397,
+        101839391
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685109,
-    "wof:geomhash":"d8ee78adc37aa78a7a7f32714b562dc6",
+    "wof:geomhash":"2737d6fb0ddce10d27dc5be6e6affebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101839397,
             "postalcode_id":891042537,
             "region_id":85687035
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "postalcode_id":891042537,
+            "region_id":85687035
         }
     ],
     "wof:id":891042537,
-    "wof:lastmodified":1469685109,
+    "wof:lastmodified":1513431864,
     "wof:name":"5405BR",
-    "wof:parent_id":101839397,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.654003143310547,
+    5.65400314331055,
     51.65481948852539,
     5.65630054473877,
     51.65693283081055

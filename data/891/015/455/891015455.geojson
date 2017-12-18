@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":15488.706803,
     "geom:bbox":"5.05172014236,51.6859893799,5.05524682999,51.6868743896",
     "geom:latitude":51.686443,
     "geom:longitude":5.053564,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474451,
         85633337,
+        101839403,
         101839421
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469684056,
-    "wof:geomhash":"0c7a88b4907762cc147afb598e80afde",
+    "wof:geomhash":"f828bcabc26c6594f60f6a417585a72c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839403,
+            "postalcode_id":891015455,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891015455,
-    "wof:lastmodified":1469684056,
+    "wof:lastmodified":1513431920,
     "wof:name":"5141BM",
-    "wof:parent_id":101839421,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.051720142364502,
+    5.0517201423645,
     51.68598937988281,
-    5.055246829986572,
+    5.05524682998657,
     51.68687438964844
 ],
   "geometry": {"coordinates":[[[5.05296325683594,51.68673324584961],[5.05524682998657,51.68687438964844],[5.05496120452881,51.68643188476562],[5.054603099823,51.68613052368164],[5.05333566665649,51.68598937988281],[5.05230236053467,51.68615341186523],[5.0517201423645,51.68663787841797],[5.05296325683594,51.68673324584961]]],"type":"Polygon"}

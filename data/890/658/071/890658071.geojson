@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":12608.177364,
     "geom:bbox":"4.74723863602,52.4853096008,4.74974775314,52.488155365",
     "geom:latitude":52.486617,
     "geom:longitude":4.748447,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687053,
         102191581,
         404474143,
         85633337,
-        101754827
+        101754827,
+        101754787
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469669376,
-    "wof:geomhash":"73c3f31dd0b5659bf7c166a8a1526b80",
+    "wof:geomhash":"5b6d7454b44319ebf2c13b033081c131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101754827,
             "postalcode_id":890658071,
             "region_id":85687053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101754787,
+            "postalcode_id":890658071,
+            "region_id":85687053
         }
     ],
     "wof:id":890658071,
-    "wof:lastmodified":1469669376,
+    "wof:lastmodified":1513449155,
     "wof:name":"1567GA",
-    "wof:parent_id":101754827,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.747238636016846,
+    4.74723863601685,
     52.48530960083008,
-    4.749747753143311,
-    52.488155364990234
+    4.74974775314331,
+    52.48815536499023
 ],
   "geometry": {"coordinates":[[[4.74957323074341,52.48553466796875],[4.74932622909546,52.48530960083008],[4.74803733825684,52.48665618896484],[4.74729299545288,52.48745346069336],[4.74723863601685,52.48815536499023],[4.74974775314331,52.48569869995117],[4.74957323074341,52.48553466796875]]],"type":"Polygon"}
 }

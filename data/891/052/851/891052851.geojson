@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":7200.78865,
     "geom:bbox":"5.38323020935,51.4153175354,5.38460636139,51.4163665771",
     "geom:latitude":51.415819,
     "geom:longitude":5.383868,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685464,
-    "wof:geomhash":"89a91c388c584bc9cf19aad8c8fbeeb5",
+    "wof:geomhash":"dc38f92d8f148f6afc4f9d0b8ec931a5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891052851,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891052851,
-    "wof:lastmodified":1469685464,
+    "wof:lastmodified":1513430521,
     "wof:name":"5506CA",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.383230209350586,
+    5.38323020935059,
     51.41531753540039,
     5.38460636138916,
     51.41636657714844

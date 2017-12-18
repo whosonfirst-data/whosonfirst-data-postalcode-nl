@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
+    "geom:area_square_m":156305.373329,
     "geom:bbox":"5.76136159897,51.424407959,5.78109502792,51.4394836426",
     "geom:latitude":51.432499,
     "geom:longitude":5.770749,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474365,
         85633337,
-        85687035
+        101808339
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469686666,
-    "wof:geomhash":"4c93c6930ad33da32f66053d21964802",
+    "wof:geomhash":"731e255edf17786342cb120c5735c753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474365,
+            "locality_id":101808339,
             "postalcode_id":891084859,
             "region_id":85687035
         }
     ],
     "wof:id":891084859,
-    "wof:lastmodified":1469686666,
+    "wof:lastmodified":1513431149,
     "wof:name":"5756PB",
-    "wof:parent_id":404474365,
+    "wof:parent_id":101808339,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.761361598968506,
-    51.424407958984375,
-    5.781095027923584,
-    51.439483642578125
+    5.76136159896851,
+    51.42440795898438,
+    5.78109502792358,
+    51.43948364257812
 ],
   "geometry": {"coordinates":[[[5.76708936691284,51.43634796142578],[5.78109502792358,51.42440795898438],[5.78003263473511,51.42463684082031],[5.77537679672241,51.42827606201172],[5.76136159896851,51.43932342529297],[5.76175117492676,51.43948364257812],[5.76708936691284,51.43634796142578]]],"type":"Polygon"}
 }

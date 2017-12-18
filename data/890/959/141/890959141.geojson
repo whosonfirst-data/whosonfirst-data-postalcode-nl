@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2628.298849,
     "geom:bbox":"3.90442204475,51.4940338135,3.90554881096,51.4946060181",
     "geom:latitude":51.494354,
     "geom:longitude":3.905012,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687037,
         102191581,
         404474303,
         85633337,
+        101839429,
         101839433
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469681609,
-    "wof:geomhash":"bbc19db039ce1af15d7766db462d1a14",
+    "wof:geomhash":"12a86d8c05289a210619dc10feb1c047",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474303,
+            "locality_id":101839429,
+            "postalcode_id":890959141,
+            "region_id":85687037
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890959141,
-    "wof:lastmodified":1469681609,
+    "wof:lastmodified":1513625541,
     "wof:name":"4462AZ",
-    "wof:parent_id":101839433,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.904422044754028,
+    3.90442204475403,
     51.49403381347656,
-    3.905548810958862,
-    51.494606018066406
+    3.90554881095886,
+    51.49460601806641
 ],
   "geometry": {"coordinates":[[[3.90494322776794,51.49409866333008],[3.90442204475403,51.49430465698242],[3.90496110916138,51.49460601806641],[3.90554881095886,51.49455261230469],[3.90511131286621,51.49403381347656],[3.90494322776794,51.49409866333008]]],"type":"Polygon"}
 }

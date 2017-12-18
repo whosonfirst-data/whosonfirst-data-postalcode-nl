@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3678.624345,
     "geom:bbox":"4.89920759201,52.2960128784,4.90073013306,52.2970962524",
     "geom:latitude":52.296545,
     "geom:longitude":4.900098,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687053,
         102191581,
-        404474109,
+        101751891,
         85633337,
+        85687053,
+        404474109,
         101807395
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469667477,
-    "wof:geomhash":"4c20cb713c9259e46dc70f46de46e922",
+    "wof:geomhash":"47b918dd4f0e967e92a525cf6b35e11b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751891,
+            "postalcode_id":890615225,
+            "region_id":85687053
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":890615225,
-    "wof:lastmodified":1469667477,
+    "wof:lastmodified":1513448466,
     "wof:name":"1184VA",
-    "wof:parent_id":101807395,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.899207592010498,
+    4.8992075920105,
     52.29601287841797,
-    4.900730133056641,
-    52.297096252441406
+    4.90073013305664,
+    52.29709625244141
 ],
   "geometry": {"coordinates":[[[4.90022087097168,52.29629516601562],[4.8992075920105,52.29601287841797],[4.90049171447754,52.29709625244141],[4.90073013305664,52.29697799682617],[4.90065479278565,52.29684829711914],[4.90022087097168,52.29629516601562]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3674.927758,
     "geom:bbox":"5.22293376923,52.1409225464,5.22632741928,52.1432762146",
     "geom:latitude":52.142081,
     "geom:longitude":5.224631,
@@ -17,18 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687039,
         102191581,
         404474019,
         85633337,
-        101837667
+        101837667,
+        404473975,
+        101837657
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469678793,
-    "wof:geomhash":"698b8271ce25c82ab190eff4cfea16e4",
+    "wof:geomhash":"c1150400f2f9d85b41e1be1000e1c1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +41,20 @@
             "locality_id":101837667,
             "postalcode_id":890892627,
             "region_id":85687039
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473975,
+            "locality_id":101837657,
+            "postalcode_id":890892627,
+            "region_id":85687039
         }
     ],
     "wof:id":890892627,
-    "wof:lastmodified":1469678793,
+    "wof:lastmodified":1513620620,
     "wof:name":"3723JV",
-    "wof:parent_id":101837667,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.222933769226074,
+    5.22293376922607,
     52.14092254638672,
-    5.226327419281006,
+    5.22632741928101,
     52.14327621459961
 ],
   "geometry": {"coordinates":[[[5.22497797012329,52.14218902587891],[5.22293376922607,52.14092254638672],[5.22324895858765,52.14121246337891],[5.22378444671631,52.1416130065918],[5.2245683670044,52.14212799072266],[5.22557687759399,52.14279556274414],[5.22632741928101,52.14327621459961],[5.22550582885742,52.14257049560547],[5.22506237030029,52.14224243164062],[5.22497797012329,52.14218902587891]]],"type":"Polygon"}

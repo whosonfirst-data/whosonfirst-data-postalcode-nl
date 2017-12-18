@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1603.65068,
     "geom:bbox":"5.40959024429,52.1950912476,5.41040658951,52.1957168579",
     "geom:latitude":52.195491,
     "geom:longitude":5.409908,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687039,
         102191581,
         404473971,
         85633337,
+        101751821,
         101837671
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469679514,
-    "wof:geomhash":"6133b6de1fa3f8448e4dbcd63ed4cb35",
+    "wof:geomhash":"b4ba80c58d755356c64df346349ffddd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "postalcode_id":890907245,
+            "region_id":85687039
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890907245,
-    "wof:lastmodified":1469679514,
+    "wof:lastmodified":1513619655,
     "wof:name":"3825BK",
-    "wof:parent_id":101837671,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.409590244293213,
-    52.195091247558594,
-    5.410406589508057,
-    52.195716857910156
+    5.40959024429321,
+    52.19509124755859,
+    5.41040658950806,
+    52.19571685791016
 ],
   "geometry": {"coordinates":[[[5.40986394882202,52.19570159912109],[5.41040658950806,52.19571685791016],[5.41020250320435,52.1955451965332],[5.40959024429321,52.19509124755859],[5.40965843200684,52.19554901123047],[5.40986394882202,52.19570159912109]]],"type":"Polygon"}
 }

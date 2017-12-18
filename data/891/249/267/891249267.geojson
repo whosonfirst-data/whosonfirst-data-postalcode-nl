@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8683.579542,
     "geom:bbox":"6.99799108505,52.3215637207,7.00149250031,52.3236465454",
     "geom:latitude":52.322757,
     "geom:longitude":6.999259,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687045,
         102191581,
         404473841,
         85633337,
-        85687045
+        101807149
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469693370,
-    "wof:geomhash":"fa9ce1d7db1f7b339bec0601a994f11e",
+    "wof:geomhash":"c3d45a9030279a6d1a59e37125480764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473841,
+            "locality_id":101807149,
             "postalcode_id":891249267,
             "region_id":85687045
         }
     ],
     "wof:id":891249267,
-    "wof:lastmodified":1469693370,
+    "wof:lastmodified":1513522913,
     "wof:name":"7587LE",
-    "wof:parent_id":404473841,
+    "wof:parent_id":101807149,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -49,9 +53,9 @@
 },
   "bbox": [
     6.99799108505249,
-    52.321563720703125,
-    7.001492500305176,
-    52.323646545410156
+    52.32156372070312,
+    7.00149250030518,
+    52.32364654541016
 ],
   "geometry": {"coordinates":[[[6.99799108505249,52.32311248779297],[6.99822235107422,52.32364654541016],[7.00149250030518,52.32156372070312],[7.00060224533081,52.32193756103516],[6.99799108505249,52.32311248779297]]],"type":"Polygon"}
 }

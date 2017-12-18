@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":76003.060784,
     "geom:bbox":"5.48863840103,52.0948104858,5.49199342728,52.1005249023",
     "geom:latitude":52.097668,
     "geom:longitude":5.490005,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687043,
         102191581,
         404473937,
         85633337,
-        85687043
+        101807121
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469680104,
-    "wof:geomhash":"e62f68e856e8c0c3d9ae983c3a884a78",
+    "wof:geomhash":"b74c80378b94115e9a4927673bad65dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473937,
+            "locality_id":101807121,
             "postalcode_id":890921705,
             "region_id":85687043
         }
     ],
     "wof:id":890921705,
-    "wof:lastmodified":1469680104,
+    "wof:lastmodified":1513366517,
     "wof:name":"3925MT",
-    "wof:parent_id":404473937,
+    "wof:parent_id":101807121,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,9 +52,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.488638401031494,
-    52.094810485839844,
-    5.491993427276611,
+    5.48863840103149,
+    52.09481048583984,
+    5.49199342727661,
     52.10052490234375
 ],
   "geometry": {"coordinates":[[[5.49199342727661,52.10052490234375],[5.49065494537354,52.0960578918457],[5.48863840103149,52.09481048583984],[5.48864698410034,52.09860229492188],[5.49199342727661,52.10052490234375]]],"type":"Polygon"}

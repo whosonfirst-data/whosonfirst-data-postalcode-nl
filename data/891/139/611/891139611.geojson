@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2616.613019,
     "geom:bbox":"5.95556783676,50.9370536804,5.95681810379,50.9377059937",
     "geom:latitude":50.937453,
     "geom:longitude":5.956012,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
         404474485,
         85633337,
-        101839247
+        101839247,
+        101839207
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688930,
-    "wof:geomhash":"fe5895bda2cda645c2f71dfb13ef5fe0",
+    "wof:geomhash":"205c6ae9cfa73a6ac67e39902280f8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,19 @@
             "locality_id":101839247,
             "postalcode_id":891139611,
             "region_id":85687033
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101839207,
+            "postalcode_id":891139611,
+            "region_id":85687033
         }
     ],
     "wof:id":891139611,
-    "wof:lastmodified":1469688930,
+    "wof:lastmodified":1513403079,
     "wof:name":"6444TX",
-    "wof:parent_id":101839247,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.955567836761475,
+    5.95556783676147,
     50.93705368041992,
-    5.956818103790283,
-    50.937705993652344
+    5.95681810379028,
+    50.93770599365234
 ],
   "geometry": {"coordinates":[[[5.95568132400513,50.9376220703125],[5.95681810379028,50.93770599365234],[5.95559787750244,50.93705368041992],[5.95556783676147,50.93723297119141],[5.95559453964233,50.93732833862305],[5.95568132400513,50.9376220703125]]],"type":"Polygon"}
 }

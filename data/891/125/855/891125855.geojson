@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3561.271072,
     "geom:bbox":"5.70477104187,50.8235702515,5.7063574791,50.8245544434",
     "geom:latitude":50.824066,
     "geom:longitude":5.705633,
@@ -17,19 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
-        85687033,
         102191581,
-        404474495,
+        101751803,
         85633337,
+        85687033,
+        404474495,
         101755867
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688237,
-    "wof:geomhash":"88976113ca7cc3b6103b92b049b0fe4c",
+    "wof:geomhash":"19380377c18ea50bf83123c71c9034d2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751803,
+            "postalcode_id":891125855,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +50,9 @@
         }
     ],
     "wof:id":891125855,
-    "wof:lastmodified":1469688237,
+    "wof:lastmodified":1513402702,
     "wof:name":"6229XS",
-    "wof:parent_id":101755867,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.704771041870117,
-    50.823570251464844,
-    5.706357479095459,
-    50.824554443359375
+    5.70477104187012,
+    50.82357025146484,
+    5.70635747909546,
+    50.82455444335938
 ],
   "geometry": {"coordinates":[[[5.70634078979492,50.82450485229492],[5.70635747909546,50.82444763183594],[5.70607042312622,50.82407379150391],[5.70535516738892,50.82375717163086],[5.70477104187012,50.82357025146484],[5.70525741577148,50.8240852355957],[5.70632553100586,50.82455444335938],[5.70634078979492,50.82450485229492]]],"type":"Polygon"}
 }

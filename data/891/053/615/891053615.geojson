@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1415.982685,
     "geom:bbox":"5.40735721588,51.4309997559,5.40825557709,51.4314880371",
     "geom:latitude":51.431236,
     "geom:longitude":5.407816,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474443,
         85633337,
+        101754579,
         101758611
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685496,
-    "wof:geomhash":"6f3b5d917b741d980d9b06ec9173b71b",
+    "wof:geomhash":"e344e3145a3326a474a6bab67ef5f664",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "postalcode_id":891053615,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891053615,
-    "wof:lastmodified":1469685496,
+    "wof:lastmodified":1513430514,
     "wof:name":"5509MX",
-    "wof:parent_id":101758611,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.407357215881348,
-    51.430999755859375,
-    5.408255577087402,
-    51.431488037109375
+    5.40735721588135,
+    51.43099975585938,
+    5.4082555770874,
+    51.43148803710938
 ],
   "geometry": {"coordinates":[[[5.40784692764282,51.43140029907227],[5.4080114364624,51.43148803710938],[5.4082555770874,51.43133926391602],[5.40766143798828,51.43099975585938],[5.40735721588135,51.43109893798828],[5.40752267837524,51.43120956420898],[5.4076943397522,51.43131637573242],[5.40784692764282,51.43140029907227]]],"type":"Polygon"}
 }

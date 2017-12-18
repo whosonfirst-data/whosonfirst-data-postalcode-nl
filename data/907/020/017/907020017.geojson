@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1759.567169,
     "geom:bbox":"5.84925937653,52.451171875,5.85014104843,52.4517860413",
     "geom:latitude":52.451479,
     "geom:longitude":5.8497,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473895,
         85633337,
+        101837785,
         101837809
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469695267,
-    "wof:geomhash":"4965117794e7ffed8259117d15de365f",
+    "wof:geomhash":"64084e719101f6f76a54655dcf5b8544",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "postalcode_id":907020017,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":907020017,
-    "wof:lastmodified":1469695267,
+    "wof:lastmodified":1513367300,
     "wof:name":"8081JV",
-    "wof:parent_id":101837809,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.849259376525879,
+    5.84925937652588,
     52.451171875,
-    5.850141048431396,
-    52.451786041259766
+    5.8501410484314,
+    52.45178604125977
 ],
   "geometry": {"coordinates":[[[5.84994697570801,52.45122909545898],[5.84981679916382,52.451171875],[5.84925937652588,52.45164108276367],[5.84932470321655,52.4516716003418],[5.84945297241211,52.45172882080078],[5.8495831489563,52.45178604125977],[5.8498740196228,52.45154190063477],[5.8501410484314,52.45131683349609],[5.85007524490356,52.45128631591797],[5.84994697570801,52.45122909545898]]],"type":"Polygon"}
 }

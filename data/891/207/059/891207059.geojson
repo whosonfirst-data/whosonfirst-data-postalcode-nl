@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1069.665431,
     "geom:bbox":"6.22498703003,52.1254615784,6.22557163239,52.1259307861",
     "geom:latitude":52.125703,
     "geom:longitude":6.225291,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473961,
         85633337,
+        101837807,
         101837819
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469691710,
-    "wof:geomhash":"ddcf6d913f30c14d86370e86f6332af3",
+    "wof:geomhash":"90bb8adba9186a3e0d52fd087631f312",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473961,
+            "locality_id":101837807,
+            "postalcode_id":891207059,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891207059,
-    "wof:lastmodified":1469691710,
+    "wof:lastmodified":1513367513,
     "wof:name":"7207GA",
-    "wof:parent_id":101837819,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.224987030029297,
+    6.2249870300293,
     52.12546157836914,
-    6.225571632385254,
+    6.22557163238525,
     52.12593078613281
 ],
   "geometry": {"coordinates":[[[6.22517442703247,52.12557983398438],[6.2249870300293,52.12569808959961],[6.22523927688599,52.12593078613281],[6.22557163238525,52.12574005126953],[6.22537660598755,52.12546157836914],[6.22517442703247,52.12557983398438]]],"type":"Polygon"}

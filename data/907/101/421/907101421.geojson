@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":3856.202177,
     "geom:bbox":"6.86079978943,53.092212677,6.86256217957,53.0926589966",
     "geom:latitude":53.092442,
     "geom:longitude":6.861534,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687059,
         102191581,
         404473737,
         85633337,
-        101838025
+        101838025,
+        101838023
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469699473,
-    "wof:geomhash":"7d03668ae10f85fb1aab9e7f1ccedb35",
+    "wof:geomhash":"7abb3e27aabb725f2d1ee0a3a8e0b968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101838025,
             "postalcode_id":907101421,
             "region_id":85687059
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "postalcode_id":907101421,
+            "region_id":85687059
         }
     ],
     "wof:id":907101421,
-    "wof:lastmodified":1469699473,
+    "wof:lastmodified":1513377953,
     "wof:name":"9642EZ",
-    "wof:parent_id":101838025,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.860799789428711,
+    6.86079978942871,
     53.09221267700195,
     6.86256217956543,
     53.09265899658203

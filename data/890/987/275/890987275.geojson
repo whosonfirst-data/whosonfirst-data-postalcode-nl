@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":7820.629794,
     "geom:bbox":"4.72081661224,51.6133270264,4.7245182991,51.615020752",
     "geom:latitude":51.614143,
     "geom:longitude":4.722748,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474363,
         85633337,
+        101751811,
         101754583
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469682946,
-    "wof:geomhash":"7891e3f823cd660674f854c2ecc185a5",
+    "wof:geomhash":"d45c298a0979d56b4e6cd62cbdd1b460",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474363,
+            "locality_id":101751811,
+            "postalcode_id":890987275,
+            "region_id":85687035
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":890987275,
-    "wof:lastmodified":1469682946,
+    "wof:lastmodified":1513429701,
     "wof:name":"4822TV",
-    "wof:parent_id":101754583,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.720816612243652,
+    4.72081661224365,
     51.61332702636719,
-    4.724518299102783,
-    51.615020751953125
+    4.72451829910278,
+    51.61502075195312
 ],
   "geometry": {"coordinates":[[[4.72451829910278,51.61502075195312],[4.72423505783081,51.61473083496094],[4.72199153900146,51.61355590820312],[4.72081661224365,51.61332702636719],[4.72335243225098,51.61464309692383],[4.72451829910278,51.61502075195312]]],"type":"Polygon"}
 }

@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":52.789621,
     "geom:bbox":"5.26561880112,51.7492637634,5.26655769348,51.7492790222",
     "geom:latitude":51.749272,
     "geom:longitude":5.266056,
@@ -17,18 +18,22 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687035,
         102191581,
         404474393,
         85633337,
-        101751809
+        101751809,
+        85687043,
+        404473917,
+        1158783411
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469684773,
-    "wof:geomhash":"5d5c3edc397e7065e096fe3cd6902a5c",
+    "wof:geomhash":"68e1d6c1613cbfccc040fc88ea359612",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +42,20 @@
             "locality_id":101751809,
             "postalcode_id":891033883,
             "region_id":85687035
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473917,
+            "locality_id":1158783411,
+            "postalcode_id":891033883,
+            "region_id":85687043
         }
     ],
     "wof:id":891033883,
-    "wof:lastmodified":1469684773,
+    "wof:lastmodified":1513367872,
     "wof:name":"5321VM",
-    "wof:parent_id":101751809,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.265618801116943,
-    51.749263763427734,
-    5.266557693481445,
+    5.26561880111694,
+    51.74926376342773,
+    5.26655769348145,
     51.7492790222168
 ],
   "geometry": {"coordinates":[[[5.26590871810913,51.74926376342773],[5.26561880111694,51.74927520751953],[5.26655769348145,51.7492790222168],[5.26619815826416,51.749267578125],[5.26590871810913,51.74926376342773]]],"type":"Polygon"}

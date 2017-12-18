@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9475.241495,
     "geom:bbox":"5.5886554718,51.8848648071,5.59133434296,51.8857841492",
     "geom:latitude":51.885406,
     "geom:longitude":5.590402,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473889,
         85633337,
+        101837761,
         101837825
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469689763,
-    "wof:geomhash":"5770b299718496c7e78c41bfffe91e43",
+    "wof:geomhash":"746be9ca857091d8eaa34716c86c1196",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473889,
+            "locality_id":101837761,
+            "postalcode_id":891159373,
+            "region_id":85687043
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891159373,
-    "wof:lastmodified":1469689763,
+    "wof:lastmodified":1513367158,
     "wof:name":"6651JT",
-    "wof:parent_id":101837825,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.588655471801758,
-    51.884864807128906,
-    5.591334342956543,
+    5.58865547180176,
+    51.88486480712891,
+    5.59133434295654,
     51.88578414916992
 ],
   "geometry": {"coordinates":[[[5.59111452102661,51.88491821289062],[5.58865547180176,51.88554763793945],[5.59080505371094,51.88577651977539],[5.59120321273804,51.88578414916992],[5.59133434295654,51.88509368896484],[5.59132242202759,51.88486480712891],[5.59111452102661,51.88491821289062]]],"type":"Polygon"}

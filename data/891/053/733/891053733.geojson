@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10803.536978,
     "geom:bbox":"5.34063339233,51.3981208801,5.34344053268,51.3991394043",
     "geom:latitude":51.398627,
     "geom:longitude":5.342038,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687035,
         102191581,
         404474371,
         85633337,
-        85687035
+        101809727
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469685499,
-    "wof:geomhash":"6250eccdb51949b8ef4eaaa9975c68a7",
+    "wof:geomhash":"d197bfb9e88a69eae5d361b653178766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474371,
+            "locality_id":101809727,
             "postalcode_id":891053733,
             "region_id":85687035
         }
     ],
     "wof:id":891053733,
-    "wof:lastmodified":1469685499,
+    "wof:lastmodified":1513431346,
     "wof:name":"5511MC",
-    "wof:parent_id":404474371,
+    "wof:parent_id":101809727,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.340633392333984,
+    5.34063339233398,
     51.39812088012695,
-    5.343440532684326,
-    51.399139404296875
+    5.34344053268433,
+    51.39913940429688
 ],
   "geometry": {"coordinates":[[[5.34065532684326,51.39844512939453],[5.34063339233398,51.39846801757812],[5.34238958358765,51.39913940429688],[5.34330368041992,51.39884948730469],[5.34344053268433,51.39863204956055],[5.34105205535889,51.39812088012695],[5.34065532684326,51.39844512939453]]],"type":"Polygon"}
 }

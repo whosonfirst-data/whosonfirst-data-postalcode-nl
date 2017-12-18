@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":110671.535169,
     "geom:bbox":"6.19367742538,52.3250350952,6.20072174072,52.330116272",
     "geom:latitude":52.327278,
     "geom:longitude":6.196589,
@@ -17,30 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85687045,
         102191581,
         404474663,
         85633337,
-        85687045
+        101855401
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469695469,
-    "wof:geomhash":"acd971ab4a84808b32f387c1ffdbd6fb",
+    "wof:geomhash":"e88d4a1abb040f4009c51e8a9ec9ae46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474663,
+            "locality_id":101855401,
             "postalcode_id":907024069,
             "region_id":85687045
         }
     ],
     "wof:id":907024069,
-    "wof:lastmodified":1469695469,
+    "wof:lastmodified":1513523772,
     "wof:name":"8124PG",
-    "wof:parent_id":404474663,
+    "wof:parent_id":101855401,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -48,10 +52,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.193677425384521,
-    52.325035095214844,
-    6.200721740722656,
-    52.330116271972656
+    6.19367742538452,
+    52.32503509521484,
+    6.20072174072266,
+    52.33011627197266
 ],
   "geometry": {"coordinates":[[[6.19543933868408,52.32601547241211],[6.19367742538452,52.32834625244141],[6.19399929046631,52.33011627197266],[6.19835567474365,52.32756423950195],[6.20072174072266,52.32503509521484],[6.20052671432495,52.32503509521484],[6.19543933868408,52.32601547241211]]],"type":"Polygon"}
 }

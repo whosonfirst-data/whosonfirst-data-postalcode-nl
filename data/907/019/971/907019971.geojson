@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":7.066303,
     "geom:bbox":"5.84861803055,52.4507827759,5.84923410416,52.4508857727",
     "geom:latitude":52.450834,
     "geom:longitude":5.848928,
@@ -17,18 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687043,
         102191581,
         404473895,
         85633337,
-        101837809
+        101837809,
+        101837785
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469695265,
-    "wof:geomhash":"711a9aa4ae6ffbafe4a432301b5ad2d0",
+    "wof:geomhash":"312607e0e6cc2d0bcedc7195523e5df2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -37,12 +40,20 @@
             "locality_id":101837809,
             "postalcode_id":907019971,
             "region_id":85687043
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "postalcode_id":907019971,
+            "region_id":85687043
         }
     ],
     "wof:id":907019971,
-    "wof:lastmodified":1469695265,
+    "wof:lastmodified":1513367298,
     "wof:name":"8081HR",
-    "wof:parent_id":101837809,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.848618030548096,
-    52.450782775878906,
-    5.849234104156494,
+    5.8486180305481,
+    52.45078277587891,
+    5.84923410415649,
     52.45088577270508
 ],
   "geometry": {"coordinates":[[[5.84874773025513,52.45086288452148],[5.8486180305481,52.45088577270508],[5.84899091720581,52.45082473754883],[5.84910488128662,52.4508056640625],[5.84923410415649,52.45078277587891],[5.84886121749878,52.45084381103516],[5.84874773025513,52.45086288452148]]],"type":"Polygon"}

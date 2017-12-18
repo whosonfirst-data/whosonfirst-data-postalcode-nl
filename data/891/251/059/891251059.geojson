@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8980.306956,
     "geom:bbox":"6.64225387573,52.3633575439,6.64680051804,52.3673362732",
     "geom:latitude":52.365499,
     "geom:longitude":6.644507,
@@ -17,19 +18,29 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687045,
         102191581,
         404473819,
         85633337,
+        101751863,
         101754769
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469693447,
-    "wof:geomhash":"750132641146ea2a46c77debdc97aa29",
+    "wof:geomhash":"d6fb09c176e81e0522c6c77946ebae32",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "postalcode_id":891251059,
+            "region_id":85687045
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +51,9 @@
         }
     ],
     "wof:id":891251059,
-    "wof:lastmodified":1469693447,
+    "wof:lastmodified":1513522313,
     "wof:name":"7602PA",
-    "wof:parent_id":101754769,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -50,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.642253875732422,
+    6.64225387573242,
     52.36335754394531,
-    6.646800518035889,
+    6.64680051803589,
     52.36733627319336
 ],
   "geometry": {"coordinates":[[[6.6425347328186,52.36722946166992],[6.64472055435181,52.36560821533203],[6.64680051803589,52.36335754394531],[6.64644527435303,52.36362457275391],[6.64225387573242,52.36733627319336],[6.6425347328186,52.36722946166992]]],"type":"Polygon"}

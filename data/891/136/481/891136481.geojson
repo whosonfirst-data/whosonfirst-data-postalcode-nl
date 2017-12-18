@@ -10,6 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":835.256842,
     "geom:bbox":"6.00124979019,50.8836326599,6.00183057785,50.8846130371",
     "geom:latitude":50.884148,
     "geom:longitude":6.001616,
@@ -17,19 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_clustr":1,
+    "mz:is_current":-1,
     "src:geom":"oa",
     "wof:belongsto":[
         85687033,
         102191581,
-        404474467,
+        404474485,
         85633337,
+        101839245,
+        404474467,
         101839719
     ],
     "wof:breaches":[],
     "wof:country":"NL",
     "wof:created":1469688817,
-    "wof:geomhash":"3088e30bb2568d21a60514ae19f873fe",
+    "wof:geomhash":"e7daa00a43134030cb73dda4dbaf9958",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839245,
+            "postalcode_id":891136481,
+            "region_id":85687033
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -40,9 +52,9 @@
         }
     ],
     "wof:id":891136481,
-    "wof:lastmodified":1469688817,
+    "wof:lastmodified":1513403194,
     "wof:name":"6416SZ",
-    "wof:parent_id":101839719,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
@@ -52,8 +64,8 @@
   "bbox": [
     6.00124979019165,
     50.88363265991211,
-    6.001830577850342,
-    50.884613037109375
+    6.00183057785034,
+    50.88461303710938
 ],
   "geometry": {"coordinates":[[[6.00136423110962,50.88374328613281],[6.00124979019165,50.88363265991211],[6.0018196105957,50.88461303710938],[6.00182628631592,50.88456344604492],[6.00183057785034,50.88436508178711],[6.00168180465698,50.88409042358398],[6.00154066085815,50.88391876220703],[6.00146961212158,50.88384628295898],[6.00136423110962,50.88374328613281]]],"type":"Polygon"}
 }
